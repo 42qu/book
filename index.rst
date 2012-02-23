@@ -11,7 +11,6 @@
 .. toctree::
    :glob:
    :maxdepth: 2
-   :numbered:
     
    linux/index
    tool/git
