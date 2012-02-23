@@ -6,13 +6,20 @@
 42qu.com 编程漫游指南
 ===================================
 
-Contents:
+
 
 .. toctree::
    :maxdepth: 2
    :glob:
 
-   web/*
+   web/xshell
+   web/linux
+   web/git
+   web/vim
+   web/wsgi
+   web/nginx
+   web/tornado
+
    note/huhuchen/* 
 
 
