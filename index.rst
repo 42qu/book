@@ -14,8 +14,8 @@
    :numbered:
     
    linux/index
+   tool/git
    web/xshell
-   web/git
    web/vim
    web/wsgi
    web/nginx
