@@ -9,3 +9,5 @@ web开发
 .. include:: web/wsgi.rst
 .. include:: web/nginx.rst
 .. include:: web/tornado.rst
+.. include:: web/smarttools.rst
+
