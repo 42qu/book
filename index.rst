@@ -10,8 +10,9 @@
 
 .. toctree::
    :glob:
+   :maxdepth: 2
    :numbered:
-
+    
    linux/index
    web/xshell
    web/git
