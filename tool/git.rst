@@ -1,4 +1,4 @@
-git
+Git
 ===================================================================
 
 
@@ -18,19 +18,11 @@ git
 资料
 -------------------------------------------------------------------
 
-github help:set up git
+#. `github help:set up git <http://help.github.com/linux-set-up-git/>`_
 
-http://help.github.com/linux-set-up-git/
+#. `github help:create a repo <http://help.github.com/create-a-repo/>`_
 
-
-github help:create a repo
-
-http://help.github.com/create-a-repo/
-
-
-github中文文档（蒋鑫）
-
-http://www.worldhello.net/gotgithub/index.html
+#. `github中文文档（蒋鑫） <http://www.worldhello.net/gotgithub/index.html>`_
 
 
 

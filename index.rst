@@ -9,12 +9,12 @@
 
 
 .. toctree::
-   :maxdepth: 2
    :glob:
-
+   :maxdepth: 2
+    
+   linux/index
+   tool/git
    web/xshell
-   web/linux
-   web/git
    web/vim
    web/wsgi
    web/nginx
