@@ -11,7 +11,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   web
 
+   myplan
 
 Indices and tables
 ==================
