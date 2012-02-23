@@ -1,19 +1,27 @@
-.. webbook documentation master file, created by
+.. 42qu-book documentation master file, created by
    sphinx-quickstart on Wed Feb 22 20:55:14 2012.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to webbook's documentation!
+42qu.com 编程漫游指南
 ===================================
 
-Contents:
+
 
 .. toctree::
    :maxdepth: 2
+   :glob:
 
-   web
+   web/xshell
+   web/linux
+   web/git
+   web/vim
+   web/wsgi
+   web/nginx
+   web/tornado
 
-   myplan
+   note/huhuchen 
+
 
 Indices and tables
 ==================
