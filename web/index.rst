@@ -7,4 +7,6 @@
    book
    overview
    blog
+   site
+
 
