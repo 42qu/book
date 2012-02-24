@@ -1,7 +1,13 @@
 参考书籍
-==============================
+--------------------------------
 
-
+#. `网页设计师 <https://bitbucket.org/zuroc/42qu-school/src/02ffbde7b7e4/book/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E5%B8%88.chm>`_
 #. `CSS中文手册 <https://bitbucket.org/zuroc/42qu-school/src/02ffbde7b7e4/book/css.chm>`_
     
+
+网络资源
+--------------------------------
+
+#. `iconfinder 图标搜索引擎 <http://www.iconfinder.com/>`_
+
 
