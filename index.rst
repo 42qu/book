@@ -21,7 +21,6 @@
    web/nginx
    web/tornado
 
-   note/huhuchen 
    readme
 
 Indices and tables
