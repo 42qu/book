@@ -6,8 +6,5 @@
 .. toctree::
    book
    overview
-   step_by_step
-   tool/index
-   js/index
-
+   blog
 
