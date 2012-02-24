@@ -8,3 +8,8 @@
 #. `腾讯CDC <http://cdc.tencent.com/>`_
 
 
+国外博客
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#. `designm <http://designm.ag/>`_
+#. `web design ledger <http://webdesignledger.com>`_
+
