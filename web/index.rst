@@ -6,7 +6,7 @@
 .. toctree::
    book
    overview
-   blog
+   tool/index
    site
-
+   blog
 
