@@ -12,6 +12,7 @@
    :glob:
    :maxdepth: 2
     
+   web/index
    linux/index
    tool/git
    web/xshell
@@ -21,7 +22,7 @@
    web/tornado
 
    note/huhuchen 
-
+   readme
 
 Indices and tables
 ==================
