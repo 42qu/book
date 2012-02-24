@@ -13,4 +13,3 @@
     #. `生成器 <http://kissy.googlecode.com/svn/trunk/src/cssgrids/css-generator.html>`_
     #. `同一个html结构的40种不同布局 <http://blog.html.it/layoutgala/>`_ 
 
-#. `css盒模型 Flash 演示 <http://redmelon.net/tstme/box_model/>`_
