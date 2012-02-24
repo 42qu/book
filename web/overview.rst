@@ -70,6 +70,7 @@ meta
               茫茫人海，擦肩而过多少陌生人。
               42区，这是相遇的地方 ...">
 
-
+  .. image:: _image/meta_description.png
+     :alt: 百度搜索中显示的description 
 
 
