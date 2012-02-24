@@ -98,7 +98,6 @@ html_theme = 'default'
 # documentation.
 html_theme_options = {
     'externalrefs':'true',
-    'collapsiblesidebar':'true',
     'linkcolor':'#01a',
     'visitedlinkcolor':'#01a',
     'bodyfont':'Segoe UI,Tahoma,Verdana,Arial,Helvetica,sans-serif',
