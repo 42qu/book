@@ -5,9 +5,4 @@
 #. `CSS中文手册 <https://bitbucket.org/zuroc/42qu-school/src/02ffbde7b7e4/book/css.chm>`_
     
 
-网络资源
---------------------------------
-
-#. `iconfinder 图标搜索引擎 <http://www.iconfinder.com/>`_
-
 
