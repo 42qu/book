@@ -16,6 +16,28 @@ Arch 和 Debian 其实都不错, 但由于他们是包管理是基于编译好�
 常用命令
 ----------------------------------------------------------------
 
+tail
+
+用途：获取目标档案内容的后面几行
+
+常用参数：tail [-nf] 档案
+     
+           -n：后面接数字代表显示几行的意思
+          
+           -f: 表示持续侦测后面所接的档名，要等到按下ctrl+c才会结束tail侦测
+
+用法演示： tail -n 20 /var/log/nginx/error.log
+         
+           显示档案error.log的最后20行
+
+相关网址：
+        
+          `Linux and Unix tail command <http://www.computerhope.com/unix/utail.htm>`_
+      
+
+
+      
+     
 
 
 
