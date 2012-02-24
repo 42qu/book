@@ -125,17 +125,8 @@ body
 
 具体详情 见  `HTML中文手册 <https://bitbucket.org/zuroc/42qu-school/src/02ffbde7b7e4/book/html.chm>`_
 
+使用Firebug可以快速学习现有页面上有哪些元素
 
-
-
-
-
-
-
-
-
-
-
-
+参见 网页前端 » 工具 » Firefox 插件 » Firebug 审查元素
 
 
