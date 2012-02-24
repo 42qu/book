@@ -24,8 +24,11 @@ Editplus - Windows下的编写工具
 #. 快捷键 Ctrl + B 可以 在 浏览器模式 和 编辑模式中切换
 
 
-HTML 基础
+HTML 
 ------------------------------
+
+基本结构
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 一个最基本的HTML ::
 
@@ -76,11 +79,11 @@ title 标题
 
 供搜索引擎显示的这个页面的摘要::
 
-        <meta name="description" content="无数故事，读完后， 一笑而过。
-              下班的地铁，你还是你，我还是我。
-              认识一个人， 要多少缘分？
-              茫茫人海，擦肩而过多少陌生人。
-              42区，这是相遇的地方 ...">
+    <meta name="description" content="无数故事，读完后， 一笑而过。
+          下班的地铁，你还是你，我还是我。
+          认识一个人， 要多少缘分？
+          茫茫人海，擦肩而过多少陌生人。
+          42区，这是相遇的地方 ...">
 
 .. image:: _image/meta_description.png
    :alt: 百度搜索中显示的description 
@@ -93,9 +96,14 @@ favicon 小图标
 
     <link rel="icon" type="image/x-icon" href="favicon.ico">
 
-其实呢? 可以不写 ... 浏览器有默认值 , 演示如下 ::
+其实呢? 可以不写 ... 浏览器有默认值 为 域名/favicon.ico
 
-    http://42qu.com/favicon.ico
+演示如下 ::
+
+    http://zuroc.42qu.com/favicon.ico
+
+.. image:: _image/favicon.png
+   :alt: 浏览器上的小图标 
 
 也就是网站根目录下的 favicon.ico
 
@@ -105,6 +113,12 @@ favicon 小图标
 
 放一个 , 设置为永久缓存, 可以减轻网站服务器的压力
 
+
+body
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+详细内容 见 本章参考书籍 的 `HTML中文手册 <https://bitbucket.org/zuroc/42qu-school/src/02ffbde7b7e4/book/html.chm>`_
+..........................................
 
 
 
