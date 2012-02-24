@@ -9,8 +9,8 @@
 
 #. Grids Layout for Taobao 
     
-    #. `演示页面 <http://kissy.googlecode.com/svn/trunk/src/cssgrids/grids-taobao.html>` 
-    #. `生成器 <http://kissy.googlecode.com/svn/trunk/src/cssgrids/css-generator.html>` 
-    
+    #. `演示页面 <http://kissy.googlecode.com/svn/trunk/src/cssgrids/grids-taobao.html>`_ 
+    #. `生成器 <http://kissy.googlecode.com/svn/trunk/src/cssgrids/css-generator.html>`_
+    #. `同一个html结构的40种不同布局 <http://blog.html.it/layoutgala/>`_ 
 
 
