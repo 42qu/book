@@ -4,7 +4,4 @@
 .. toctree::
 
    tool/index
-   css/index
-   js/index
-
 
