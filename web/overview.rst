@@ -21,6 +21,9 @@ Editplus - Windows下的编写工具
     
     快捷键 Ctrl+Shift+N
 
+#. 快捷键 Ctrl + B 可以 在 浏览器模式 和 编辑模式中切换
+
+
 HTML 基础
 ------------------------------
 
@@ -80,7 +83,7 @@ title 标题
               42区，这是相遇的地方 ...">
 
 .. image:: _image/meta_description.png
- :alt: 百度搜索中显示的description 
+   :alt: 百度搜索中显示的description 
 
 
 favicon 小图标
@@ -96,7 +99,7 @@ favicon 小图标
 
 也就是网站根目录下的 favicon.ico
 
-网站根目录下的 favicon.ico 最好可以访问;
+网站根目录下的 favicon.ico 最好可以访问
 
 如果它不存在 , 浏览器每次打开页面都会重新请求这个文件 , 因为 404 请求不会被浏览器缓存
 
