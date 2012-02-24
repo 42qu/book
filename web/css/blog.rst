@@ -12,4 +12,6 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #. `designm <http://designm.ag/>`_
 #. `web design ledger <http://webdesignledger.com>`_
+#. `speckyboy <http://speckyboy.com/>`_
+
 
