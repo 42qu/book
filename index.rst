@@ -6,7 +6,7 @@
 42qu.com 编程漫游指南
 ===================================
 
-本书可以在 `book.42qu.com <http://book.42qu.com>`_ 在线阅读。
+本书网址 :  `book.42qu.com <http://book.42qu.com>`_ 
 
 
 .. toctree::
