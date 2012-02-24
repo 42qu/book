@@ -12,6 +12,7 @@
    :glob:
    :maxdepth: 2
     
+   web/index
    linux/index
    tool/git
    web/xshell
