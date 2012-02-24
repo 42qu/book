@@ -27,10 +27,4 @@ Don't panic ( 不要恐慌 )
 
    readme
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
