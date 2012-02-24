@@ -28,10 +28,6 @@ Editplus - Windows下的编写工具
 
 
 .. include:: html.rst
-
-
-CSS
-------------------------------
-.. include:: css/link.rst
-.. include:: css/blog.rst
+.. include:: link.rst
+.. include:: blog.rst
 
