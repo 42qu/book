@@ -138,9 +138,9 @@ div 的 布局
 
 #. 居中 margin:auto 
 
-#. 左浮动 float:left;
+#. 左浮动 float:left
 
-#. 右浮动 float:right; 
+#. 右浮动 float:right 
 
 
 
