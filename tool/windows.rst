@@ -93,6 +93,11 @@ SftpDriver : 挂载SSH服务器到本地硬盘
        :alt:  sftpdriver映射成功
 
 
+.. _ietester:
+
+IEtester : 测试各个版本的IE浏览器
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+http://www.my-debugbar.com/wiki/IETester/HomePage
 
 
 
