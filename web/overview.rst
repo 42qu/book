@@ -224,10 +224,16 @@ CSS3
 ###########################################
 
 #. 首先 `点此打包下载 源代码 <https://github.com/42qu/book/zipball/master>`_
+
 #. 布局学习的目录是 /book/file/css_js_realfex/layout  
+
 #. 样式学习的目录是 /book/file/css_js_realfex/style
-#. `点此下载 Beyond Compare 3 <https://bitbucket.org/zuroc/42qu-school/downloads/bcompare-zh.zip>`_ , 对比每一步文件的差异学习
+
+#. `点此下载 Beyond Compare 3 <https://bitbucket.org/zuroc/42qu-school/downloads/bcompare-zh.zip>`_ , 对比每一步文件的差异学习 
+    .. image:: _image/bycompare.png
+
 #. 自己新开一个文件 , 对照页面尝试编写
+
 #. 可以使用 Firebug 查看每一步的细节样式
 
 
