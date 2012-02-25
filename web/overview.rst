@@ -251,12 +251,10 @@ Javascript
 
 Javascript 常用库
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#. http://jquery.com/ Jquery
-#. http://odyniec.net/projects/imgareaselect/ imgareaselect图片剪裁
-#. http://unwrongest.com/projects/defaultvalue/ 输入框默认值
-#. http://unwrongest.com/projects/highlight/ Highlight文字高亮
-#. http://fancybox.net/ FancyBox弹出框
-#. http://vadikom.com/demos/poshytip/ Poshy Tip jQuery Plugin 消息提示
-#. http://mustache.github.com/ Javascript模板
-#. http://www.douban.com/swf/player.swf 音频播放器
+#. `Jquery <http://jquery.com/>`_
+#. `imgareaselect图片剪裁 <http://odyniec.net/projects/imgareaselect/>`_
+#. `输入框默认值 <http://unwrongest.com/projects/defaultvalue/>`_ 
+#. `Highlight文字高亮 <http://unwrongest.com/projects/highlight/>`_
+#. `FancyBox弹出框 <http://fancybox.net/>`_ 
+#. `Poshy Tip jQuery Plugin 消息提示 <http://vadikom.com/demos/poshytip/>`_
 
