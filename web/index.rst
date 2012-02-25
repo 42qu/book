@@ -6,9 +6,7 @@
 .. toctree::
    book
    overview
-   step_by_step
    tool/index
-   css/index
-   js/index
-
+   site
+   blog
 

@@ -1,5 +1,7 @@
-开始旅程 
-==============================
+概述
+==============================================
+
+本章作者 : 张沈鹏 `zuroc.42qu.com <http://zuroc.42qu.com>`_ 
 
 准备工作
 ------------------------------
@@ -22,6 +24,8 @@ Editplus - Windows下的编写工具
     快捷键 Ctrl+Shift+N
 
 #. 快捷键 Ctrl + B 可以 在 浏览器模式 和 编辑模式中切换
+
+
 
 
 HTML 
@@ -122,19 +126,50 @@ body
 
 具体详情 见  `HTML中文手册 <https://bitbucket.org/zuroc/42qu-school/src/02ffbde7b7e4/book/html.chm>`_
 
-别人说过的我就不说了
+使用Firebug可以快速学习现有页面上有哪些元素
 
-Firebug
+参见 网页前端 » 工具 » Firefox 插件 » Firebug 审查元素
+
+
+CSS
+------------------------------
+
+大布局
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+栅格布局
+...........................................
+
+#. `960 Grid System <http://960.gs/>`_
+
+#. `Simple grid system <http://www.gridsystemgenerator.com/gs04.php?GridWidth=940&GridColumns=6&GridMarginLeft=20>`_
+
+
+几栏布局
+...........................................
+
+#. Grids Layout for Taobao 
+    
+    #. `演示页面 <http://kissy.googlecode.com/svn/trunk/src/cssgrids/grids-taobao.html>`_ 
+    #. `生成器 <http://kissy.googlecode.com/svn/trunk/src/cssgrids/css-generator.html>`_
+    #. `同一个html结构的40种不同布局 <http://blog.html.it/layoutgala/>`_ 
+
+
+布局框架
 ...........................................
 
 
+#. `Twitter 开源的WEB前端框架 Bootstrap <http://www.infoq.com/cn/news/2012/02/bootstrap-2.0.1-released>`_ 
+
+#. `27 款经典的CSS 框架 <http://www.iteye.com/news/20054>`_
 
 
 
 
-
-
-
+小样式
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#. `css盒模型 Flash 演示 <http://redmelon.net/tstme/box_model/>`_
 
 
 
