@@ -1,7 +1,7 @@
 概述
 ==============================================
 
-本章作者 : 张沈鹏 `zuroc.42qu.com <http://zuroc.42qu.com>`_ 
+:作者: 张沈鹏 `zuroc.42qu.com <http://zuroc.42qu.com>`_  
 
 
 
