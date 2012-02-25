@@ -13,7 +13,7 @@ snagit32
 
 下载地址：
 
-
+https://bitbucket.org/zuroc/42qu-school/downloads
 
 
 
@@ -21,14 +21,27 @@ snagit32
 SftpDriver
 ---------------------------------------------------
 
-基本介绍
+#. 基本介绍
 
 本地电脑挂载远程主机硬盘，可以把SSH服务器映射成Windows网络驱动器的工具，用户可以方便地在本地进行删除，编辑等操作，就像在本地硬盘上一样方便.
 
+#. 使用说明：
 
-下载地址
+安装好软件后，填写下图中红色部分，依次是驱动名（本地映射的硬盘名将是此名）、服务器域名或ip、服务器登录用户名、服务器登录密码，之后点击connect。
+
+.. image::  _image/SftpDriver.png
+   :alt:  sftpdriver连接信息
 
 
+最终在“我的电脑”里将出现下图所示映射硬盘，点击进入，每次上传文件只需要将本地文件复制到该硬盘下相应目录下即可。
+
+.. image::  _image/SftpDriver2.png
+   :alt:  sftpdriver映射成功
+
+
+#. 下载地址
+
+https://bitbucket.org/zuroc/42qu-school/downloads
 
 
 
