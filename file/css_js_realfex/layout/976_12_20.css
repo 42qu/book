@@ -1,0 +1,44 @@
+/*
+976px grid system ~ Core CSS.
+12 Columns ~ Margin left: 20px
+
+Based on the simple grid system - http://www.webnicer.com/
+by Jacek Ciolek
+
+Created by the Grid System Generator - v1.00
+Learn more ~ http://www.gridsystemgenerator.com/
+*/
+
+/* clearfix */
+.clearfix:after, .row:after {content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.clearfix, .row {display:inline-block;} /*Those two .clearfix have to be separate!)*/
+.clearfix, .row {display:block;}
+
+/* gridframework */
+.row {position:relative; margin-left:-20px;}
+.gu1 .row {width: 83px;}
+.gu2 .row {width: 166px;}
+.gu3 .row {width: 249px;}
+.gu4 .row {width: 332px;}
+.gu5 .row {width: 415px;}
+.gu6 .row {width: 498px;}
+.gu7 .row {width: 581px;}
+.gu8 .row {width: 664px;}
+.gu9 .row {width: 747px;}
+.gu10 .row {width: 830px;}
+.gu11 .row {width: 913px;}
+.gu12 .row {width: 996px;}
+
+.col {padding-left:20px; float:left; position:relative;}
+.gu1{width: 63px;}
+.gu2{width: 146px;}
+.gu3{width: 229px;}
+.gu4{width: 312px;}
+.gu5{width: 395px;}
+.gu6{width: 478px;}
+.gu7{width: 561px;}
+.gu8{width: 644px;}
+.gu9{width: 727px;}
+.gu10{width: 810px;}
+.gu11{width: 893px;}
+.gu12{width: 976px;}

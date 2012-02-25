@@ -1,0 +1,87 @@
+<meta charset="utf-8">
+<link href="reset.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="../js/jquery-1.4.3.min.js"></script>
+
+<script>
+	$(function(){
+		var i=1,b2=$('.b2'),b3=$('.b3');
+		for(;i<9;++i){
+			$('.b1').append('<a href="javascript:void(0)" class="ctrl_a" id="ctrl'+i+'"><span class="ctrl_text">'+i+"&"+String(i+1)+'</span></a>')
+		}
+		$('#ctrl1').addClass('selected')
+		$('.ctrl_a').click(function(){
+			$('.selected').removeClass('selected')
+			var num = $(this).addClass('selected').attr('id').substr(4)
+			b2.find('iframe').attr('src','style'+num+'.htm')
+			b2.find('.num').text(num)
+			b2.find('.bar a').attr('href','style'+num+'.htm')
+			b3.find('iframe').attr('src','style'+(Number(num)+1)+'.htm')
+			b3.find('.num').text(Number(num)+1)
+			b3.find('.bar a').attr('href','style'+(Number(num)+1)+'.htm')
+		})
+	})
+</script>
+
+<style>
+.b2,.b3{
+float:left;
+}
+.b1{
+position:fixed;
+height:100%;
+width:100px;
+top:0;
+left:0;
+background:#f3f3f3;
+}
+.b2{
+margin-left:100px;
+padding:0 32px;
+border-right:1px dotted #ccc;
+}
+.b3{
+padding:0 32px;
+}
+.bar{
+padding:16px;
+border-bottom:1px dotted #ccc;
+text-align:center;
+}
+.bar a{
+font-size:16px;
+color:#666;
+}
+.num{
+color:#d20;
+font-size:22px;
+margin-left:6px;;
+}
+.ctrl_a{
+display:block;
+font-size:22px;
+color:#d20;
+padding:14px;
+text-align:center;
+letter-spacing:4px;
+}
+.ctrl_a:hover{
+background:#d20;
+color:#fff;
+}
+.selected{
+color:#000;
+text-decoration:underline;
+}
+</style>
+
+<div class="b1">
+
+</div>
+<div class="b2">
+	<div class="bar"><a href="style1.htm" target="_blank">style<span class="num">1</span>.htm</a></div>
+	<iframe width=500 height=620 frameborder=0 scrolling=auto src=style2.htm></iframe>
+</div>
+<div class="b3">
+	<div class="bar"><a href="style2.htm" target="_blank">style<span class="num">2</span>.htm</a></div>
+	<iframe width=500 height=620 frameborder=0 scrolling=auto src=style6.htm></iframe>
+</div>

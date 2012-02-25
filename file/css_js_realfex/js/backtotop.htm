@@ -1,0 +1,50 @@
+<meta charset="utf-8">
+<style>
+.content{
+width:550px;
+height:2000px;
+background:#f3f3f3;
+margin:0 auto;
+text-align:center;
+color:#d20;
+font-size:32px;
+padding-top:40px;
+}
+#sB{
+bottom:14px;
+display:none;
+position:fixed;
+right:22px;
+background:url(http://s4.42qu.us/img/gif/back_home3.gif) no-repeat;
+display:block;
+width:36px;
+height:33px;
+}
+</style>
+
+<script type="text/javascript" src="jquery-1.4.3.min.js"></script>
+<script>
+$(function(){
+	var win = $(window),
+		back = $('#sB');
+	back.hide();
+	win.scroll(function() {
+		if (win.scrollTop() >= 512) {
+			back.fadeIn();
+		}
+		else {
+			back.fadeOut();
+		}
+	})
+	back.click(function() {
+		back.hide();
+		win.scrollTop(0);
+		return false;
+	})
+})
+</script>
+
+<div class="content">
+	回到顶部 演示
+	<a href="javascript:void(0)" id="sB"></a>
+</div>
