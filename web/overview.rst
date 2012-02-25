@@ -188,10 +188,10 @@ div 的 布局
 小工具
 ...........................................
 
-#.  :ref:`ColorMania : 屏幕取色 <color_mania>`
-#.  :ref:`iconfinder 图标搜索引擎 <iconfinder>`
-#.  :ref:`IEtester 测试各个版本的IE浏览器 <ietester>`
-
+#. :ref:`ColorMania : 屏幕取色 <color_mania>`
+#. :ref:`iconfinder 图标搜索引擎 <iconfinder>`
+#. :ref:`IEtester 测试各个版本的IE浏览器 <ietester>`
+#. :ref:`Scrapbook : 山寨别人页面的神器 <scrapbook>`
 
 CSS3
 ...........................................
@@ -235,5 +235,11 @@ CSS3
 #. 自己新开一个文件 , 对照页面尝试编写
 
 #. 可以使用 Firebug 查看每一步的细节样式
+
+
+
+
+
+
 
 
