@@ -14,16 +14,17 @@ Don't panic ( 不要恐慌 )
     
    web/index
    tool/index
+   42qu/index
+   rst
+   help
+   about 
+
+..
    linux/index
    web/xshell
    web/vim
    web/wsgi
    web/nginx
    web/tornado
-   42qu/index
-   rst
-   help
-   about 
-
 
 
