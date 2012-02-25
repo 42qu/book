@@ -28,5 +28,3 @@ Don't panic ( 不要恐慌 )
    readme
    help
    about 
-
-   
