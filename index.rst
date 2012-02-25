@@ -3,10 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-42qu.com 编程漫游指南
+42区漫游指南
 ===================================
 
-本书网址 :  `book.42qu.com <http://book.42qu.com>`_ 
+
+Don't panic ( 不要恐慌 )
+-----------------------------------
+本书网址 :  `book.42qu.com <http://book.42qu.com>`_ 使用前请阅读：`使用须知<>`_ 
 
 
 .. toctree::

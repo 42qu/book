@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'42qu.com 编程漫游指南'
+project = u'42区漫游指南'
 copyright = u'2011, 42qu.com'
 
 # The version info for the project you're documenting, acts as replacement for
