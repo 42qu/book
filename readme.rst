@@ -11,8 +11,8 @@
 Windows用户, 如果你下载的参考文献中 .chm 文件无法浏览 , 按下面的步骤操作即可正确查看。
 
 
-.. image::  _image/download1.png
-   :alt: css中文手册下载步骤1
+.. image::  _image/download.png
+   :alt: css中文手册提示
 
 
 
