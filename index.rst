@@ -17,14 +17,13 @@ Don't panic ( 不要恐慌 )
    :maxdepth: 1
     
    web/index
+   tool/index
    linux/index
-   tool/git
    web/xshell
    web/vim
    web/wsgi
    web/nginx
    web/tornado
-   tool/windows
    readme
 
 
