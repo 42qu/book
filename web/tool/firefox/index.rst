@@ -5,4 +5,4 @@ Firefox 插件
 
    firebug
    scrapbook
-
+   livehttpheader
