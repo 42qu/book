@@ -217,11 +217,15 @@ CSS3
 实例学习 - 仿造 点名时间 写页面
 ...........................................
 
-#. `页面原型 <http://42qu.github.com/book/file/css_js_realfex/demo>`_
+#. `页面原型 <http://42qu.github.com/book/file/css_js_realfex/demo>`_ 
 #. `一步一步仿写 <http://42qu.github.com/book/file/css_js_realfex/>`_
 
+如何自学 ?
+###########################################
 
-
+#. 首先 `点此打包下载 源代码 <https://github.com/42qu/book/zipball/master>`_
+#. 布局学习的目录是 /book/file/css_js_realfex/layout  
+#. 样式学习的目录是 /book/file/css_js_realfex/style
 
 
 
