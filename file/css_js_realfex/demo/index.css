@@ -1,0 +1,148 @@
+/* ::::: http://assets.demohour.com/stylesheets/css.css?1330080264 ::::: */
+
+* {  }
+html, body { height: 100%; }
+body { font-family: helvetica,'Helvetica Neue',arial,"liberation sans",freesans,sans-serif; margin: 0pt; padding: 0pt; border: 0pt none; background: none repeat scroll 0% 0% rgb(255, 255, 255); font-size: 13px; color: rgb(51, 51, 51); text-align: center; min-width: 960px; outline-style: none; outline-width: 0pt; line-height: 20px; }
+div, form, img, ul, ol, li, dl, dt, dd { margin: 0pt; padding: 0pt; border: 0pt none; list-style-type: none; }
+input, p, span { margin: 0pt; padding: 0pt; }
+.content, .hcontent, .banner, .projectscontent, .project-chart { width: 960px; margin: 0px auto; text-align: left; clear: both; display: block; overflow: hidden; }
+A, A:link, A:visited, A:active { color: rgb(102, 153, 0); text-decoration: none; outline: medium none; cursor: pointer; }
+A:hover { color: rgb(153, 204, 0); text-decoration: none; outline: medium none; cursor: pointer; }
+.layout_home_index, .layout_projects_latest, .layout_projects_ended, .layout_projects_backed, .layout_projects_created, .layout_projects_recommended, .layout_projects_will_be_ended, .layout_projects_index, .layout_campaigns_one_yuan, .layout_users_show { background: none repeat scroll 0% 0% rgb(242, 242, 242); }
+#headwrap, p.slogan, #discover, .messageswarp A span.nums, .slogantext span, .newproject, .newproject A, .newprojectover, .newprojectover A, ul.zhuce li.zhuceon, ul.zhuce li.zhucepress, ul.zhuce li.zhuceover { background: url('head.gif') no-repeat scroll left top transparent; }
+#headwrap { background-color: rgb(255, 255, 255); background-position: left -784px; background-repeat: repeat-x; width: 100%; text-align: center; overflow: hidden; border-bottom: 1px solid rgb(214, 214, 214); }
+.head { height: 49px; overflow: hidden; line-height: 49px; padding: 0px; width: 960px; display: block; clear: both; margin: 0px auto; color: rgb(51, 51, 51); font-size: 13px; text-align: left; }
+.head p.slogan { background-position: -5px -201px; width: 360px; height: 49px; line-height: 49px; overflow: hidden; float: left; padding-left: 41px; }
+.head p.slogan span { float: left; }
+ul.menu { float: right; display: block; overflow: hidden; margin: 0px -6px 0px 0px; padding: 0px; color: rgb(77, 77, 77); }
+ul.menu li { margin: 0px; padding: 0px; z-index: 0; display: block; float: left; overflow: hidden; text-align: left; }
+ul.menu a { color: rgb(77, 77, 77); display: block; float: left; clear: both; margin: 0px; overflow: hidden; padding: 0px 10px; }
+ul.menu a:visited, ul.menu a:active { color: rgb(77, 77, 77); }
+ul.menu a:hover { color: rgb(142, 138, 138); }
+.messageswarp A { float: left; }
+.messageswarp A span { float: left; }
+.messageswarp A span.nums { display: none; background-position: left -432px; width: 29px; height: 24px; overflow: hidden; line-height: 18px; padding: 0px; white-space: nowrap; color: rgb(255, 255, 255); text-align: center; position: absolute; top: 1px; margin: 0px 0px 0px -1px; }
+ul.menu li.home { margin: 0px; }
+ul.menu li#discover { background-position: right -434px; margin: 0px 10px 0px 0px; padding: 0px 26px 0px 0px; }
+ul.menu li#mydemohour { margin: 0px 10px 0px 2px; }
+ul.menu li.messageswarp { overflow: hidden; width: 48px; }
+ul.menu li#mydemohour a { float: left; margin: 0px; clear: none; }
+ul.menu li#mydemohour a.usernemeaa { display: block; float: left; }
+ul.menu li#mydemohour a.usernemeaa img.touxiang { width: 23px; height: 23px; overflow: hidden; border: 1px solid rgb(210, 209, 209); float: left; margin: 10px 6px 0px 0px; }
+ul.menu li#mydemohour a.usernemeaa span { float: left; max-width: 78px; overflow: hidden; padding: 0px; margin: 0px 14px 0px 0px; white-space: nowrap; text-overflow: ellipsis; }
+ul.menu li#mydemohour a.usernemeaa, ul.menu li#myproject a.myproject, ul.menu li#discover a.discover { background: url('dhdian.gif') no-repeat scroll right 20px transparent; }
+ul.menu li#mydemohour a.usernemeaa, ul.menu li#myproject a.myproject, ul.menu li#discover a.discover { padding: 0px; background-position: right 20px; }
+ul.menu li#mydemohour a.usernemeaa:hover, ul.menu li#myproject a.myproject:hover, ul.menu li#discover a.discover:hover { background-position: right -28px; }
+ul.menu li#myproject { margin: 0px 17px 0px 1px; }
+ul.menu li#myproject a.myproject { padding: 0px 0px 0px 12px; overflow: hidden; }
+ul.menu li#discover a.discover { padding: 0px 0px 0px 12px; }
+#myproject a span { margin: 0px 14px 0px 4px; float: left; }
+.top { margin: 0px auto; width: 960px; overflow: hidden; text-align: left; height: 124px; }
+.logo { width: 228px; margin: 16px 25px 0px 0px; float: left; display: block; padding: 0px; }
+.slogantext { width: 460px; overflow: hidden; float: left; margin: 10px 0px 0px; }
+.slogantext p { width: 445px; float: left; text-align: left; margin: 0px; }
+.slogantext p img { clear: both; display: block; }
+.slogantext span { background-position: left -505px; height: 105px; width: 1px; overflow: hidden; display: block; float: right; }
+.newproject, .newprojectover { background-position: left top; width: 222px; height: 98px; overflow: hidden; float: right; margin: 8px 0px 0px; text-indent: -2000px; }
+.newproject A, .newproject A:visited, .newproject A:active { clear: both; display: block; margin-top: 51px; height: 47px; overflow: hidden; background-position: left -51px; }
+.newproject A:hover { background-position: left -98px; }
+.head .menu .messages .messagesconscroll, .head .menu .messages .messagesfoot, .head .menu .messages .messagestop, .head .menu .messages .zhidao, .head ul.menu li ul.menulist, .head ul.menu li ul.menulist li a { background: url('messages.png') no-repeat scroll left top transparent; width: 290px; overflow: hidden; clear: both; display: block; margin: 0px; padding: 0px; }
+.head ul.menu li ul.menulist { clear: both; display: none; overflow: hidden; text-align: center; position: absolute; width: 114px; z-index: 999; background-position: -984px bottom; float: none; }
+.head ul.menu li ul.menulist li { clear: both; display: block; overflow: hidden; margin: 0px; padding: 0px; width: 114px; height: 33px; }
+.head ul.menu li ul.menulist li A, .head ul.menu li ul.menulist li A:visited, .head ul.menu li ul.menulist li A:active { clear: both; display: block; overflow: hidden; font-size: 14px; width: 114px; height: 33px; line-height: 33px; float: none; background-position: -870px top; text-align: center; color: rgb(115, 153, 0); }
+.head ul.menu li ul.menulist li a:hover { color: rgb(102, 153, 0); background-position: -1098px top; }
+.head ul.menu li#myproject ul.menulist { padding: 0px 0px 7px; margin: 31px 0px 0px -16px; }
+.head ul.menu li#mydemohour ul.menulist { padding: 0px 0px 7px; margin: 31px 0px 0px; }
+.head ul.menu li ul.menulist li.toplines { height: 11px; clear: both; display: block; padding: 5px 0px 0px; margin: 0px 0px -1px; position: relative; z-index: 999; text-align: center; }
+.head ul.menu li ul.menulist li.toplines img { float: left; }
+.head ul.menu li#discover a span { margin: 0px 14px 0px 0px; padding: 0px; float: left; }
+.head ul.menu li#discover ul.menulist { padding: 0px 0px 7px; margin: 31px 0px 0px -31px; }
+.head ul.menu li#discover ul.menulist li A, .head ul.menu li#discover ul.menulist li A:visited, .head ul.menu li#discover ul.menulist li A:active { text-align: left; padding-left: 10px; width: 104px; }
+.head p.slogan span { text-shadow: 0px 1px 0px rgb(255, 255, 255); }
+.head p.slogan span { display: block; clear: both; }
+ul.menu li a span.nums { text-shadow: none; filter: none; }
+ul.menu li.shadow a { padding: 0px 6px 0px 10px; }
+.head .menu .messages { display: none; position: absolute; padding: 2px 0px 0px; margin: 32px 0px 0px -22px; z-index: 99999; width: 290px; overflow: hidden; }
+.head .menu .messages .messagestop { height: 30px; }
+.head .menu .messages .messagesfoot { background-position: -580px bottom; clear: both; display: block; margin: 0px; padding: 1px 0px; height: 20px; overflow: hidden; }
+.head .menu .messages .messagesconscroll, .head .menu .messages .zhidao { background-position: -290px top; background-repeat: repeat-y; }
+.head .menu .messages .zhidao { text-align: right; clear: both; display: block; margin: 0px; padding: 10px 0px 5px; overflow: hidden; }
+.head .menu .messages .zhidao a, .head .menu .messages .zhidao a:visited, .head .menu .messages .zhidao a:active, .head .menu .messages .zhidao a:hover { border: medium none; cursor: pointer; float: right; margin: 0px; width: 73px; height: 41px; overflow: hidden; text-indent: 2000px; background: url('zhidao.gif') no-repeat scroll left top transparent; }
+.head .menu .messages .zhidao a:hover { background-position: left top; }
+.head .menu .messages ul { overflow: hidden; width: 277px; float: left; margin: 0px; padding: 0px; }
+.head .menu .messages .zhidao a.zhidaomore, .head .menu .messages .zhidao a.zhidaomore:visited, .head .menu .messages .zhidao a.zhidaomore:active, .head .menu .messages .zhidao a.zhidaomore:hover { display: block; margin: -36px 0px 0px; padding: 0px; height: 30px; line-height: 30px; text-indent: 0px; float: left; background: none repeat scroll 0% 0% transparent; color: rgb(115, 153, 0); }
+.head .menu .messages .zhidao a.zhidaomore:hover { color: rgb(102, 153, 0); }
+.footerwrap { line-height: 20px; background: none repeat scroll 0% 0% rgb(244, 244, 244); font-size: 12px; border-top: 1px solid rgb(230, 230, 230); width: 100%; margin: 20px auto 0px; clear: both; display: block; }
+.footer { padding: 20px 0px; width: 960px; margin: 0px auto; text-align: right; color: rgb(153, 153, 153); }
+.footer a { padding-right: 10px; margin-right: 10px; display: block; white-space: nowrap; float: left; border-right: 1px solid rgb(230, 230, 230); }
+.footer a.last { border-right: 0px solid rgb(230, 230, 230); margin-right: 0px; }
+.urllist { width: 990px; display: block; clear: both; margin: 0px; overflow: hidden; text-align: left; }
+.urllist ul.projects_off, .urllist ul.projects_on { display: block; float: left; width: 234px; height: 403px; margin: 0px 13px 13px 0px; padding: 11px 0px 0px; overflow: hidden; background: url('projectsbj.gif') no-repeat scroll right top rgb(255, 255, 255); }
+.urllist ul.projects_off { background-position: left top; }
+.urllist ul li { margin: 0px 0px 0px 7px; padding: 0px 5px; display: block; clear: both; line-height: 16px; width: 210px; overflow: hidden; }
+.urllist ul li.list01 {  }
+.urllist ul li.list01 a { display: block; clear: both; position: relative; height: 252px; overflow: hidden; padding-left: 4px; line-height: 18px; }
+.urllist ul li.list01 a img { text-align: center; display: block; margin-bottom: 6px; width: 210px; height: 210px; overflow: hidden; margin-left: -4px; }
+.urllist ul li.list01 a, .urllist ul li.list01 a:visited, .urllist ul li.list01 a:active { color: rgb(102, 153, 0); font-size: 14px; }
+.urllist ul li.list01 a:hover { color: rgb(153, 204, 0); }
+.urllist ul li.list02, .urllist ul li.list03 { color: rgb(97, 97, 97); font-size: 12px; margin: 3px 7px 3px 6px; padding: 0px 5px 0px 9px; width: 206px; overflow: hidden; }
+.urllist ul li.list02 { height: 16px; overflow: hidden; }
+.urllist ul li.list03 { height: 48px; overflow: hidden; }
+.urllist ul li.list04 { height: 66px; overflow: hidden; border-top: 1px solid rgb(242, 242, 242); margin: 8px 0px 0px 7px; }
+.urllist ul li.list04 .projectpledgedwrap, .urllist ul li.list04 .projectpledged { border-radius: 4px 4px 4px 4px; overflow: hidden; height: 8px; }
+.urllist ul li.list04 .projectpledgedwrap { width: 204px; background: none repeat scroll 0% 0% rgb(213, 213, 213); padding: 0pt; margin: 9px auto 6px; display: block; clear: both; }
+.projectpledged { background: none repeat scroll 0% 0% rgb(135, 196, 66); }
+.urllist ul li.list04 .projectstats { border: 0pt none; color: rgb(153, 153, 153); font-size: 12px; overflow: hidden; height: 40px; margin: 0px 0px 0px 2px; padding: 0pt; width: 150%; }
+.urllist ul li.list04 .projectstats p { font-family: arial,"lucida grande",tahoma,verdana,arial,sans-serif; float: left; text-align: left; display: inline; white-space: nowrap; margin: 0px 3px 0px 0px; padding: 0px; overflow: hidden; }
+.urllist ul li.list04 .projectstats p strong { display: block; color: rgb(102, 102, 102); line-height: 16px; font-size: 14.5px; margin-bottom: 3px; }
+.urllist ul li.list04 .projectstats p.widtha { width: 53px; margin-left: 1px; }
+.urllist ul li.list04 .projectstats p.widthb { width: 94px; margin-left: 4px; margin-right: 4px; }
+.urllist ul li.list04 .projectstats p.widthb strong b { margin-right: 2px; }
+.urllist ul li.list04 .projectstats p.widthc { width: 50px; }
+.urllist ul li.list04 .projectstats p.widthd { width: 60px; margin-left: -10px; }
+.urllistclass, .urllistclassmore, .urllistmore { margin: 0px auto; padding: 0px; overflow: hidden; display: block; clear: both; color: rgb(102, 153, 0); }
+.urllistclass { width: 100%; font-size: 16px; padding: 0px; text-align: left; margin: 20px 0px 0px 6px; color: rgb(51, 51, 51); }
+.urllistclassmore { background: url('urllistclass.gif') repeat-x scroll left 15px transparent; text-align: right; margin: 2px 7px -5px; height: 22px; }
+.urllistclassmore a { font-size: 14px; margin: 0px; background: url('urllistclassmore.gif') no-repeat scroll right 3px rgb(242, 242, 242); padding: 0px 16px 0px 11px; color: rgb(115, 153, 0); }
+.hcontent { width: 975px; }
+.homeprojectwrap { width: 728px; float: left; margin: 0px; padding: 0px; overflow: hidden; display: block; clear: both; }
+.homeprojectwrapright { width: 220px; float: right; margin: 20px 10px 0px 0px; padding: 0px; border-left: 1px solid rgb(204, 204, 204); overflow: hidden; }
+.homeprojectwrap .urllist { width: 741px; }
+.rightcategories { margin: -20px 0px 0px 15px; clear: both; display: block; overflow: hidden; width: 100%; }
+.rightcategories strong, .rightcategories a { clear: both; display: block; font-weight: normal; }
+.rightcategories strong { font-size: 16px; color: rgb(102, 102, 102); margin: 20px 0px 7px; }
+.rightcategories a, .rightcategories a:visited, .rightcategories a:active, .rightcategories a:hover { font-size: 14px; padding-left: 13px; height: 27px; line-height: 27px; color: rgb(115, 153, 0); }
+.rightcategories a:hover, .categorieson { color: rgb(123, 163, 0); background: url('rightcategoriesbj.gif') no-repeat scroll left top transparent; }
+.mark_draft, .mark_running, .mark_closed, .mark_submit, .mark_success { height: 25px; line-height: 25px; width: 102px; position: absolute; z-index: 666; margin: 15px -8px 0px 0px; top: 0px; right: 0px; cursor: pointer; text-align: center; color: rgb(255, 255, 255); }
+.mark_success { background: none repeat scroll 0% 0% rgb(158, 203, 0); }
+#backtop { position: fixed; bottom: 15px; display: none; }
+#backtop a { text-decoration: none; border: medium none; display: block; width: 47px; height: 155px; }
+#backtop a:hover { opacity: 0.8; }
+.backtop { position: absolute; width: 47px; padding: 0px; margin: -150px 0px 0px 966px; }
+.systemnotice { background: none repeat scroll 0% 0% rgb(254, 240, 172); height: 30px; line-height: 30px; margin: -2px auto 0px; width: 100%; display: none; }
+.homeslidebar { display: block; clear: both; width: 716px; height: 302px; margin: 20px 0px 0px 6px; overflow: hidden; padding: 0px; }
+.recommend { display: block; clear: both; padding: 0px; overflow: hidden; height: 281px; width: 716px; background: url('recommendbj.gif') no-repeat scroll left top transparent; }
+.recommendleft { width: 468px; float: left; overflow: hidden; }
+.recommendleft img { margin: 1px 0px 0px 1px; }
+.recommendright { width: 248px; float: right; color: rgb(255, 255, 255); }
+.recommendtitle, .recommendauthor, .recommendamount, .recommendpercentage, .recommendprogress { clear: both; display: block; width: 230px; overflow: hidden; }
+.recommendtitle { margin: 10px 0px 0px 16px; font-size: 16px; line-height: 26px; height: 52px; overflow: hidden; }
+.recommendtitle a { color: rgb(255, 255, 255); }
+.recommendauthor { margin: 6px 0px 0px 16px; font-size: 14px; line-height: 20px; height: 20px; }
+.recommendamount { width: 180px; margin: 47px 0px 6px 35px; font-size: 30px; font-family: arial,"lucida grande",tahoma,verdana,arial,sans-serif; height: 37px; line-height: 35px; overflow: hidden; padding-top: 0px; }
+.recommendpercentage, .percentage { background: url('percentage.gif') repeat-x scroll left top transparent; }
+.recommendpercentage { width: 211px; height: 23px; background-position: left -1px; display: block; clear: both; margin: 0px 0px 0px 16px; padding: 0px 1px; border-radius: 40px 40px 40px 40px; overflow: hidden; }
+.percentage { background-position: left -27px; display: block; clear: both; margin: 1px 0px 0px; padding: 0px; height: 21px; overflow: hidden; border-radius: 40px 40px 40px 40px; }
+.recommendpercentage strong { clear: both; display: block; width: 211px; height: 23px; line-height: 23px; overflow: hidden; position: absolute; margin: -23px 0px 0px; padding: 0px; text-align: center; font-size: 14px; font-weight: normal; }
+.recommendprogress { margin: 35px 0px 0px 15px; padding: 0px; height: 45px; }
+.recommendprogress p, .recommendprogress strong { margin: 0px; padding: 0px; height: 45px; float: left; font-size: 30px; line-height: 35px; font-family: arial,"lucida grande",tahoma,verdana,arial,sans-serif; font-weight: normal; color: rgb(255, 255, 255); }
+.recommendprogress p { margin-right: 21px; width: 110px; }
+.recommendprogress strong { width: 96px; }
+.recommendprogress strong span { display: block; float: left; }
+.recommendprogress strong span.datess { font-size: 16px; line-height: 20px; margin-left: 3px; margin-top: 5px; }
+.slidebarpagination { display: block; clear: both; width: 716px; height: 23px; margin: 4px auto 0px; overflow: hidden; text-align: center; }
+.slidebarpagination ul { margin: 0pt; padding: 0pt; display: inline-block; }
+.slidebarpagination li { float: left; }
+.slidebarpagination li a { float: left; height: 20px; width: 10px; background: url('slidebarpagination.gif') no-repeat scroll left top transparent; overflow: hidden; text-indent: -2000px; margin: 0px 0px 0px 6px; }
+.slidebarpagination li.current a { float: left; width: 10px; background-position: left -27px; }
+.slides_container { width: 716px; overflow: hidden; }

@@ -212,3 +212,16 @@ CSS3
         
         #. `演示 <http://static.csspod.com/demos/2010/css-buttons.html>`_ 
         #. `教程 <http://csspod.com/archives/css3-gradient-buttons>`_
+
+
+实例学习 - 仿造 点名时间 写页面
+...........................................
+
+#. `页面原型 <http://42qu.github.com/book/file/css_js_realfex/demo>`
+#. `一步一步仿写 <http://42qu.github.com/book/file/css_js_realfex/>`
+
+
+
+
+
+
