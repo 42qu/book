@@ -24,6 +24,7 @@ Don't panic ( 不要恐慌 )
    web/wsgi
    web/nginx
    web/tornado
+   tool/windows
    readme
 
 
