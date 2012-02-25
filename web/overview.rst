@@ -186,9 +186,12 @@ Reset Css
 
 小样式
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#. `css盒模型 网页演示 <http://www.brainjar.com/css/positioning/default.asp>`_
 #. `css盒模型 Flash 演示 <http://redmelon.net/tstme/box_model/>`_
 
 
+Firebug 查看对象的 css 盒模型
+..........................................
 
 
 
