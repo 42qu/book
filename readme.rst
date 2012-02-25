@@ -7,7 +7,7 @@
 
 相关讨论请加入 `42qu-book的Google Groups <https://groups.google.com/group/42qu-book>`_
 
-本文档使用 reStructuredText 编写 , 语法请阅读 `Quick reStructuredText <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_
+本文档使用 reStructuredText 编写 , 语法请参见 `Quick reStructuredText <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_
 
 
 
