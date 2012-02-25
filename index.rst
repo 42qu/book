@@ -9,7 +9,7 @@
 
 Don't panic ( 不要恐慌 )
 -----------------------------------
-本书网址 :  `book.42qu.com <http://book.42qu.com>`_  , 请 **务必** 阅读 :ref:`使用须知 <readme>` 
+本书网址 :  `book.42qu.com <http://book.42qu.com>`_  , 请 **务必** 阅读 :ref:`使用须知 <help>` 
 
 
 .. toctree::
@@ -24,6 +24,6 @@ Don't panic ( 不要恐慌 )
    web/wsgi
    web/nginx
    web/tornado
-   readme
+   help 
 
 
