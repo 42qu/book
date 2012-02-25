@@ -9,7 +9,7 @@
 
 Don't panic ( 不要恐慌 )
 -----------------------------------
-本书网址 :  `book.42qu.com <http://book.42qu.com>`_  , 请 **务必** 阅读 :ref:`常见问题 <help>` 
+本书网址 :  `book.42qu.com <http://book.42qu.com>`_  , 请先阅读 :ref:`常见问题 <help>` 
 
 
 .. toctree::
