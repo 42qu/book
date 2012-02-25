@@ -12,4 +12,3 @@ Windows用户, 如果你下载的参考文献中 .chm 文件无法浏览 , 按�
 
 
 
-.. include:: about.rst
