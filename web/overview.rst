@@ -249,3 +249,14 @@ Javascript
 #. `一步一步仿写Javascript <http://42qu.github.com/book/file/css_js_realfex/>`_
 
 
+Javascript 常用库
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#. http://jquery.com/ Jquery
+#. http://odyniec.net/projects/imgareaselect/ imgareaselect图片剪裁
+#. http://unwrongest.com/projects/defaultvalue/ 输入框默认值
+#. http://unwrongest.com/projects/highlight/ Highlight文字高亮
+#. http://fancybox.net/ FancyBox弹出框
+#. http://vadikom.com/demos/poshytip/ Poshy Tip jQuery Plugin 消息提示
+#. http://mustache.github.com/ Javascript模板
+#. http://www.douban.com/swf/player.swf 音频播放器
+
