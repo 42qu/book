@@ -22,7 +22,10 @@ FireBug
 .. image:: _image/firebug_box.png
 
 
+调试Javascript
+...........................................
 
+`用 Firebug 动态调试和优化应用程序 <http://www.ibm.com/developerworks/cn/web/wa-aj-firebug/>`
 
 
 
