@@ -24,7 +24,7 @@ Don't panic ( 不要恐慌 )
    web/wsgi
    web/nginx
    web/tornado
-   42qu/init_env_in_vmware
+   42qu/index
    readme
 
    
