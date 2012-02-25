@@ -59,7 +59,7 @@ EditPlus : 文本编辑器 , 写网页很方便
 
 
 Snagit : 截图软件
----------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 `点此下载 Snagit <https://bitbucket.org/zuroc/42qu-school/downloads/SnagIt.zip>`_
 
@@ -71,7 +71,7 @@ Snagit : 截图软件
 
 
 SftpDriver : 挂载SSH服务器到本地硬盘
----------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 `点此下载 SftpDriver <https://bitbucket.org/zuroc/42qu-school/downloads/SftpDrive.rarSftpDrive.rar>`_
 
