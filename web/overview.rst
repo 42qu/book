@@ -149,7 +149,7 @@ Reset Css
 
 #. `KISSY CSS Reset <https://raw.github.com/kissyteam/kissy/master/src/css/src/reset.css>`_
  
-参见. :ref:`Firebug 查找 / 编辑 元素  <firebug_insert_elem>`
+参见 :ref:`Firebug 查找 / 编辑 元素  <firebug_insert_elem>`
 
 大布局
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
