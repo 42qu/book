@@ -178,6 +178,7 @@ Reset Css
 ...........................................
 
 #.  :ref:`ColorMania : 屏幕取色 <color_mania>`
+#.  :ref:`iconfinder 图标搜索引擎 <iconfinder>`
 
 
 

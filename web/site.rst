@@ -1,6 +1,8 @@
 实用站点
 --------------------------------------------------------------
 
+.. _iconfinder:
+
 #. `iconfinder 图标搜索引擎 <http://www.iconfinder.com/>`_
 
 #. `KISSY CSS Reset <https://raw.github.com/kissyteam/kissy/master/src/css/src/reset.css>`_
