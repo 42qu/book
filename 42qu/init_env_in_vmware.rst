@@ -4,6 +4,13 @@
 准备 bitbucket.org 的帐号
 -------------------------------------------
 
+注册bitbucket帐号，且在本地生成ssh key后，需要将ssh目录中的public key黏贴至下图所示位置。
+
+
+.. image::  _image/addkey.png
+   :alt:  添加ssh key
+
+
 #TODO
 
 
