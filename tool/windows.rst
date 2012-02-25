@@ -20,6 +20,7 @@ Xshell : 极好用的免费SSH客户端
 
 `点此下载 Xshell <https://bitbucket.org/zuroc/42qu-school/downloads/xshell_3.0.2.53.rar>`_
 
+.. _color_mania:
 
 ColorMania : 屏幕取色
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
