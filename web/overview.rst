@@ -135,7 +135,6 @@ body
 
 使用Firebug可以快速学习现有页面上有哪些元素
 
-参见 网页前端 » 工具 » Firefox 插件 » Firebug 审查元素
 
 
 CSS
@@ -150,6 +149,7 @@ Reset Css
 
 #. `KISSY CSS Reset <https://raw.github.com/kissyteam/kissy/master/src/css/src/reset.css>`_
  
+参见. :ref:`Firebug 查找 / 编辑 元素  <firebug_insert_elem>`
 
 大布局
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
