@@ -1,7 +1,9 @@
+
+.. _rst_tutorial: 
+
 ==========================
 reStructuredText 简明教程
 ==========================
-.. _rst_tutorial: 
 
 :Author: 刘斗 redfork@gmail.com
 :Date: 2010-02-26
