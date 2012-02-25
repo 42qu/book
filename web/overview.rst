@@ -133,7 +133,7 @@ body
 
 具体详情 见  `HTML中文手册 <https://bitbucket.org/zuroc/42qu-school/src/02ffbde7b7e4/book/html.chm>`_
 
-使用Firebug可以快速学习现有页面上有哪些元素
+使用Firebug可以快速学习现有页面上有哪些元素 , 参见 :ref:`Firebug 查找 / 编辑 元素  <firebug_insert_elem>` 
 
 
 
@@ -149,7 +149,6 @@ Reset Css
 
 #. `KISSY CSS Reset <https://raw.github.com/kissyteam/kissy/master/src/css/src/reset.css>`_
  
-参见 :ref:`Firebug 查找 / 编辑 元素  <firebug_insert_elem>`
 
 大布局
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
