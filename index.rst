@@ -9,7 +9,7 @@
 
 Don't panic ( 不要恐慌 )
 -----------------------------------
-本书网址 :  `book.42qu.com <http://book.42qu.com>`_  , 请 **千万务必** 阅读： :ref:`使用须知 <readme>`  
+本书网址 :  `book.42qu.com <http://book.42qu.com>`_  , 请 **务必** 阅读 :ref:`使用须知 <readme>` 
 
 
 .. toctree::
@@ -17,14 +17,13 @@ Don't panic ( 不要恐慌 )
    :maxdepth: 1
     
    web/index
+   tool/index
    linux/index
-   tool/git
    web/xshell
    web/vim
    web/wsgi
    web/nginx
    web/tornado
-   tool/windows
    readme
 
 
