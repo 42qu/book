@@ -12,6 +12,7 @@
 
 英文博客
 --------------------------------
+#. `Web Designer Wall <http://webdesignerwall.com/>`_
 #. `alistapart <http://www.alistapart.com/>`_
 #. `designm <http://designm.ag/>`_
 #. `web design ledger <http://webdesignledger.com>`_

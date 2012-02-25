@@ -208,4 +208,7 @@ CSS3
 
 实际运用
     
-    CSS3渐变按钮 `演示 <http://static.csspod.com/demos/2010/css-buttons.html>` `教程 <http://csspod.com/archives/css3-gradient-buttons>`_
+    CSS3渐变按钮 
+        
+        #. `演示 <http://static.csspod.com/demos/2010/css-buttons.html>`_ 
+        #. `教程 <http://csspod.com/archives/css3-gradient-buttons>`_
