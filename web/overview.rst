@@ -217,8 +217,8 @@ CSS3
 实例学习 - 仿造 点名时间 写页面
 ...........................................
 
-#. `页面原型 <http://42qu.github.com/book/file/css_js_realfex/demo>`
-#. `一步一步仿写 <http://42qu.github.com/book/file/css_js_realfex/>`
+#. `页面原型 <http://42qu.github.com/book/file/css_js_realfex/demo>`_
+#. `一步一步仿写 <http://42qu.github.com/book/file/css_js_realfex/>`_
 
 
 
