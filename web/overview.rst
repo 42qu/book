@@ -196,13 +196,16 @@ div 的 布局
 CSS3
 ...........................................
 
-`CSS3 系列教程 <http://www.blueidea.com/tech/web/2009/6460.asp>`_
+系统学习
 
-内容提要
+    `CSS3 系列教程 <http://www.blueidea.com/tech/web/2009/6460.asp>`_ , 内容提要
 
-#. 圆角
-#. 阴影
-#. 多背景图
-#. 渐变色 `渐变色生成器 <http://gradients.glrzad.com/>`_
+    #. 圆角
+    #. 阴影
+    #. 多背景图
+    #. 渐变色 `渐变色生成器 <http://gradients.glrzad.com/>`_
 
 
+实际运用
+
+    `CSS3渐变按钮 <http://csspod.com/archives/css3-gradient-buttons>`_
