@@ -141,6 +141,16 @@ body
 CSS
 ------------------------------
 
+Reset Css
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+每每有新项目，第一步就是应当使用一个reset.css来重置样式。
+
+#. `Reset CSS研究（八卦篇） <http://ued.taobao.com/blog/2009/03/31/reset_css_a/>`_
+
+#. `KISSY CSS Reset <https://raw.github.com/kissyteam/kissy/master/src/css/src/reset.css>`_
+ 
+
 大布局
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
