@@ -26,4 +26,8 @@ JS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #. `Ajaxian <http://ajaxian.com/>`_
 
+设计
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#. `premiumpixels <http://www.premiumpixels.com/>`_
+
 
