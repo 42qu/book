@@ -25,6 +25,5 @@ Don't panic ( 不要恐慌 )
    web/nginx
    web/tornado
    42qu/index
-   readme
    help
    about 
