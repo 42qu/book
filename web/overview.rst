@@ -34,7 +34,9 @@ HTML
 基本结构
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-一个最基本的HTML ::
+一个最基本的HTML
+
+.. code-block:: html
 
     <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
     <html>
@@ -44,7 +46,9 @@ HTML
         <body></body>
     </html>
 
-更简单的写法 , 非标准  , Google首页是这样写的 ::
+更简单的写法 , 非标准  , Google首页是这样写的 
+
+.. code-block:: html
 
     <!doctype html>
     <html>
@@ -63,7 +67,7 @@ head
 title 标题 
 .......................................... 
 
-::
+.. code-block:: html
 
     <title>42qu.com - 找到给你答案的人</title>
 
@@ -71,7 +75,7 @@ title 标题
 网页编码(字符集)
 .......................................... 
 
-::
+.. code-block:: html
 
     <meta charset="UTF-8">
 
@@ -81,9 +85,12 @@ title 标题
 页面描述
 .......................................... 
 
-供搜索引擎显示的这个页面的摘要::
+供搜索引擎显示的这个页面的摘要
 
-    <meta name="description" content="无数故事，读完后， 一笑而过。
+.. code-block:: html
+
+    <meta name="description" 
+          content="无数故事，读完后， 一笑而过。
           下班的地铁，你还是你，我还是我。
           认识一个人， 要多少缘分？
           茫茫人海，擦肩而过多少陌生人。
@@ -96,7 +103,7 @@ title 标题
 favicon 小图标
 ..........................................
 
-::
+.. code-block:: html
 
     <link rel="icon" type="image/x-icon" href="favicon.ico">
 
