@@ -26,7 +26,7 @@ HTML
         <body></body>
     </html>
 
-更简单的写法 , 非标准  , Google首页是这样写的 
+HTML5的写法更简单 , Google首页就是这样写的 
 
 .. code-block:: html
 
