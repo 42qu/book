@@ -40,7 +40,7 @@ step3
 
 
 
-xshell配置
+设置显示编码
 -------------------------------------------
 
 简单设置一下xshell的字符显示，在下图所示的导航按钮中，勾选“UTF-8”。
@@ -49,8 +49,13 @@ xshell配置
 .. image::  _image/encoding.png
 
 
+如果觉得粗体看着碍眼, 那么可以修正下显示设置
 
-登录取消密码确认
+.. image::  _image/xshell_font_btn.png
+
+
+
+配置密钥登录 , 无需每次输入密码
 ---------------------------------------
 
 为避免每次登录vps都需要重复输入用户名和密码的步骤，可以通过生成.ssh/authorized_keys来减少麻烦。
@@ -82,12 +87,19 @@ id_rsa.pub中的数据拷贝一份到新建的authorized_keys档案中。
 .. image::  _image/reset3.png
 
 
-clone代码
+克隆代码
 --------------------------------------------------
 
-重新登录后，便可以开始clone代码了，执行“hg clone ssh://hg@bitbucket.org/zuroc/zpage”,之后就会在当前目录下生成新目录zpage，其中包括了项目的左右代码，如图所示。
+重新登录后，便可以开始克隆 42qu.com的源代码了
+
+执行::
+
+    hg clone ssh://hg@bitbucket.org/zuroc/zpage
+
+之后就会在当前目录下生成新目录zpage，其中包括了项目的左右代码，如图所示。
 
 .. image::  _image/clone.png
+
    
 
 
