@@ -53,6 +53,8 @@ step3
 
 .. image::  _image/xshell_font_btn.png
 
+.. image::  _image/xshell_font.png
+
 
 
 配置密钥登录 , 无需每次输入密码
