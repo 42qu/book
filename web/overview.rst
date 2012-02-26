@@ -271,5 +271,16 @@ Firebug
 
 `用 Firebug 动态调试和优化应用程序 <http://www.ibm.com/developerworks/cn/web/wa-aj-firebug/>`
 
+CDN
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+新浪 公共资源 
+
+    http://sae.sina.com.cn/?m=devcenter&catId=147
+
+    公共资源包含Jquery, Mootools, Prototype,YUI 等通用JS/CSS Framework；您可以通过地址直接引用。
+
+    公共资源前端采用CDN技术，节点分布在全国各地；用户可以就近取得资源内容, 提升您的应用速度。
+
+    赶快使用公共资源来给您的应用加速吧！
 
