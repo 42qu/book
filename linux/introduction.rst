@@ -45,9 +45,11 @@ step3
 
 简单设置一下xshell的字符显示，在下图所示的导航按钮中，勾选“UTF-8”。
 
-
 .. image::  _image/encoding.png
 
+顺便可以设置下字体
+
+.. image::  _image/xshell_ft.png
 
 如果觉得粗体看着碍眼, 那么可以修正下显示设置
 
