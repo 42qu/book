@@ -21,7 +21,7 @@
 
 下面给出中文参考资料，和上面的英文版内容覆盖是重叠的。如果你能顺利地读下英文版，就不需要了：
 
-#. http://linux-vbird.bluedata.org/ 适合初学者的阅读材料。你可以跳过前几章，从“首次开机和关机”开始阅读。
+#. `鸟哥的 Linux 私房菜  <http://linux-vbird.bluedata.org/>`_ 适合初学者的阅读材料。你可以跳过前几章，从“档案属性与目录配置”开始阅读。
 
 #. `Linux系统命令及其使用详解  <http://wenku.baidu.com/view/d21cf78a6529647d27285212.html>`_ 
 
