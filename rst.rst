@@ -5,9 +5,7 @@
 reStructuredText 简明教程
 ==========================
 
-:Author: 刘斗 redfork@gmail.com
-:Date: 2010-02-26
-:Revision: 1
+:作者: 刘斗 redfork@gmail.com
 
 .. footer:: 青花瓷软件(北京)有限公司 - 2010/02/26
 
