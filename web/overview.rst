@@ -269,7 +269,7 @@ Javascript 常用库
 Firebug
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`用 Firebug 动态调试和优化应用程序 <http://www.ibm.com/developerworks/cn/web/wa-aj-firebug/>`
+`用 Firebug 动态调试和优化应用程序 <http://www.ibm.com/developerworks/cn/web/wa-aj-firebug/>`_
 
 CDN
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
