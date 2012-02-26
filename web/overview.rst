@@ -26,7 +26,7 @@ HTML
         <body></body>
     </html>
 
-更简单的写法 , 非标准  , Google首页是这样写的 
+HTML5的写法更简单 , Google首页就是这样写的 
 
 .. code-block:: html
 
@@ -242,6 +242,13 @@ Javascript
 ------------------------------
 
 
+Jquery
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#. `当年张沈鹏写给美空的Jquery讲义 <http://42qu.github.com/book/file/jquery/>`_
+#. `Jquery API 中文手册 , 很古董的版本 <http://42qu.github.com/book/file/jquery_moko/jquery_api>`_
+
+
+
 实例学习 - 仿造 点点网 写注册页面
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -257,8 +264,23 @@ Javascript 常用库
 #. `Highlight文字高亮 <http://unwrongest.com/projects/highlight/>`_
 #. `FancyBox弹出框 <http://fancybox.net/>`_ 
 #. `Poshy Tip jQuery Plugin 消息提示 <http://vadikom.com/demos/poshytip/>`_
+#. `jquery tokeninput 标签 & 自动补全 <http://loopj.com/jquery-tokeninput/>`_
 
 Firebug
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`用 Firebug 动态调试和优化应用程序 <http://www.ibm.com/developerworks/cn/web/wa-aj-firebug/>`
+`用 Firebug 动态调试和优化应用程序 <http://www.ibm.com/developerworks/cn/web/wa-aj-firebug/>`_
+
+CDN
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+新浪 公共资源 
+
+    http://sae.sina.com.cn/?m=devcenter&catId=147
+
+    公共资源包含Jquery, Mootools, Prototype,YUI 等通用JS/CSS Framework；您可以通过地址直接引用。
+
+    公共资源前端采用CDN技术，节点分布在全国各地；用户可以就近取得资源内容, 提升您的应用速度。
+
+    赶快使用公共资源来给您的应用加速吧！
+

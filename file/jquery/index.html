@@ -1,0 +1,413 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" type="text/css" href="http://developer.yahoo.com/yui/assets/yui.css?v=3" >
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script src="http://jquery-ui.googlecode.com/svn/tags/latest/external/bgiframe/jquery.bgiframe.min.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.1/jquery-ui.min.js" type="text/javascript"></script>
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.1/themes/ui-lightness/jquery-ui.css" type="text/css" media="screen" />
+<style>
+.showbk button{margin-top:.6em;}
+.showbk{margin:.6em auto;width:60%;text-align:center;}
+body,p{font-size:14px;}
+pre{line-height:1.5em}
+h3{margin-bottom:.6em;}
+</style>
+</head>
+<body>
+<div id="doc">
+<h1>Jquery绝对简明手册(未完成...)</h1>
+<p align="right">张沈鹏 2009-3-25 21:03</p>
+<p>Jquery是一个很好用的javascript类库,它的可以简化js编程</p>
+<p>同时配合<a href="http://jqueryui.com/" target="_blank">Jquery UI</a>可以很方便的做出各种拖拽,缩放等等很炫的效果</p>
+<p>下面来介绍一下最常用的用法,Jquery完整的用法还请阅读
+<a href="jQueryAPI/index.html" target="_blank">Jquery Api</a>
+</p>
+
+<h2>文档加载完后,再执行代码</h2>
+<pre>
+$(function(){
+    alert(1)
+})
+</pre>
+<h2>CSS选择器</h2>
+<h3>id选择器</h3>
+<pre>
+HTML:
+
+    &lt;div id="css_select_1"&gt;
+        唉,人生...
+    &lt;/div&gt;
+
+JS:
+
+加边框
+    $('#css_select_1').css({border:'3px dotted #f00'})
+去边框
+    $('#css_select_1').css({border:''})
+</pre>
+<div class="showbk">
+<div id="css_select_1">
+唉,人生...
+</div>
+<button onclick="$('#css_select_1').css({border:'3px dotted #f00'})">加边框</button>
+<button onclick="$('#css_select_1').css({border:''})">去边框</button>
+</div>
+
+<h3>class选择器</h3>
+<pre>
+HTML:
+
+    &lt;div class="who_are_you"&gt;
+        唉,人生...
+    &lt;/div&gt;
+
+JS:
+
+报时间,同时变色
+    $('.who_are_you').text(Date()).css({background:'#369',color:'#fff'})
+插入html
+    $('.who_are_you').html('&lt;input/&gt;').css({background:'',color:''})
+</pre>
+<div class="showbk">
+<div class="who_are_you">
+唉,人生...
+</div>
+<button onclick="$('.who_are_you').text(Date()).css({background:'#369',color:'#fff'})">报时间,同时变色</button>
+<button onclick="$('.who_are_you').html('<input/>').css({background:'',color:''})">插入html</button>
+</div>
+<h3>tag选择器</h3>
+<pre>
+所有 &lt;pre&gt;都淡出
+    $('pre').fadeOut()
+
+所有 &lt;pre&gt;都淡入
+    $('pre').fadeIn()
+</pre>
+<div class="showbk">
+<button onclick="$('pre').fadeOut()">所有 &lt;pre&gt;都淡出</button>
+<button onclick="$('pre').fadeIn()">所有 &lt;pre&gt;都淡入</button>
+</div>
+<h2>绑定事件</h2>
+<pre>
+所有pre鼠标移入后变粗,移出后还原
+
+$('pre').mouseover(function(){
+    $(this).css({fontWeight:"bold"})
+}).mouseout(function(){$(this).css({fontWeight:""})})
+
+当然 还有简便写法
+$('pre').hover(
+    function(){$(this).css({fontWeight:"bold"})},
+    function(){$(this).css({fontWeight:""})}
+)
+
+</pre>
+<script>
+function init_pre(){
+$('pre').hover(
+    function(){$(this).css({fontWeight:"bold"})},
+    function(){$(this).css({fontWeight:""})}
+)
+}
+</script>
+<div class="showbk">
+<button onclick="init_pre()">所有pre鼠标移入后变粗,移出后还原</button>
+</div>
+<h2>Ajax</h2>
+<pre>
+$("#links").load("/xx/xx/xxx");
+其中url /xx/xx/xxx返回 test
+等价于
+    $("#links").html("test")
+
+
+$.get("/xxx/xxx",{name:"张沈鹏"})
+等价于
+/xxx/xxx?name=%E5%BC%A0%E6%B2%88%E9%B9%8F
+
+$.get("/xxx/xxx",{name:"张沈鹏"},function(txt){
+    //txt是返回的内容
+})
+
+如果没有参数可以直接写
+
+$.get("/xxx/xxx",function(txt){
+    //txt是返回的内容
+})
+
+另外还有$.post,用法和$.get类似
+</pre>
+<h2>拖拽(Jquery UI)</h2>
+<pre>
+让所有pre元素可以拖拽
+
+$("pre").draggable();
+</pre>
+<script>
+function init_h2_drag(){
+    $("pre").draggable();
+}
+</script>
+<div class="showbk">
+<button onclick="init_h2_drag()">让pre可以拖拽</button>
+</div>
+<h2>可选择</h2>
+<pre>
+JS:
+    $("#selectable").selectable();
+
+CSS:
+	#selectable .ui-selecting { background: #FECA40; }
+	#selectable .ui-selected { background: #F39814; color: white; }
+	#selectable { list-style-type: none; margin: 0; padding: 0; width: 60%; }
+	#selectable li { margin: 3px; padding: 0.4em; font-size: 1.4em; height: 18px; }
+    
+HTML:
+    &lt;ol id="selectable"&gt;
+    	&lt;li class="ui-widget-content"&gt;Item 1&lt;/li&gt;
+    	&lt;li class="ui-widget-content"&gt;Item 2&lt;/li&gt;
+    	&lt;li class="ui-widget-content"&gt;Item 3&lt;/li&gt;
+    	&lt;li class="ui-widget-content"&gt;Item 4&lt;/li&gt;
+    	&lt;li class="ui-widget-content"&gt;Item 5&lt;/li&gt;
+    	&lt;li class="ui-widget-content"&gt;Item 6&lt;/li&gt;
+    	&lt;li class="ui-widget-content"&gt;Item 7&lt;/li&gt;
+    &lt;/ol&gt;
+</pre>
+<style type="text/css">
+	#selectable .ui-selecting { background: #FECA40; }
+	#selectable .ui-selected { background: #F39814; color: white; }
+	#selectable { list-style-type: none; margin: 0; padding: 0; width: 60%; }
+	#selectable li { margin: 3px; padding: 0.4em; font-size: 1.4em; height: 18px; }
+</style>
+<script type="text/javascript">
+	$(function() {
+		$("#selectable").selectable();
+	});
+</script>
+
+
+<div>
+<ol id="selectable">
+	<li class="ui-widget-content">Item 1</li>
+	<li class="ui-widget-content">Item 2</li>
+	<li class="ui-widget-content">Item 3</li>
+	<li class="ui-widget-content">Item 4</li>
+	<li class="ui-widget-content">Item 5</li>
+	<li class="ui-widget-content">Item 6</li>
+	<li class="ui-widget-content">Item 7</li>
+</ol>
+</div>
+
+
+<h2>可排序</h2>
+<pre>
+CSS:
+	#sortable { list-style-type: none; margin: 0; padding: 0; width: 60%; }
+	#sortable li { margin: 0 3px 3px 3px; padding: 0.4em; padding-left: 1.5em; font-size: 1.4em; height: 18px; }
+	#sortable li span { position: absolute; margin-left: -1.3em; }
+JS:
+    $("#sortable").sortable();
+    $("#sortable").disableSelection();
+
+HTML:
+&lt;ul id="sortable"&gt;
+	&lt;li class="ui-state-default"&gt;&lt;span class="ui-icon ui-icon-arrowthick-2-n-s"&gt;&lt;/span&gt;Item 1&lt;/li&gt;
+	&lt;li class="ui-state-default"&gt;&lt;span class="ui-icon ui-icon-arrowthick-2-n-s"&gt;&lt;/span&gt;Item 2&lt;/li&gt;
+	&lt;li class="ui-state-default"&gt;&lt;span class="ui-icon ui-icon-arrowthick-2-n-s"&gt;&lt;/span&gt;Item 3&lt;/li&gt;
+	&lt;li class="ui-state-default"&gt;&lt;span class="ui-icon ui-icon-arrowthick-2-n-s"&gt;&lt;/span&gt;Item 4&lt;/li&gt;
+	&lt;li class="ui-state-default"&gt;&lt;span class="ui-icon ui-icon-arrowthick-2-n-s"&gt;&lt;/span&gt;Item 5&lt;/li&gt;
+	&lt;li class="ui-state-default"&gt;&lt;span class="ui-icon ui-icon-arrowthick-2-n-s"&gt;&lt;/span&gt;Item 6&lt;/li&gt;
+	&lt;li class="ui-state-default"&gt;&lt;span class="ui-icon ui-icon-arrowthick-2-n-s"&gt;&lt;/span&gt;Item 7&lt;/li&gt;
+&lt;/ul&gt;
+</pre>
+<style type="text/css">
+	#sortable { list-style-type: none; margin: 0; padding: 0; width: 60%; }
+	#sortable li { margin: 0 3px 3px 3px; padding: 0.4em; padding-left: 1.5em; font-size: 1.4em; height: 18px; }
+	#sortable li span { position: absolute; margin-left: -1.3em; }
+</style>
+<script type="text/javascript">
+	$(function() {
+		$("#sortable").sortable();
+		$("#sortable").disableSelection();
+	});
+</script>
+
+<ul id="sortable">
+	<li class="ui-state-default"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>Item 1</li>
+	<li class="ui-state-default"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>Item 2</li>
+	<li class="ui-state-default"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>Item 3</li>
+	<li class="ui-state-default"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>Item 4</li>
+	<li class="ui-state-default"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>Item 5</li>
+	<li class="ui-state-default"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>Item 6</li>
+	<li class="ui-state-default"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>Item 7</li>
+</ul>
+<h2>可放入</h2>
+
+<pre>
+CSS:
+	#draggable { width: 100px; height: 100px; padding: 0.5em; float: left; margin: 10px 10px 10px 0; }
+	#droppable { width: 150px; height: 150px; padding: 0.5em; float: left; margin: 10px; }
+JS:
+	$(function() {
+		$("#draggable").draggable();
+		$("#droppable").droppable({
+			drop: function(event, ui) {
+				$(this).addClass('ui-state-highlight').find('p').html('Dropped!');
+			}
+		});
+
+	});
+HTML:
+    &lt;div id="draggable" class="ui-widget-content"&gt;
+    	&lt;p&gt;Drag me to my target&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div id="droppable" class="ui-widget-header"&gt;
+    	&lt;p&gt;Drop here&lt;/p&gt;
+    &lt;/div&gt;
+
+</pre>
+<style type="text/css">
+	#draggable { width: 100px; height: 100px; padding: 0.5em; float: left; margin: 10px 10px 10px 0; }
+	#droppable { width: 150px; height: 150px; padding: 0.5em; float: left; margin: 10px; }
+</style>
+<script type="text/javascript">
+	$(function() {
+		$("#draggable").draggable();
+		$("#droppable").droppable({
+			drop: function(event, ui) {
+				$(this).addClass('ui-state-highlight').find('p').html('Dropped!');
+			}
+		});
+
+	});
+</script>
+
+
+<div class="ui-helper-clearfix">
+<div id="draggable" class="ui-widget-content">
+	<p>Drag me to my target</p>
+</div>
+
+<div id="droppable" class="ui-widget-header">
+	<p>Drop here</p>
+</div>
+</div>
+<h2>对话框</h2>
+<pre>
+JS:
+    $.ui.dialog.defaults.bgiframe = true;$('#dialog').dialog()
+
+HTML:
+    &lt;div id="dialog" title="Basic dialog"&gt;
+    	&lt;p&gt;The dialog window can be moved, resized and closed with the 'x' icon.&lt;/p&gt;
+    &lt;/div&gt;
+</pre>
+<button onclick="$.ui.dialog.defaults.bgiframe = true;$('#dialog').dialog()">演示</button>
+
+<div id="dialog" title="Basic dialog">
+	<p>This is the default dialog which is useful for displaying information. The dialog window can be moved, resized and closed with the 'x' icon.</p>
+</div>
+
+
+<h2>滑动条</h2>
+<pre>
+&lt;div id="slider"&gt;&lt;/div&gt;
+&lt;script&gt;
+    $("#slider").slider({stop: function(event, ui) {alert(ui.value+"%")}});
+&lt;/script&gt;
+
+</pre>
+
+<div id="slider"></div>
+<script type="text/javascript">
+    $("#slider").slider({stop: function(event, ui) {alert(ui.value+"%")}});
+</script>
+
+
+<h2>选择日期</h2>
+<pre>
+&lt;p&gt;Date: &lt;input type="text" id="datepicker"&gt;&lt;/p&gt;
+&lt;script&gt;$("#datepicker").datepicker();&lt;/script&gt;
+</pre>
+
+<p>Date: <input type="text" id="datepicker"></p>
+<script>
+jQuery(function(a){a.datepicker.regional["zh-CN"]={closeText:"关闭",prevText:"&#x3c;上月",nextText:"下月&#x3e;",currentText:"今天",monthNames:["一月","二月","三月","四月","五月","六月","七月","八月","九月","十月","十一月","十二月"],monthNamesShort:["一","二","三","四","五","六","七","八","九","十","十一","十二"],dayNames:["星期日","星期一","星期二","星期三","星期四","星期五","星期六"],dayNamesShort:["周日","周一","周二","周三","周四","周五","周六"],dayNamesMin:["日","一","二","三","四","五","六"],dateFormat:"yy-mm-dd",firstDay:1,isRTL:false};a.datepicker.setDefaults(a.datepicker.regional["zh-CN"])});
+</script>
+
+<script>$("#datepicker").datepicker($.datepicker.regional['zh-CN']);</script>
+<h2>渐变效果</h2>
+<pre>
+&lt;style type="text/css"&gt;
+.toggler { width: 500px; height: 200px; position: relative;}
+#button { padding: .5em 1em; text-decoration: none; }
+#effect { width: 240px; height: 135px; padding: 0.4em; position: relative; }
+#effect h3 { margin: 0; padding: 0.4em; text-align: center; }
+.ui-effects-transfer { border: 2px dotted gray; } 
+&lt;/style&gt;
+&lt;div class="toggler"&gt;
+	&lt;div id="effect" class="ui-widget-content ui-corner-all"&gt;
+		&lt;h3 class="ui-widget-header ui-corner-all"&gt;Effect&lt;/h3&gt;
+		&lt;p&gt;
+			Etiam libero neque, luctus a, 
+		&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;a 
+onclick="$('#button').effect('transfer',{to: '#effect', className: 'ui-effects-transfer' },500);"
+id="button" class="ui-state-default ui-corner-all"&gt;
+Run Effect
+&lt;/a&gt;
+</pre>
+<style type="text/css">
+.toggler { width: 500px; height: 200px; position: relative;}
+#button { padding: .5em 1em; text-decoration: none; }
+#effect { width: 240px; height: 135px; padding: 0.4em; position: relative; }
+#effect h3 { margin: 0; padding: 0.4em; text-align: center; }
+.ui-effects-transfer { border: 2px dotted gray; } 
+</style>
+<div class="toggler">
+	<div id="effect" class="ui-widget-content ui-corner-all">
+		<h3 class="ui-widget-header ui-corner-all">Effect</h3>
+		<p>
+			Etiam libero neque, luctus a, 
+		</p>
+	</div>
+</div>
+<a onclick="$('#button').effect('transfer',{to: '#effect', className: 'ui-effects-transfer' },500);" id="button" class="ui-state-default ui-corner-all">Run Effect</a>
+
+<h2>与prototype混用</h2>
+<p>
+1. 包含方式
+</p>
+<p>
+&lt;script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"&gt;&lt;/script&gt;
+</p>
+<p>Juqery UI的地址是 http://ajax.googleapis.com/ajax/libs/jqueryui/1.5.3/jquery-ui.min.js</p>
+<p>
+放在prototype之前
+</p>
+<p>
+2. 使用方式，为了与prototype兼容，使用如下的方式编写
+</p>
+<pre>
+(function($){
+
+//这里写Jquery代码
+window.xxx=function(){
+//这样来定义全局函数
+}
+
+})(jQuery);
+</pre>
+
+<h2>firebug小技巧</h2>
+<p>console.info(xxx)可以用来观察对象</p>
+
+</div>
+
+</body>
+</html>
