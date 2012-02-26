@@ -192,6 +192,7 @@ div 的 布局
 #. :ref:`iconfinder 图标搜索引擎 <iconfinder>`
 #. :ref:`IEtester 测试各个版本的IE浏览器 <ietester>`
 #. :ref:`Scrapbook : 山寨别人页面的神器 <scrapbook>`
+#. :ref:`web developer : 标尺超级好用 <https://addons.mozilla.org/firefox/60/>`_
 
 CSS3
 ...........................................
