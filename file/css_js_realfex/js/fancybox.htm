@@ -1,0 +1,76 @@
+<meta charset="utf-8">
+<style>
+.content{
+width:550px;
+height:2000px;
+background:#f3f3f3;
+margin:0 auto;
+text-align:center;
+color:#d20;
+font-size:32px;
+padding-top:40px;
+}
+.click_a{
+font-size:16px;
+color:#02d;
+display:block;
+margin:48px auto;
+width:80px;
+}
+.pop_block{
+height:250px;
+background:#fff;
+padding:6px 12px;
+}
+.pop_text{
+color:#666;
+font-size:16px;
+margin-bottom:12px;
+}
+#say{
+padding:8px;
+width:300px;
+height:130px;
+border:1px solid #ccc;
+}
+.saybtn{
+width:90px;
+height:40px;
+background:#f9f9f9;
+border:1px solid #ccc;
+margin-top:16px;
+display:block;
+cursor:pointer;
+}
+
+
+</style>
+
+<script type="text/javascript" src="jquery-1.4.3.min.js"></script>
+<script type="text/javascript" src="jquery.fancybox-1.3.4.js"></script>
+<link href="jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css">
+
+<script>
+$(function(){
+	$('.click_a').click(function(){
+		var fancybox = $.fancybox, hint = $('<p class="hint"></p>')
+		fancybox({
+			content: '<div class="pop_block"><p class="pop_text">说点什么吧</p><textarea id="say"></textarea><button type="button" class="saybtn">完成</button></div>',
+			onComplete: function(){
+				$('.saybtn').click(function(){
+					$('.click_a').text('再来一次').after(hint);
+					hint.text($('#say').val())
+					fancybox.close()
+				})
+			},
+			'hideOnOverlayClick': false
+		})
+	})
+})
+
+</script>
+
+<div class="content">
+fancybox 演示
+	<a class="click_a" href="javascript:void(0)">点我弹框</a>
+</div>

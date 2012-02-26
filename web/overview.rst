@@ -1,7 +1,7 @@
 概述
 ==============================================
 
-本章作者 : 张沈鹏 `zuroc.42qu.com <http://zuroc.42qu.com>`_ 
+:作者: 张沈鹏 `zuroc.42qu.com <http://zuroc.42qu.com>`_  
 
 
 
@@ -133,6 +133,16 @@ Reset Css
 大布局
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+div 的 布局
+...........................................
+
+#. 居中 margin:auto 
+
+#. 左浮动 float:left
+
+#. 右浮动 float:right 
+
+
 
 栅格布局
 ...........................................
@@ -174,10 +184,77 @@ Reset Css
 #. :ref:`Firebug 查看对象的 css 盒模型 <firebug_box>`
 
 
+
 小工具
 ...........................................
 
-#.  :ref:`ColorMania : 屏幕取色 <color_mania>`
+#. :ref:`ColorMania : 屏幕取色 <color_mania>`
+#. :ref:`iconfinder 图标搜索引擎 <iconfinder>`
+#. :ref:`IEtester 测试各个版本的IE浏览器 <ietester>`
+#. :ref:`Scrapbook : 山寨别人页面的神器 <scrapbook>`
+
+CSS3
+...........................................
+
+系统学习
+
+    `CSS3 系列教程 <http://www.blueidea.com/tech/web/2009/6460.asp>`_ , 内容提要
+
+    #. 圆角
+    #. 阴影
+    #. 多背景图
+    #. 渐变色 `渐变色生成器 <http://gradients.glrzad.com/>`_
 
 
+实际运用
+    
+    CSS3渐变按钮 
+        
+        #. `演示 <http://static.csspod.com/demos/2010/css-buttons.html>`_ 
+        #. `教程 <http://csspod.com/archives/css3-gradient-buttons>`_
+
+
+实例学习 - 仿造 点名时间 写页面
+...........................................
+
+#. `页面原型 <http://42qu.github.com/book/file/css_js_realfex/demo>`_ 
+#. `一步一步仿写 <http://42qu.github.com/book/file/css_js_realfex/>`_
+
+如何自学 ?
+###########################################
+
+#. 首先 `点此打包下载 源代码 <https://github.com/42qu/book/zipball/master>`_
+
+#. 布局学习的目录是 /book/file/css_js_realfex/layout  
+
+#. 样式学习的目录是 /book/file/css_js_realfex/style
+
+#. `点此下载 Beyond Compare 3 <https://bitbucket.org/zuroc/42qu-school/downloads/bcompare-zh.zip>`_ , 对比每一步文件的差异学习 
+    .. image:: _image/bycompare.png
+
+#. 自己新开一个文件 , 对照页面尝试编写
+
+#. 可以使用 Firebug 查看每一步的细节样式
+
+
+
+Javascript
+------------------------------
+
+
+实例学习 - 仿造 点点网 写注册页面
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+#. `点点网 注册页面的原型 <http://diandian.com>`_ 
+#. `一步一步仿写Javascript <http://42qu.github.com/book/file/css_js_realfex/>`_
+
+
+Javascript 常用库
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#. `Jquery <http://jquery.com/>`_
+#. `imgareaselect图片剪裁 <http://odyniec.net/projects/imgareaselect/>`_
+#. `输入框默认值 <http://unwrongest.com/projects/defaultvalue/>`_ 
+#. `Highlight文字高亮 <http://unwrongest.com/projects/highlight/>`_
+#. `FancyBox弹出框 <http://fancybox.net/>`_ 
+#. `Poshy Tip jQuery Plugin 消息提示 <http://vadikom.com/demos/poshytip/>`_
 

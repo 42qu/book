@@ -1,0 +1,146 @@
+<meta charset="utf-8">
+<link href="reset.css" rel="stylesheet" type="text/css">
+
+<style>
+body{
+background:#f3f3f3; /*body背景颜色*/
+}
+.projects_off li{
+line-height:16px; /*li标签行高*/
+overflow:hidden; /*li标签溢出隐藏*/
+list-style-type:none; /*去掉li标签前符号*/
+}
+.projects_off{
+margin:0 auto; /*通过设定外边距让ul居中（此方法需指定明确块宽度）*/
+width:234px; /*ul宽度*/
+height:403px; /*ul高度*/
+padding:11px 0 0; /*ul内边距*/
+background:url(blockbg.gif) no-repeat 0 0 #fff; /*ul背景图片（图片url、重复方式、左偏移、上偏移、背景色）*/
+}
+.projects_off:hover{
+background:url(blockbg.gif) no-repeat 100% 0 #fff; /*鼠标移至ul上切换背景图*/
+}
+.list01{
+margin:0 0 0 7px; /*li外边距（上、右、下、左）*/
+width:210px; /*li标签宽度*/
+padding:0 5px; /*li标签内边距（上下、左右）*/
+}
+.list01 a{
+font-size:14px; /*a字体大小*/
+color:#669900; /*a字体颜色*/
+display:block; /*将a设为块级元素*/
+height:252px; /*a高度*/
+line-height:18px; /*a行高*/
+padding-left:4px; /*a左边距*/
+text-decoration:none; /*a文字样式：无*/
+}
+.list01 a:hover{
+color:#99cc00; /*鼠标移到a上文字变色*/
+}
+.list01 a img{
+display: block;
+height: 210px;
+margin-bottom: 6px;
+margin-left: -4px; /*img标签左负边距（向左移4px）*/
+text-align: center; /*内部内容居中*/
+width: 210px;
+}
+.list02, .list03{
+color: #616161;
+font-size: 12px;
+margin: 3px 7px 3px 6px;
+padding: 0 5px 0 9px;
+width: 206px;
+}
+.list02{
+height:16px;
+}
+.list03{
+height:48px;
+}
+.list02 a{
+color:#669900;
+text-decoration:none;
+}
+.list02 a:hover{
+color:#99cc00;
+}
+.list04{
+border-top: 1px solid #F2F2F2; /*li标签顶部边框（粗度、样式、颜色）*/
+height: 66px;
+margin: 8px 0 0 7px;
+line-height: 16px;
+padding: 0 5px;
+width: 210px;
+}
+.projectpledgedwrap{
+border-radius:4px; /*div边框弧度（实现圆角，为css3属性）*/
+height:8px;
+overflow:hidden;
+background:#D5D5D5;
+display: block;
+margin: 9px auto 6px;
+width: 204px;
+}
+.projectpledged{
+background:#87C442;
+width:2%;
+border-radius:4px;
+height:8px;
+}
+.projectstats{
+color: #999999;
+font-size: 12px;
+height: 40px;
+margin: 0 0 0 2px;
+overflow: hidden;
+width: 150%;
+}
+.projectstats p{
+display: inline; /*将p转为内联元素（不换行）*/
+float: left; /*将p设为左浮动 */
+font-family: arial,"lucida grande",tahoma,verdana,arial,sans-serif;
+overflow: hidden;
+text-align: left;
+white-space: nowrap; /*p里内容不换行 */
+}
+.widtha{
+margin-left: 1px;
+width: 53px;
+}
+.projectstats p strong{
+color: #666666;
+display: block;
+font-size: 14.5px;
+line-height: 16px;
+margin-bottom: 3px;
+}
+.widthb{
+margin-left: 4px;
+margin-right: 4px;
+width: 94px;
+}
+.widthc{
+width: 50px;
+}
+</style>
+
+<ul class="projects_off">
+	<li class="list01">
+		<a title="一个打造健康生活的梦想&mdash;&mdash;无上意识cue cup" href="/projects/297966">
+			<img src="http://www.demohour.com/upload/project_posters/files/000/000/495/thumb.jpg?1328086375">一个打造健康生活的梦想&mdash;&mdash;无上意识cue cup
+		</a>
+	</li>
+	<li class="list02"><a href="/992207">郭公兵</a> 发起于 广东佛山</li>
+	<li class="list03">我们是无上意识团队，我们渴望用好习惯理念为人们创造一种新的生活方式，我们希望通过开发与人们生活习惯密切相...</li>
+	<li class="list04">
+		<div class="projectpledgedwrap">
+			<div class="projectpledged"></div>
+		</div>
+		<div class="projectstats">
+			<p class="widtha"><strong>2%</strong>达到</p>
+			<p class="widthb"><strong><span><b>¥</b>299</span></strong>已获支持</p>
+			<p class="widthc"><strong>20天</strong>剩余时间</p>
+		</div>
+	</li>
+</ul>
