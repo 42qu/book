@@ -13,6 +13,8 @@ Don't panic ( 不要恐慌 )
    :maxdepth: 1
     
    web/index
+   linux/index
+   python/index
    tool/index
    42qu/index
    rst
