@@ -244,7 +244,7 @@ Javascript
 
 Jquery
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#. `当年张沈鹏写给美空的Jquery讲义 <http://42qu.github.com/book/file/jquery_moko/>`_
+#. `当年张沈鹏写给美空的Jquery讲义 <http://42qu.github.com/book/file/jquery/>`_
 #. `Jquery API 中文手册 , 很古董的版本 <http://42qu.github.com/book/file/jquery_moko/jquery_api>`_
 
 
