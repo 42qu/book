@@ -26,17 +26,12 @@ Xshell : 极好用的免费SSH客户端
 
 并确定，最后输入邮件中提供的密码，即可登录到自己的vps中。
 
-step1
 
-.. image::  _image/login1.png
+#. .. image::  _image/login1.png
 
-step2
+#. .. image::  _image/login2.png
 
-.. image::  _image/login2.png
-
-step3
-
-.. image::  _image/login3.png
+#. .. image::  _image/login3.png
 
 
 
@@ -53,9 +48,9 @@ step3
 
 如果觉得粗体看着碍眼, 那么可以修正下显示设置
 
-.. image::  _image/xshell_font_btn.png
+#. .. image::  _image/xshell_font_btn.png
 
-.. image::  _image/xshell_font.png
+#. .. image::  _image/xshell_font.png
 
 
 
