@@ -1,0 +1,138 @@
+2009-01-24 00:55:18 +0800
+* [attribute!=value] jQuery 1.3.1中意义恢复
+
+2009-01-21 20:23:38 +0800
+* #4 关于1.3版的日期 (感谢liushuang630)
+* #5 die()的标题误为toggle() (感谢dadao5.com)
+* queue([name],callback) queue([name],queue)少参数 (感谢Horatio)
+
+2009-01-19 00:00:10 +0800
++ offsetParent()
+* closest() 说明
+
+2009-01-18 16:06:52 +0800
+* triggerHandler 进一步说明
+* trigger 进一步说明
+
+2009-01-17 22:37:11 +0800
+* live() - 与bind()不同的是，live()一次只能绑定一个事件。
+* [attribute!=value] jQuery 1.3中意义改变
+* load 的data参数在jQuery 1.3中也可以接受String
++ ajax的error回调的第二个参数可能值"timeout", "error", "notmodified" 和 "parsererror"
++ ajax参数xhr
+* animate 的duration为0的问题
+* show, hide, toggle, slideDown, slideUp, slideToggle 在jQuery 1.3中，padding和margin也会有动画，效果更流畅。
+* jQuery(html,[ownerDocument])等效于$(document.createElement("span")
+* is支持复杂表达式
+
+2009-01-17 18:31:10 +0800
++ jQuery.support.scriptEval
++ 原 Dimension 插件功能（1.2.6版加入jQuery核心）
+
+2009-01-16 19:11:10 +0800
++ jQuery.fx.off
++ toggleClass( class, switch )
++ toggle( switch )
++ toggle(speed,[callback])
+* 修改queue和dequeue方法的参数和说明
+
+2009-01-15 22:31:02 +0800
+* jQuery(html,[ownerDocument])
++ jQuery.selector
++ jQuery.context
+* 效果下的queue和dequeue搬到核心下
++ live()
++ die()
++ closest()
+* stop( [clearQueue], [gotoEnd]) 增加两个参数
++ jQuery.support
++ jQuery.isArray( obj )
+
+2009-01-08 23:41:47 +0800
+* index()重复的“值值”
+
+2008-09-29 20:39:17 +0800
+* ajax 中参数dataType部分修正
++ ajax 中参数 beforeSend 如果返回false可以取消本次ajax请求。
+* ajax 中参数success参数修正
+
+2008-09-19 23:08:18 +0800
+* keydown->keypress->keyup
+
+2008-08-9 15:36:00 +0800
++ 补全 $.get,$.post 第四个参数 type
+
+2008-08-4 18:08:47 +0800
+* html()示例错误
+
+2008-08-1 01:35:58 +0800
+* 修正removeClass示例错误
+
+2008-07-31 17:12:28 +0800
+* resize/unload/select三处示例代码错误
+
+2008-07-30 23:49:35 +0800
+* nextAll翻译细微优化
+
+2008-07-27 23:26:19 +0800
+* :checked中翻译错误
+* :selected细微调整
+- :selected中重复示例代码
++ jQuery.ajax中增加dataFilter参数
+
+2008-06-21 04:16:54 +0800
+* pretend的第一个示例结果错误
+
+2008-06-19 19:52:29 +0800
+* insertBefore 和 insertAfter 示例说明翻译错误。
++ 事件>load 增加注释
+
+2008-06-18 00:05:15 +0800
++ $.ajax中新增3个参数，jsonp,password,scriptCharset
+
+2008-06-17 19:43:30 +0800
+* 核心>数据缓存> 第三部分应该 "removeDate(name)"
+* 修改date(name)里的代码注释一个小错误
+
+2008-06-11 19:26:37 +0800
+* toggle保持与官网同步
+
+2008-05-29 16:36:07 +0800
++ 核心 部分 数据缓存
++ 工具inArray函数
+* noConflict注释
+
+2008-05-27 22:48:24 +0800
++ 更新ajax部分的内容，与官网保持一致
+
+2008-05-27 20:39:03 +0800
+* 对scroll的示例代码错误的修正
+* 由$(document).scroll();到$(window).scroll();
+
+
+2008-04-22 21:35:44 +0800
+* 修改一下小index示例
+
+2008-04-19 13:14:10 +0800
+
+* 修正agp001提出的siblings的示例代码错误
+* 翻译$.get中漏翻的一句
+- 删除$.post的空示例
+
+2008-03-29 13:14:02 +0800
+全文替换1.1遗留下的@符号
+
+jQuery(callback)		未翻译的翻译一下
+slice(start,[end])		未翻译的翻译一下
+parent(expr)			例子中删除个body
+append(content)			C要
+css(name)			删除多余的<hr />
+unbind([type],[data])		代码注释翻译
+change(fn)			未翻译的翻译一下
+click(fn)			常用的事件->几个事件的顺序
+dblclick(fn)			未翻译的翻译一下
+focus()				未翻译的翻译一下
+scroll(fn			修正
+submit(fn)			select->submit
+toggle()			删除多余的<hr />
+stop()				代码注释翻译

@@ -1,0 +1,173 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-color: #000000;
+	color: #ffffff;
+	height: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.littletext {
+	font-size: 10px;
+}
+table {
+	display: none;
+}
+
+#topnav {
+	height:10px;
+	margin: 5px 10px;
+}
+.topnav {
+	float: right;
+	margin-left: 5px;
+	font-size: 12px;
+	color: #ffffff;
+}
+
+#header {
+	width: 728px;
+	height: 5px;
+	margin: 0px auto;
+}
+
+hr {
+	margin: 10px;
+}
+
+#foldandexpand {
+	position: relative;
+	left: 150px;
+	width: 400px;
+	height: 30px;
+	margin:10px 10px;
+}
+#foldandexpand button {
+	border:1px solid #595959;
+	margin: 0px 1px;
+}
+
+.mainmenu {
+	position: absolute;
+	left: 10px;
+	width: 140px;
+	color: #ffffff;
+}
+.menuitem, .categoryitem, .functionitem {
+	height: 30px;
+	overflow: hidden;
+	text-indent: 20px;
+	padding: 7px 5px;
+	margin-bottom: -14px;
+	cursor: pointer;
+}
+.selecteditem {
+	text-align: right;
+	font-weight: bold;
+	opacity: 0.7;
+	filter: alpha(opacity=70);
+}
+.menuitem {
+	background-image: url(img/menuitem.png);
+	background-repeat:no-repeat;
+}
+.menuitem:hover {
+	color:#FF9900;
+}
+.functionmenu {
+	position: absolute;
+	display: none;
+	left: 150px;
+	top: 0px;
+	cursor: pointer;
+	width: 221px;
+}
+.categoryitem {
+	background-image: url(img/categoryitem.png);
+	background-repeat:no-repeat;
+	font-weight: bold;
+}
+.category {
+	display: none;
+}
+.functionitem {
+	background-image: url(img/functionitem.png);
+	background-repeat:no-repeat;
+}
+.categoryitem:hover, .functionitem:hover {
+	color: #bbb;
+}
+
+.content {
+	position: absolute;
+	left: 231px;
+	top: 0px;
+	width: 350px;
+	display: none;
+	background-color: #48b;
+	padding: 10px 20px;
+	cursor: auto;
+}
+
+.content h1, .content h2, .content h3 {
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+.content h1 {
+	font-size: 14px;
+	border-bottom: 1px solid #cccccc;
+	padding-bottom: 2px;
+}
+.content h2 {
+	background-color: #226699;
+	margin-top: 10px;
+	padding: 3px;
+}
+.content h3 {
+	text-indent: 2em;
+	font-weight: bold;
+
+}
+.content p span {
+	font-weight: bold;
+}
+.content .desc {
+	text-indent: 2em;
+	font-size: 1.2em;
+	margin-bottom: 10px;
+}
+.content .desc .longdesc {
+	font-size: 0.9em;
+	margin-top: 10px;
+}
+p.indent {
+	text-indent: 2em;
+	margin-top: 10px;
+}
+div.code {
+	border: 1px solid #ffffff;
+	background-color: #226699;
+	word-wrap: break-word;
+	overflow: auto;
+	margin-top: 10px;
+	padding: 5px;
+}
+.content hr {
+	margin: 10px 0px 0px 0px;
+}
+
+.content a:link {
+	color:#FFF;
+}
+.content a:visited {
+	color:#DDD;
+}
+.content a:hover {
+	background-color:#fff;
+	color:#000;
+}
+.content a:active {
+	color:#DDD;
+}
