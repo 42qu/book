@@ -23,7 +23,7 @@
 
 #. http://linux-vbird.bluedata.org/ 适合初学者的阅读材料。你可以跳过前几章，从“首次开机和关机”开始阅读。
 
-#. http://wenku.baidu.com/view/d21cf78a6529647d27285212.html
+#. `Linux系统命令及其使用详解  <http://wenku.baidu.com/view/d21cf78a6529647d27285212.html>`_ 
 
 #. http://forum.ubuntu.org.cn/viewforum.php?f=21 Ubuntu 中文论坛的其它区也有质量较高的资源。
 
