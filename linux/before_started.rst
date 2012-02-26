@@ -3,13 +3,13 @@
 
 必读：
 
-# http://mirrors.tuna.tsinghua.edu.cn 阅读镜像列表中的描述。
+#. http://mirrors.tuna.tsinghua.edu.cn 阅读镜像列表中的描述。
 
 #. 在 VPS 上运行 `vimtutor` 。在上课前请熟悉 Lesson 1 到 Lesson 3 的内容，并泛读余下的内容。特别是能熟练地使用 `hjkl` 。
 
 #. 在 VPS 上运行 `man 1 intro` ，阅读。
 
-# http://wiki.tuna.tsinghua.edu.cn/Salon/2011-10-25 Cheer Xiao 在清华校内的一次技术沙龙。请下载它的 presentation 并阅读。如果你觉得看不懂，可以看过下面的一些泛读资料后再读。
+#. http://wiki.tuna.tsinghua.edu.cn/Salon/2011-10-25 Cheer Xiao 在清华校内的一次技术沙龙。请下载它的 presentation 并阅读。如果你觉得看不懂，可以看过下面的一些泛读资料后再读。
 
 泛读和参考之英文版：
 
