@@ -264,6 +264,7 @@ Javascript 常用库
 #. `Highlight文字高亮 <http://unwrongest.com/projects/highlight/>`_
 #. `FancyBox弹出框 <http://fancybox.net/>`_ 
 #. `Poshy Tip jQuery Plugin 消息提示 <http://vadikom.com/demos/poshytip/>`_
+#. `jquery tokeninput 标签 & 自动补全 <http://loopj.com/jquery-tokeninput/>`_
 
 Firebug
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
