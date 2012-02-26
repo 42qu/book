@@ -1,6 +1,12 @@
-虚拟主机使用说明
+SSH 登录 Linux服务器 流程说明
 ===========================================
 
+:作者: 陈庚 `huhuchen.42qu.com <http://huhuchen.42qu.com/>`_  
+
+Xshell : 极好用的免费SSH客户端 
+-------------------------------------------
+
+`点此下载 Xshell <https://bitbucket.org/zuroc/42qu-school/downloads/xshell_3.0.2.53.rar>`_
 
 
 创建session

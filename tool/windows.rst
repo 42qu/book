@@ -15,11 +15,6 @@ Launchy 可以使你快速的调用你电脑中的程序快捷方式，而且很
 http://www.launchy.net/
 
 
-Xshell : 极好用的免费SSH客户端 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-`点此下载 Xshell <https://bitbucket.org/zuroc/42qu-school/downloads/xshell_3.0.2.53.rar>`_
-
 .. _color_mania:
 
 ColorMania : 屏幕取色
