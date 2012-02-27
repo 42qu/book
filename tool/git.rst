@@ -4,6 +4,7 @@ Git
 #. `Git cheat sheets <http://help.github.com/git-cheat-sheets/>`_
 #. `Git 使用流程 <http://learn.github.com/p/normal.html>`_
 #. `《Pro Git》中文译文 <http://progit.org/book/zh/>`_
+#. `github用法指南 <http://www.worldhello.net/gotgithub/>`_
 #. `Git资料收集 <http://ishare.iask.sina.com.cn/f/20111841.html>`_
     #. 最好的git中文教程.pdf
     #. 使用git版本管理手册.docx
