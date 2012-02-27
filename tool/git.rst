@@ -21,4 +21,4 @@ Git
     #. Git_用户手册.docx
 
 #. `git-svn <http://techbase.kde.org/Development/Tutorials/Git/git-svn>`_
-
+#. `如何在Github上创建新项目 <http://help.github.com/create-a-repo/>`_
