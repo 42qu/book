@@ -5,7 +5,7 @@ Git
 #. `Git 使用流程 <http://learn.github.com/p/normal.html>`_
 #. `《Pro Git》中文译文 <http://progit.org/book/zh/>`_
 #. `github用法指南 <http://www.worldhello.net/gotgithub/>`_
-#. `Git资料收集 <http://ishare.iask.sina.com.cn/f/20111841.html>`_
+#. `Git资料收集 打包下载 <http://ishare.iask.sina.com.cn/f/20111841.html>`_ , 内容清单如下
     #. 最好的git中文教程.pdf
     #. 使用git版本管理手册.docx
     #. TortoiseGit使用入门.doc
