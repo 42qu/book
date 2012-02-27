@@ -16,16 +16,21 @@
 登录
 ------------------------------------------
 
-在随后弹出的弹窗中选择自己创建的帐号，点击“connect”，在弹出窗口中输入邮件中提供的用户名，新窗口中选择“keyboard Interactive”并确定，最后输入邮件中提供的密码，即可登录到自己的vps中。
+在随后弹出的弹窗中选择自己创建的帐号，点击“connect”，在弹出窗口中输入邮件中提供的用户名，新窗口中选择“keyboard Interactive”
+
+并确定，最后输入邮件中提供的密码，即可登录到自己的vps中。
+
+step1
 
 .. image::  _image/login1.png
-   :alt： 注册1
+
+step2
 
 .. image::  _image/login2.png
-   :alt： 注册2
+
+step3
 
 .. image::  _image/login3.png
-   :alt： 注册3
 
 
 
@@ -34,19 +39,19 @@ xshell配置
 
 简单设置一下xshell的字符显示，在下图所示的导航按钮中，勾选“UTF-8”。
 
+
 .. image::  _image/encoding.png
-   :alt： 注册3
 
 
 
 登录取消密码确认
 ---------------------------------------
 
-为避免每次登录vps都需要重复2中的步骤，可以在生成.ssh/authorized_keys来介绍麻烦。
+为避免每次登录vps都需要重复输入用户名和密码的步骤，可以在生成.ssh/authorized_keys来介绍麻烦。
 
-执行“cd ”命令，来到家目录；执行“ssh-keygen”命令；执行“cd  .ssh”进入.ssh目录；执行“cat id_rsa.pub >> authorized_keys”,将把当前目录下id_rsa.pub中的数
+执行“cd ”命令，来到家目录；执行“ssh-keygen”命令；执行“cd  .ssh”进入.ssh目录；执行“cat id_rsa.pub >> authorized_keys”,将把当前目录下id_rsa.pub中的数据拷
 
-据拷贝一份到新建的authorized_keys档案中。
+贝一份到新建的authorized_keys档案中。
 
 .. image:: _image/makekeys.png
 
@@ -63,9 +68,11 @@ xshell配置
 .. image::  _image/reset1.png
 
 做下图所示修改，点击“Browse”按钮。
+
 .. image::  _image/reset2.png
 
 点击import按钮，选择id_rsa，之后一路确定，再次登录是就可以不用再输入用户名和密码了。
+
 .. image::  _image/reset3.png
 
 
