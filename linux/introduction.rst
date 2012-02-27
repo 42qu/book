@@ -2,25 +2,30 @@
 ===========================================
 
 
-#.  安装好xshell后，打开软件，点击菜单栏“File”中的“new”,将出现下图所示弹窗，填写相应信息。其中Host为邮件中所给的主机ip地址（name栏可以不用修改，但一般为便于在xshell中区分不同的主机，自己一般会表示为“用户名@主机”，你也可以用“用户名@42qu”），然后点击“ok”。
+#.  安装好xshell后，打开软件，点击菜单栏“File”中的“new”,将出现下图所示弹窗，填写相应信息。其中Host为邮件中所给的主机ip地址（name栏可以不用修改，但一般为便于在xshell中区分不同的主机，自己一般会修改为“用户名@主机”，也可以用“用户名@42qu”），然后点击“ok”。
 
 .. image::  _image/register.png
    :alt:  首次登录
 
+
 #.  在随后弹出的弹窗中选择自己创建的帐号，点击“connect”，在弹出窗口中输入邮件中提供的用户名，新窗口中选择“keyboard Interactive”并确定，最后输入邮件中提供的密码，即可登录到自己的vps中。
 
 .. image::  _image/login1.png
-   :alt： 注册
+   :alt： 注册1
 
 .. image::  _image/login2.png
-
+   :alt： 注册2
 
 .. image::  _image/login3.png
+   :alt： 注册3
+
 
 
 #. 简单设置一下xshell的字符显示，在下图所示的导航按钮中，勾选“UTF-8”。
 
 .. image::  _image/encoding.png
+   :alt： 注册3
+
 
 #. 为避免每次登录vps都需要重复2中的步骤，可以在生成.ssh/authorized_keys来介绍麻烦。
 
