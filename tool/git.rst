@@ -2,6 +2,7 @@ Git
 ===================================================================
 
 #. `Git cheat sheets <http://help.github.com/git-cheat-sheets/>`_
+#. `Git 使用流程 <http://learn.github.com/p/normal.html>`_
 #. `《Pro Git》中文译文 <http://progit.org/book/zh/>`_
 #. `Git资料收集 <http://ishare.iask.sina.com.cn/f/20111841.html>`_
     #. 最好的git中文教程.pdf
@@ -22,3 +23,4 @@ Git
 
 #. `git-svn <http://techbase.kde.org/Development/Tutorials/Git/git-svn>`_
 #. `如何在Github上创建新项目 <http://help.github.com/create-a-repo/>`_
+
