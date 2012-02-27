@@ -1,11 +1,16 @@
 虚拟主机使用说明
 ===========================================
+
+
 #.  安装好xshell后，打开软件，点击菜单栏“File”中的“new”,将出现下图所示弹窗，填写相应信息。其中Host为邮件中所给的主机ip地址（name栏可以不用修改，但一般为便于在xshell中区分不同的主机，自己一般会表示为“用户名@主机”，你也可以用“用户名@42qu”），然后点击“ok”。
+
 .. image::  _image/register.png
+   :alt:  首次登录
 
 #.  在随后弹出的弹窗中选择自己创建的帐号，点击“connect”，在弹出窗口中输入邮件中提供的用户名，新窗口中选择“keyboard Interactive”并确定，最后输入邮件中提供的密码，即可登录到自己的vps中。
-.. image::  _image/login1.png
 
+.. image::  _image/login1.png
+   :alt： 注册
 
 .. image::  _image/login2.png
 
