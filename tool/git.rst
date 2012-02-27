@@ -20,10 +20,5 @@ Git
     #. Git+使用教程.pdf
     #. Git_用户手册.docx
 
-
-
-
-
-
-
+#. `git-svn <http://techbase.kde.org/Development/Tutorials/Git/git-svn>`_
 
