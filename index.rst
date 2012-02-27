@@ -15,7 +15,7 @@ Don't panic ( 不要恐慌 )
    web/index
    linux/index
    python/index
-   tool/index
+   tool/git
    42qu/index
    rst
    help
