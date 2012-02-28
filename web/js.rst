@@ -16,4 +16,4 @@ Javascript
     #. `Open Flash Chart <http://teethgrinder.co.uk/open-flash-chart/>`_
     #. `highcharts <http://www.highcharts.com/>`_
     #. `Morris.js <http://oesmith.github.com/morris.js/>`_
-
+    #. `Flot <http://code.google.com/p/flot/>`_
