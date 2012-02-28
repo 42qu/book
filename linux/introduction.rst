@@ -59,7 +59,29 @@ Xshell : 极好用的免费SSH客户端
 
 为避免每次登录vps都需要重复输入用户名和密码的步骤，可以通过生成.ssh/authorized_keys来减少麻烦。
 
-执行“cd ”命令，来到家目录；执行“ssh-keygen”命令；执行“cd  .ssh”进入.ssh目录；执行“cat id_rsa.pub >> authorized_keys”,将把当前目录下
+执行::
+
+    cd ~ 
+
+命令，来到home(家)目录
+
+执行::
+    
+    ssh-keygen
+
+命令
+
+执行::
+    
+    cd  .ssh
+
+进入.ssh目录
+
+执行::
+    
+    cat id_rsa.pub >> authorized_keys
+
+将把当前目录下
 
 id_rsa.pub中的数据拷贝一份到新建的authorized_keys档案中。
 
