@@ -111,11 +111,11 @@ id_rsa.pub中的数据拷贝一份到新建的authorized_keys档案中。
 克隆代码
 --------------------------------------------------
 
-重新登录后，便可以开始克隆 42qu.com的源代码了
+重新登录后，为了方便学习各种命令; 我们可以首先克隆一份 42qu.com 的源代码
 
 执行::
 
-    hg clone ssh://hg@bitbucket.org/zuroc/zpage
+    hg clone https://bitbucket.org/zuroc/zpage 
 
 之后就会在当前目录下生成新目录zpage，其中包括了项目的所有代码，如图所示。
 
