@@ -5,7 +5,7 @@
 .. _rst_tutorial: 
 
 ==========================
-|rsticon| 简明教程
+|rsticon| REST简明教程
 ==========================
 
 :作者: 刘斗 redfork@gmail.com
