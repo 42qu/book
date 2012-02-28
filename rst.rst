@@ -503,19 +503,19 @@ rST排版技巧
 ::
 
   .. _fig_0601:
-  .. figure:: _static/figs/taoc-6-1.png
+  .. figure:: _static/figs/magic-2.png
 
-     插图 6-1 神奇的5
+     插图 6-1 神奇的2
 
 
 然后,就可以在任意地方使用 :ref:`fig_0601` 来指代,
-实际输出的就是 "插图 2-4 简单电路图"
+实际输出的就是 "插图 6-1 神奇的2"
 
 
 .. _fig_0601:
-.. figure:: _static/figs/taoc-6-1.png
+.. figure:: _static/figs/magic-2.png
 
-   插图 6-1 神奇的5
+   插图 6-1 神奇的2
 
 
 
