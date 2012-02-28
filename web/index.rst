@@ -7,6 +7,6 @@
    book
    overview
    tool/index
+   js
    site
    blog
-
