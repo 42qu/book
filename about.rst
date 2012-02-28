@@ -8,9 +8,8 @@
 相关讨论请加入 `Google Groups <https://groups.google.com/group/42qu-school/>`_
 
 本文档使用 reStructuredText 编写 , 语法请参见
-:ref:`reStructuredText 简明教程 <rst_tutorial>`
 
-`基于结构化文本 reStructuredText 的图书工程 <http://readthedocs.org/docs/taoc-zh/en/latest/README.html>`_
+#. :ref:`reStructuredText 简明教程 <rst_tutorial>`
 
-以及
-`Quick reStructuredText <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_
+.. include:: rst_more.rst
+
