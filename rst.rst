@@ -467,6 +467,7 @@ CSV 表格生成:
      - 1.99
      - On a stick!
 
+<<<<<<< local
 
 
 rST排版技巧
@@ -581,29 +582,3 @@ E = mc\ :sup:`2`
 
 
 
-It's Boring!
------------------------
-
-是的, reStructuredText 很烦, 落后的, 倒退的. 计算机向人屈服还是人作计算机的奴隶? 为什么不 WYSWYG?
-
-确实很烦, 但非但落后, 反而很年轻. reStructuredText 大概出现于 2002 年, 比 word 年轻多了. 如果好用的 word 真的好用, 今天就没有人坐在这里了.
-
-计算机不是敌人, 是朋友, 朋友之间要相互照顾. 它并没有逼我们替它服务.
-
-
-.. seealso:: WYTIWYG
-    
-    - rST 的处世理念出于: 所想即所得 ~ 
-    - `WyTiWyG - Woodpecker Wiki for CPUG <http://wiki.woodpecker.org.cn/moin/WyTiWyG>`_
-
-One Size Fit All
-^^^^^^^^^^^^^^^^^^^^^^^    
-
-优点:
-
-  #. 只描述文章的结构, 无须指定格式.
-  #. 原始文档可读性强
-  #. 使用普通的文本文件, 非常方便保存历史和比较
-  #. 扩展性强, 易于融合实际的应用
-  #. 输出格式丰富: html, pdf, Open Document... One Size Fit All.
-  #. 易于管理大型文档. 不少书用 reStructuredText 编写
