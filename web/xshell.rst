@@ -9,5 +9,5 @@ xshell
 
 下载地址
 
-https://bitbucket.org/zuroc/42qu-school/downloads
+http://bitbucket.org/zuroc/42qu-school/downloads
 

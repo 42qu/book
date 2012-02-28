@@ -15,7 +15,7 @@
 
 #. http://www.ubuntupocketguide.com/download_main.html Ubuntu Pocket Guide. 提供在线 PDF 版本(Google Books) 和下载版本。阅读 Chapter 5。
 
-#. https://bitbucket.org/zuroc/42qu-school/downloads/Linux_Shell_Scripting_With_Bash_2004.pdf Linux Scripting with Bash. 全书都可以读。
+#. http://bitbucket.org/zuroc/42qu-school/downloads/Linux_Shell_Scripting_With_Bash_2004.pdf Linux Scripting with Bash. 全书都可以读。
 
 #. 在 Linux主机 上运行 ``pinfo coreutils`` 。 ``pinfo`` 使用方向键就能导航。
 

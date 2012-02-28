@@ -19,7 +19,7 @@ http://www.launchy.net/
 
 ColorMania : 屏幕取色
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-`点此下载 ColorMania <https://bitbucket.org/zuroc/42qu-school/downloads/color%E5%B1%8F%E5%B9%95%E5%8F%96%E8%89%B2.exe>`_
+`点此下载 ColorMania <http://bitbucket.org/zuroc/42qu-school/downloads/color%E5%B1%8F%E5%B9%95%E5%8F%96%E8%89%B2.exe>`_
 
 
 Everything : 文件名搜索软件, 其速度之快令人震惊 
@@ -56,7 +56,7 @@ EditPlus : 文本编辑器 , 写网页很方便
 Snagit : 截图软件
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`点此下载 Snagit <https://bitbucket.org/zuroc/42qu-school/downloads/SnagIt.zip>`_
+`点此下载 Snagit <http://bitbucket.org/zuroc/42qu-school/downloads/SnagIt.zip>`_
 
 基本介绍：
 
@@ -68,7 +68,7 @@ Snagit : 截图软件
 SftpDriver : 挂载SSH服务器到本地硬盘
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`点此下载 SftpDriver <https://bitbucket.org/zuroc/42qu-school/downloads/SftpDrive.rarSftpDrive.rar>`_
+`点此下载 SftpDriver <http://bitbucket.org/zuroc/42qu-school/downloads/SftpDrive.rarSftpDrive.rar>`_
 
 #. 基本介绍
 
@@ -100,7 +100,7 @@ http://www.my-debugbar.com/wiki/IETester/HomePage
 Beyond Compare : 对比文件的差异 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`点此下载 Beyond Compare 3 <https://bitbucket.org/zuroc/42qu-school/downloads/bcompare-zh.zip>`_
+`点此下载 Beyond Compare 3 <http://bitbucket.org/zuroc/42qu-school/downloads/bcompare-zh.zip>`_
 
  
 
