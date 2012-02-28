@@ -11,7 +11,9 @@ Javascript
 #. `FancyBox弹出框 <http://fancybox.net/>`_ 
 #. `Poshy Tip jQuery Plugin 消息提示 <http://vadikom.com/demos/poshytip/>`_
 #. `jquery tokeninput 标签 & 自动补全 <http://loopj.com/jquery-tokeninput/>`_
-#. `Open Flash Chart Flash的画图库 <http://teethgrinder.co.uk/open-flash-chart/>`_
-#. `highcharts 画图库(有收费的版本) <http://www.highcharts.com/>`_
-#. `Morris.js 用javascript画图的库 <http://oesmith.github.com/morris.js/>`_
+
+#. 图表库
+    #. `Open Flash Chart <http://teethgrinder.co.uk/open-flash-chart/>`_
+    #. `highcharts <http://www.highcharts.com/>`_
+    #. `Morris.js <http://oesmith.github.com/morris.js/>`_
 
