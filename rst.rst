@@ -467,7 +467,6 @@ CSV 表格生成:
      - 1.99
      - On a stick!
 
-<<<<<<< local
 
 
 rST排版技巧
