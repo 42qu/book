@@ -90,7 +90,7 @@ equery : 查看已安装的软件
 
    简写::
 
-        query b foo
+        equery b foo
 
 #. 查看哪些包依赖于package_name ::
 
