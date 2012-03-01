@@ -120,5 +120,25 @@ id_rsa.pub中的数据拷贝一份到新建的authorized_keys档案中。
 .. image::  _image/clone.png
 
    
+安装 virtualenv
+--------------------------------------------------
 
+首先运行 
+{{{
+virtualenv .
+}}}
 
+然后修改 /.bash_profile 如下 
+{{{
+[[ -f ~/.bashrc ]] && . ~/.bashrc
+export PATH=$HOME/bin:$HOME/sbin:$PATH:/usr/sbin:/sbin
+}}}
+
+退出ssh , 重新登录
+
+再运行
+{{{
+pip install setuptools --upgrad
+}}}
+
+然后就可以使用 pip 或者 easy_install 安装python的库了
