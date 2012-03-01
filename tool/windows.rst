@@ -102,6 +102,11 @@ Beyond Compare : 对比文件的差异
 
 `点此下载 Beyond Compare 3 <http://code.google.com/p/42qu-school/downloads/detail?name=bcompare-zh.zip&can=2&q=>`_
 
+
+MySQL GUI Tools 5.0 : MySQL 管理
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`点此下载 MySQL GUI Tools 5.0 <http://code.google.com/p/42qu-school/downloads/detail?name=MySQL%20GUI%20Tools%205.0.7z&can=2&q=>`_
  
 
 
