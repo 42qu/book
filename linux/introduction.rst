@@ -132,7 +132,7 @@ id_rsa.pub中的数据拷贝一份到新建的authorized_keys档案中。
     [[ -f ~/.bashrc ]] && . ~/.bashrc
     export PATH=$HOME/bin:$HOME/sbin:$PATH:/usr/sbin:/sbin
 
-退出ssh , 重新登录
+**退出ssh , 重新登录**
 
 再运行 ::
 
