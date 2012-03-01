@@ -6,7 +6,7 @@ Linux 最初是 Linus Torvalds 于 1991 年在大学写的操作系统。今天�
 Linux 是现今最成功的自由软件之一。
 
 .. toctree::
-    introduction 
+    xshell 
     before_started
     gentoo
 
