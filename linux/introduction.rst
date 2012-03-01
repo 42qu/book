@@ -115,7 +115,7 @@ id_rsa.pub中的数据拷贝一份到新建的authorized_keys档案中。
 
     hg clone https://bitbucket.org/zuroc/zpage 
 
-之后就会在当前目录下生成新目录zpage，其中包括了项目的所有代码，如图所示。
+等上十分钟 , 会在当前目录下生成新目录zpage，其中包括了项目的所有代码，如图所示。
 
 .. image::  _image/clone.png
 
