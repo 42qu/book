@@ -41,6 +41,11 @@ emerge : 安装软件
 
     emerge package_name
 
+#. 安装被mask的软件 (如firefox) ::
+
+    emerge -av --autounmask-write=www-client/firefox-bin-8.0
+
+
 #. 更新软件并更新它直接依赖的其它软件包 ::
 
     emerge -u package_name
