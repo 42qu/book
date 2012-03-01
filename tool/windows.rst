@@ -100,7 +100,7 @@ http://www.my-debugbar.com/wiki/IETester/HomePage
 Beyond Compare : 对比文件的差异 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`点此下载 Beyond Compare 3 <http://bitbucket.org/zuroc/42qu-school/downloads/bcompare-zh.zip>`_
+`点此下载 Beyond Compare 3 <http://code.google.com/p/42qu-school/downloads/detail?name=bcompare-zh.zip&can=2&q=>`_
 
  
 
