@@ -127,12 +127,14 @@ id_rsa.pub中的数据拷贝一份到新建的authorized_keys档案中。
 
     virtualenv .
 
-然后修改 /.bash_profile 如下 ::
+然后修改 ~/.bash_profile 如下 ::
 
     [[ -f ~/.bashrc ]] && . ~/.bashrc
     export PATH=$HOME/bin:$HOME/sbin:$PATH:/usr/sbin:/sbin
 
-**退出ssh , 重新登录**
+再运行 ::
+
+    source ~/.bash_profile 
 
 再运行 ::
 
