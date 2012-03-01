@@ -6,7 +6,9 @@ Gentoo 发行版
 
 eix : 搜索软件
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-速度比emerge -s 快很多，安装eix: emerge eix
+安装eix ::
+
+    emerge eix
 
 #. 软件包搜索（搜索名字）::
     
