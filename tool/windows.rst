@@ -68,7 +68,7 @@ Snagit : 截图软件
 SftpDriver : 挂载SSH服务器到本地硬盘
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`点此下载 SftpDriver <http://bitbucket.org/zuroc/42qu-school/downloads/SftpDrive.rarSftpDrive.rar>`_
+`点此下载 SftpDriver <http://code.google.com/p/42qu-school/downloads/detail?name=SftpDrive.rar&can=2&q=>`_
 
 #. 基本介绍
 
