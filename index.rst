@@ -18,6 +18,7 @@ Don't panic ( 不要恐慌 )
    python/index
    tool/index
    42qu/index
+   database/index
    rst
    help
    about 
