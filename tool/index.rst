@@ -4,4 +4,5 @@
 .. toctree::
    windows
    git
+   hg
 
