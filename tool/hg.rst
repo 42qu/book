@@ -22,7 +22,9 @@ Hg
 #. `Hg 小技巧 <http://hgtip.com>`_
 
 #. Hg & Git 口水战文章
+
    #. `Git 和 Hg 面对面 <http://www.worldhello.net/2011/03/10/2370.html>`_
+
    #. `Git 和 Hg 面對面之我見 - Willie Wu  <http://blog.pylabs.net/2011/03/got-gitd-git-hg.html>`_
 
 
