@@ -1,7 +1,6 @@
-标签 - 用户数
-标签%id - 用户 id list 
-用户%id - 标签 id list
+Redis
+========================
 
-标签 - 文章数
-文章%id - 标签 id list
-标签%id - 文章 id list
+预习材料 https://workflowy.com/shared/792fd0f1-03a4-9433-151a-48ab0145be1e/
+
+
