@@ -3,4 +3,4 @@
 
 .. toctree::
    redis
-
+   mysql
