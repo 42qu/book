@@ -68,13 +68,14 @@
   - 不需要多余的圆括号
   - if, while (nothing special)
   - for - 只有 generic for。模拟传统数值 for::
-    for i in range(n):
+
+      for i in range(n):
 
   - ``break``, ``continue``
   - 占位符 ``pass``
   - 再提 ``def``
 
-    + 默认参数、具名参数、变长参数表、变长具名参数表
+    + 默认参数、具名参数、变长参数表(``*argli``)、变长具名参数表(``**argdi``)
     + docstring ``__doc__``
 
   - 生成器(不对称协程, asymetric coroutine) ``yield`` 关键字
@@ -90,14 +91,14 @@
     + ``globals()`` 和 ``locals()``
     + ``global`` 关键字
 
-  - 控制结构不引入名字空间……demo
-  - 闭包
+  - 控制结构不引入内层名字空间……demo
+  - 闭包 (closure)
   - 变量的引用语义
 
     + 不可变对象(数值类型、str, tuple)
     + ``id()`` 内建函数
     + 小对象池
-    + dict 键值的限制； ``__hash__()``
+    + dict 的键须为不可变对象； ``hash`` 和 ``__hash__()``
 
 * 模块层次
 
@@ -140,6 +141,6 @@
   - 继承；根类型 object
   - 没有隐含的 init 传递
 
-    + 父类 ``__init__`` 的手工调用 (Explicit is better than implicit)
+    + 手工调用的父类 ``__init__`` (Explicit is better than implicit)
 
 
