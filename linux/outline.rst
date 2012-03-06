@@ -3,8 +3,9 @@
 
 * Unix - what defines Unix?
 
-  - 统一的名字空间 (一切皆文件, fd)
+  - 统一的名字空间
 
+    + 一切皆文件; file descriptor, fd
     + ``mount(1)``, devfs - udev(7)
     + 虽然在网络和 GUI 编程方便被背弃——BSD 风格套接字
 
