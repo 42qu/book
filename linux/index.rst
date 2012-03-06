@@ -10,7 +10,7 @@ Linux 是现今最成功的自由软件之一。
     before_started
     gentoo
     crontab
-    vim
+    outline
 ..
     distro
     posix_tools
