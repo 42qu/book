@@ -274,4 +274,5 @@ Part II
     
     * `学习python decorator模块  <http://hfeeqi.iteye.com/blog/71302>`_
 
+    张沈鹏 注:  请仔细阅读decorator模块的官方文档 , 里面演示了很多 python decorator 的常见应用场景
 
