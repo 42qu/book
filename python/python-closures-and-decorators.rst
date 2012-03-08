@@ -252,3 +252,20 @@ Part II
     ('Alice', 'Bob')
 
 就是这样。你现在会写装饰器了，也许你会用这些知识去写面向方面（aspect-oriented）的编程。加入 ``@cache``, ``@trace``, ``@throttle`` 都是微不足道的（在你添加 ``@cache`` 之前，一定要检查 ``functools`` ，如果你用的是 Python 3 的话！）
+
+
+
+拓展阅读 
+------------------------------------------------
+
+本部分由 张沈鹏 补充
+
+* `Understanding Python decorators <http://stackoverflow.com/questions/739654/understanding-python-decorators>`_
+
+* `可爱的 Python: Decorator 简化元编程 <http://www.ibm.com/developerworks/cn/linux/l-cpdecor.html>`_
+
+* `学习python decorator模块  <http://hfeeqi.iteye.com/blog/71302>`_
+
+    decorator模块是 Michele Simionato 为简化python的decorator的使用难度而开发的
+    使用它，您可以更加容易的使用decorator机制写出可读性、可维护性更好的代码
+
