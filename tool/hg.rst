@@ -5,6 +5,8 @@ Hg
 
 #. `Pythonic Hg使用  <http://code.google.com/p/kcpycamp/wiki/HgUsage>`_
 
+#. `hg(Mercurial)使用参考 <http://www.xwuxin.com/?p=1179>`_
+
 #. `了解分布式版本管理系统 <http://code.google.com/p/kcpycamp/wiki/AbtDvcs>`_
 
 #. `Mercurial CheatSheet <http://wiki.woodpecker.org.cn/moin/ZqCcHgCheatSheet>`_
@@ -20,6 +22,12 @@ Hg
 #. `Hg Svn <http://mercurial.selenic.com/wiki/HgSubversion>`_
 
 #. `Hg 小技巧 <http://hgtip.com>`_
+
+#. `ihgflow <https://bitbucket.org/yinwm/hgflow/wiki/Home>`_
+
+
+ 
+
 
 #. Hg & Git 口水战文章
 
