@@ -23,11 +23,7 @@ Hg
 
 #. `Hg 小技巧 <http://hgtip.com>`_
 
-#. `ihgflow <https://bitbucket.org/yinwm/hgflow/wiki/Home>`_
-
-
- 
-
+#. `hgflow <https://bitbucket.org/yinwm/hgflow/wiki/Home>`_
 
 #. Hg & Git 口水战文章
 
