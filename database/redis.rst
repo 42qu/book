@@ -1,7 +1,7 @@
 Redis
 ========================
 
-预习材料 
+参考资料
 -----------------------
 
 
@@ -12,5 +12,7 @@ Redis
 #. Redis 构建高性能的实时搜索 . 张沈鹏
     #. `笔记 <http://zuroc.42qu.com/10219109>`_ 
     #. `代码 <https://bitbucket.org/zuroc/zpage/src/fcd781c4cfa2/model/autocomplete.py>`_
+#. `开发笔记 (2) ：redis 数据库结构设计 (云风 for 网络游戏) <http://blog.codingnow.com/2011/11/dev_note_2.html>`_
+#. `Redis-Py <http://www.slideshare.net/sunilar0ra/redis-and-python-at-pycon2011>`_
 
 https://workflowy.com/shared/792fd0f1-03a4-9433-151a-48ab0145be1e/
