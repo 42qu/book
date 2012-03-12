@@ -5,7 +5,7 @@
 
 登录后请 `修改密码 并 补充个人的联系方式 (手机, QQ, Gtalk 等) <http://42qutk.sinaapp.com/my-editprofile.html>`_
 
-有任何产品上的想法 `<请在相应的产品下提交 http://42qutk.sinaapp.com/product-browse.html>_`
+有任何产品上的想法 `<请在相应的产品下提交 http://42qutk.sinaapp.com/product-browse.html>`_
 
 
 
