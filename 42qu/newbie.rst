@@ -66,9 +66,25 @@
 
 #. 到 `mailgun.net <http://mailgun.net/>`_ 注册一个免费的帐号   
 
-   .. image::  _image/newbie/mailgun.png
+    .. image::  _image/newbie/mailgun.png
+
+    编辑自己的配置文件 ::
+ 
+        vi ~/zpage/config/user/$USER.py
+
+    修改为刚刚注册的SMTP服务器
+
+    .. image::  _image/newbie/smtp.png
+
 
 #. 数据库管理的地址 http://e1sql.42qu.us/ , 用户名密码见邮件
+    
+    注意  : zpage 和 zpage_google 的共用的开发数据库 , 请不要乱动 
+
+    你可以创建自己的 zpage_xxx 数据库玩
+
+
+
 
 
 管理员 备忘 
