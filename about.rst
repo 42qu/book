@@ -12,6 +12,8 @@
 
 以及
 
+#. `Sphinx Project How-To <http://code.google.com/p/pymotwcn/wiki/SphinxprojectHowto>`_
+
 #. `基于结构化文本 reStructuredText 的图书工程 <http://readthedocs.org/docs/taoc-zh/en/latest/README.html>`_
 
 #. `Quick reStructuredText <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_
