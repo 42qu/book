@@ -4,5 +4,6 @@
 
 .. toctree::
 
+   newbie
    init_env_in_vmware
    workflow
