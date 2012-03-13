@@ -24,7 +24,7 @@ https://bitbucket.org/zuroc/zpage/issues/new
 注册开发域名
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-首先去 https://www.dnspod.cn/ 注册一个帐号 , 绑定邮件里面提到的域名
+去 https://www.dnspod.cn/ 注册一个帐号 , 绑定邮件里面提到的域名
 
 .. image::  _image/newbie/dnspod.png
 
