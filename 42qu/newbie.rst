@@ -67,11 +67,12 @@ ssh中 ::
 
     hg fetch 42qu
 
-
-
 来同步官方代码到自己的fork
 
-#. 到 `mailgun.net <http://mailgun.net/>`_ 注册一个免费的帐号   
+
+配置SMTP邮件服务器
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+到 `mailgun.net <http://mailgun.net/>`_ 注册一个免费的帐号   
 
     .. image::  _image/newbie/mailgun.png
 
@@ -87,17 +88,20 @@ ssh中 ::
 
     .. image::  _image/newbie/smtp_config.png
 
-#. 数据库管理的地址 http://e1sql.42qu.us/ , 用户名密码见邮件
-    
-    注意  : zpage 和 zpage_google 的共用的开发数据库 , 请不要乱动 
 
-    你可以创建自己的 zpage_xxx 数据库玩
+数据库
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+管理的地址 http://e1sql.42qu.us/ , 用户名密码见邮件
+
+注意  : zpage 和 zpage_google 的共用的开发数据库 , 请不要乱动 
+
+你可以创建自己的 zpage_xxx 数据库玩
 
 
 
 
-
-管理员 备忘 
+备忘 : 管理员 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 #. 开通开发人员的帐号
@@ -105,7 +109,7 @@ ssh中 ::
     #. 登录主机 e1 @ e1.42qu.us ::
 
         cd ~/zpage/misc/vps $ 
-        vi vps_new.py  
-
+        vi vps_new.py  #设置需要开通哪些帐号 
+        ./vsp_new.sh
 
 
