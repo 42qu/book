@@ -33,7 +33,7 @@
     .. image::  _image/newbie/bkssh.png
 
     
-#. 克隆代码库 :: 
+#. 克隆代码库 
    
     访问 https://bitbucket.org/repo/mine , 点击进入自己的项目
     
@@ -44,7 +44,21 @@
     .. image::  _image/newbie/hg_clone.png
     
 
+#. 加入42qu的官方项目到 hgrc
+
+   .. image::  _image/newbie/hg_clone.png
+
+   在 ~/zpage/.hg/hgrc 中加入 ::
+
+        42qu = ssh://hg@bitbucket.org/zuroc/zpage
+
+   以后就可以通过 ::
+
+        hg fetch 42qu
     
+   来同步官方代码到自己的fork
+
+
 
 
 管理员 备忘 
