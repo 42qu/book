@@ -60,11 +60,15 @@
 
         hg fetch 42qu
     
-   来同步官方代码到自己的fork
+   
 
-#.   
+来同步官方代码到自己的fork
 
-   .. image::  _image/newbie/hg_clone.png
+#. 到 `mailgun.net <http://mailgun.net/>`_ 注册一个免费的帐号   
+
+   .. image::  _image/newbie/mailgun.png
+
+#. 数据库管理的地址 http://e1sql.42qu.us/ , 用户名密码见邮件
 
 
 管理员 备忘 
