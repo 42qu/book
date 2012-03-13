@@ -7,7 +7,7 @@
 
 因为资源极度有限 , 此开发服务器仅对有能力贡献代码的开发者开放
 
-首先, 在bitbucket上创建一个 
+首先, 在 bitbucket 上提交 issue  
 
 https://bitbucket.org/zuroc/zpage/issues/new
 
