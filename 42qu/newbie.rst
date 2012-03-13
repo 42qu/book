@@ -91,7 +91,7 @@ ssh中 ::
 加入42qu的官方项目到 hgrc
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 
-.. image::  _image/newbie/hg_clone.png
+.. image::  _image/newbie/hg_rc.png
 
 在 ~/zpage/.hg/hgrc 中加入 ::
 
