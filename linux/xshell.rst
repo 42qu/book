@@ -1,6 +1,8 @@
 SSH 登录 Linux服务器 流程说明
 ===========================================
 
+.. _ssh_login:
+
 :作者: 陈庚 `huhuchen.42qu.com <http://huhuchen.42qu.com/>`_  
 
 Xshell : 极好用的免费SSH客户端 
@@ -69,7 +71,7 @@ Xshell : 极好用的免费SSH客户端
     
     ssh-keygen
 
-命令, 然后按两次回车
+命令 , 然后按两次回车, 生成密钥
 
 执行::
     
