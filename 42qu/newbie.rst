@@ -7,13 +7,25 @@
 
 邮件里面会给出你所分配到的开发域名
 
-我们首先要去 https://www.dnspod.cn/ 注册一个帐号 , 绑定邮件里面提到的域名
+首先去 https://www.dnspod.cn/ 注册一个帐号 , 绑定邮件里面提到的域名
 
 .. image::  _image/newbie/dnspod.png
 
+然后去 http://dot.tk/ 注册一个免费的顶级域名 (请先创建帐号, 然后注册)
+
+.. image::  _image/newbie/tk.png
+
+选择用自己的DNS服务器
+
+.. image::  _image/newbie/tk2.png
+
+把 dnspod 的 namesever 地址copy过来
 
 .. image::  _image/newbie/dnspod_nameserver.png
 
+最后在 dnspod 上 , 追加两个域名解析, 一个什么也不需要填 , 一个填写* , 都指向开发服务器的IP
+
+.. image::  _image/newbie/dns_set.png
 
 
 登录服务器 
