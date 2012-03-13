@@ -19,6 +19,7 @@ Don't panic ( 不要恐慌 )
    tool/index
    42qu/index
    database/index
+   mail/index
    rst
    help
    about 
