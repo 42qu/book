@@ -28,7 +28,7 @@
     
         cat ~/.ssh/id_rsa.pub
 
-    然后 , 复制粘贴
+    然后 , 复制粘贴 ( https://bitbucket.org/account/ssh-keys/ )
 
     .. image::  _image/newbie/bkssh.png
 
@@ -39,10 +39,14 @@
     
     .. image::  _image/newbie/hg_ssh.png
 
-    找到自己fork的项目ssh的地址 ( 注意不是https的地址 )
+    注意 , 不要用privite的项目 , 不然将来没法给官方项目提交自己的修改   
+    
+    找到自己fork的项目ssh的地址 ( 注意不是https的地址 ) , 然后clone
 
     .. image::  _image/newbie/hg_clone.png
-    
+
+    人生充满了等待  ...
+
 
 #. 加入42qu的官方项目到 hgrc
 
@@ -58,7 +62,9 @@
     
    来同步官方代码到自己的fork
 
+#.   
 
+   .. image::  _image/newbie/hg_clone.png
 
 
 管理员 备忘 
