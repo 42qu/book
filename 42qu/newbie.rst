@@ -113,6 +113,8 @@ ssh中 ::
 
 .. image::  _image/newbie/hg_clone.png
 
+请clone到自己home目录下的 zpage 文件夹 (不然会找不到静态文件)
+
 人生充满了等待  ...
 
 
