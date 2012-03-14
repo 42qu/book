@@ -217,6 +217,18 @@ ssh中 ::
 .. image::  _image/newbie/pull_request.png
 
 
+遇到问题怎么办 ?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+穿越火线后 , 加入 
+
+https://groups.google.com/group/42qu-school
+
+这个邮件列表  , 然后提问
+
+推荐用Gmail邮箱订阅
+
+提问前 , 请仔细阅读 `提问的智慧 <http://www.beiww.com/doc/oss/smart-questions.html#intro>`_
 
 
 管理员备忘  
