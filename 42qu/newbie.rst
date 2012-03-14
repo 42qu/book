@@ -67,9 +67,12 @@ https://bitbucket.org/zuroc/zpage/issues/new
 登录服务器 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-参阅  :ref:`SSH 登录 Linux服务器 流程说明 <ssh_login>` 
+参阅  :ref:`SSH 登录 Linux服务器 流程说明 <ssh_login>`  , 强烈向windows用户推荐文中提到 xshell ssh客户端
 
-注意 : ssh key 已经生成 , ssh-keygen 生成密钥 命令这一句可以跳过 
+注意 : 
+
+    #. ssh key 已经生成 , ssh-keygen 生成密钥 命令这一句可以跳过
+    #. virtualenv 也已经安装 
 
 登录后请 执行 passwd 命令 , 修改密码
 
