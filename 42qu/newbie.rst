@@ -21,9 +21,10 @@ https://bitbucket.org/zuroc/zpage/issues/new
 
     #. 在42qu.com的主页地址
 
-    #. 期望认领的任务
+    #. 期望认领的任务 
 
-        #. 你可以 `从 42qu.tk <http://42qutk.sinaapp.com/project-task-1-bySearch-myQueryID.html>`_ 认领尚未分配的任务
+        #. 任务是可以是现有任务 ,  从 `42qu.tk <http://42qutk.sinaapp.com/project-task-1-bySearch-myQueryID.html>`_ 认领未分配的任务 (请附上任务编号)
+
         #. 如果你有自己想追加的功能 , 请在issue中做详细说明 
 
 管理员确认后 , 你会收到一份邮件
