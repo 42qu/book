@@ -188,6 +188,12 @@ ssh中 ::
     .. image::  _image/newbie/smtp_config.png
 
 
+注意 , 因为用户名和密码都写到了配置文件里面 , 而这些是会在开源代码库中公开 , 所以请不要用私人邮箱的SMPT
+
+小贴士 :
+
+    Mailgun 是由美国著名的投资者/机构 Y Combinator, SV Angel, Yuri Milner, Maynard Webb, Paul Buchheit (Gmail 创始人之一), Geoff Ralson (Yahoo Mail 创始人) 等投资的一家新兴邮件发送服务提供商。
+
 数据库
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 
