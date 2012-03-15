@@ -95,6 +95,8 @@ https://bitbucket.org/zuroc/zpage/issues/new
 
 人生充满了等待  ...
 
+如果你的域名不幸被抢注了 , 那就随便注册一个吧 , 下文如何使用自定义域名的方法
+
 
 登录服务器 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -167,6 +169,7 @@ ssh中 ::
     hg fetch 42qu
 
 来同步官方代码到自己的fork
+
 
 
 配置SMTP邮件服务器
@@ -258,6 +261,19 @@ ssh中 ::
 然后, 如图
 
 .. image::  _image/newbie/pull_request.png
+
+
+.. _domain_is_reged:
+
+域名被抢注了怎么办
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+
+cd ~/zpage; rm static/.js_hash static/.css_hash ; python static/make.py
+
+然后安装上文的流程, 向官方代码库提交自己的改动 ; 请只包含配置文件的修改 ;
+
+标题为 : 自定义使用域名 
 
 
 遇到问题怎么办 ?
