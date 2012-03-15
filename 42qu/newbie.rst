@@ -23,11 +23,18 @@ https://bitbucket.org/zuroc/zpage/issues/new
 
     #. 期望认领的任务 
 
-        * 方式 1 :  从 `42qu.tk <http://42qu.tk/project-groupTask-1-assignedTo.html>`_ 认领未分配的任务 (请附上任务编号) 
+        * 方式 1 :  
+            
+            从 `42qu.tk <http://42qu.tk/project-groupTask-1-assignedTo.html>`_ 认领未分配的任务 (请附上任务编号) 
           
-          在任务被认领后, 我们将会给出更详尽的需求文档 :)
+            在任务被认领后, 我们将会给出更详尽的需求文档 :)
 
-        * 方式 2 : 如果你有自己想追加的功能 , 请在bitbucket的issue中做详细说明 
+        * 方式 2 : 
+            
+            如果你有自己想在42qu.com上实现的功能 
+
+            可以在bitbucket的issue中做详细说明 
+
 
 管理员确认后 , 你会收到一份邮件
 
