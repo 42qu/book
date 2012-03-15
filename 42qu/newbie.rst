@@ -265,15 +265,28 @@ ssh中 ::
 
 .. _domain_is_reged:
 
-域名被抢注了怎么办
+
+域名被抢注了怎么办 ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+如果你使用邮件里面的默认域名 , 可以无视这一节
 
+首先编辑配置文件 ::
 
-cd ~/zpage; rm static/.js_hash static/.css_hash ; python static/make.py
+    vi ~/zpage/config/user/$USER.py
 
-然后安装上文的流程, 向官方代码库提交自己的改动 ; 请只包含配置文件的修改 ;
+修改域名那一行为自己的域名 ::
 
-标题为 : 自定义使用域名 
+    o.SITE_DOMAIN = 'z11e1.tk' 
+
+然后重新生成静态文件的引用 ::
+
+    cd ~/zpage; rm static/.js_hash static/.css_hash ; python static/make.py
+
+接着参考上文, 向官方代码库提交自己的改动 ; 请只包含配置文件的修改 ;
+
+标题为 : 自定义使用域名 xxx.tk 
+
+等管理员确认, 合并, 并重新生成nginx配置文件后 , 就可以使用自己的域名了 :)
 
 
 遇到问题怎么办 ?
