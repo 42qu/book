@@ -83,7 +83,11 @@ https://bitbucket.org/zuroc/zpage/issues/new
 
 .. image::  _image/newbie/dnspod_nameserver.png
 
-最后在 dnspod 上 , 追加两个域名解析, 一个什么也不需要填 , 一个填写* , 都指向开发服务器的IP
+最后在 dnspod 上 , 追加两个域名解析, 一个什么也不需要填 , 一个填写* , 都指向开发服务器的IP ::
+    
+    e1.42qu.us
+
+    119.254.32.168
 
 .. image::  _image/newbie/dns_set.png
 
