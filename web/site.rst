@@ -27,6 +27,22 @@ CSS
 
 #. `siiimple 网站整体设计 <http://siiimple.com/>`_
 
+#. `awwwards 平面设计 <http://www.awwwards.com/>`_
+
+#. `One Page Love 单页面网站设计 <http://onepagelove.com/>`_
+
+#. `stylevault 设计创意 <http://www.stylevault.net/>`_
+
+#. `House of Buttons 按钮设计 <http://houseofbuttons.tumblr.com/>`_
+
+#. `CardNerd  名片设计 <http://www.cardnerd.com/>`_
+
+#. `Think Minimal 简约设计 <http://thinkminimal.net/>`_
+
+#. `Little Big Details 小物品设计 <http://littlebigdetails.com/>`_
+
+#. `Boxtuffs CSS3/PSD下载 <http://boxtuffs.com/>`_
+
 
 
 
