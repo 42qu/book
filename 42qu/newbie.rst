@@ -57,7 +57,7 @@ https://bitbucket.org/zuroc/zpage/issues/new
 
             可以在bitbucket的issue中做详细说明 
 
-然后申请加入42qu.com开发者的 Google Groups `my42 <https://groups.google.com/group/my42?hl=zh-cn>`_
+然后申请加入42qu.com开发者的 Google Groups `my42 <http://groups.google.com/group/my42?hl=zh-cn>`_
 
 申请理由为刚刚在bitbucket上创建的issue的链接地址
 
@@ -296,7 +296,7 @@ ping 一下开发测试的域名 , 看看ip是否已经指向了ssh服务器的I
 
 穿越火线后 , 加入 
 
-`my42 <https://groups.google.com/group/my42?hl=zh-cn>`_
+`my42 <http://groups.google.com/group/my42?hl=zh-cn>`_
 
 这个邮件列表  , 然后提问
 
