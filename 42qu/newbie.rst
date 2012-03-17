@@ -25,7 +25,6 @@
 欢迎参与, 前端, 美工, 程序员, 都可以! 
  
 
-
 申请开发权限
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -57,6 +56,10 @@ https://bitbucket.org/zuroc/zpage/issues/new
             如果你有自己想在42qu.com上实现的功能 
 
             可以在bitbucket的issue中做详细说明 
+
+然后申请加入42qu.com开发者的邮件列表 https://groups.google.com/group/my42?hl=zh-cn
+
+申请理由为刚刚在bitbucket上创建的issue的链接地址
 
 
 管理员确认后 , 你会收到一份邮件
