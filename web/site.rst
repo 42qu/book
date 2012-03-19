@@ -43,6 +43,7 @@ CSS
 
 #. `Boxtuffs CSS3/PSD下载 <http://boxtuffs.com/>`_
 
+#. `premiumpixels PSD下载 <http://www.premiumpixels.com/>`
 
 
 
