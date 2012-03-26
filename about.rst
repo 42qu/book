@@ -1,7 +1,7 @@
 关于我们
 =====================================================================
 
-::作者: 张沈鹏 `zuroc.42qu.com <http://zuroc.42qu.com>`_  
+:作者: 张沈鹏 `zuroc.42qu.com <http://zuroc.42qu.com>`_  
 
 
 相关群组
@@ -30,7 +30,7 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 在 `项目Github页面 github.com/42qu/book <https://github.com/42qu/book>`_ , 流程下图所示 
 
-.. image::  _image/download.png
+.. image::  _image/book_git.png
 
 如果不熟悉git, 和我一样是hg的用户, 可以用hg-git插件来克隆git项目 ( http://hg-git.github.com/ ) 
 

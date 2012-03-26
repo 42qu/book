@@ -6,5 +6,7 @@
 
    newbie
    reward
+   sae
    init_env_in_vmware
    workflow
+

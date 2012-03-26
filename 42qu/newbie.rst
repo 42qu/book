@@ -25,7 +25,6 @@
 欢迎参与, 前端, 美工, 程序员, 都可以! 
  
 
-
 申请开发权限
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -57,6 +56,10 @@ https://bitbucket.org/zuroc/zpage/issues/new
             如果你有自己想在42qu.com上实现的功能 
 
             可以在bitbucket的issue中做详细说明 
+
+然后申请加入42qu.com开发者的 Google Groups `my42 <http://groups.google.com/group/my42?hl=zh-cn>`_
+
+申请理由为刚刚在bitbucket上创建的issue的链接地址
 
 
 管理员确认后 , 你会收到一份邮件
@@ -220,7 +223,7 @@ ping 一下开发测试的域名 , 看看ip是否已经指向了ssh服务器的I
 
 如果没有生效 , 你可以去看场电影
 
-如果成功 , 就可以启动服务器了 ::
+如果成功 , 就可以启动服务器了 , 第一次启动需要压缩css和js , 会稍微慢点 ::
 
     cd ~/zpage
     ./restart.dev 
@@ -293,7 +296,7 @@ ping 一下开发测试的域名 , 看看ip是否已经指向了ssh服务器的I
 
 穿越火线后 , 加入 
 
-https://groups.google.com/group/42qu-school
+`my42 <http://groups.google.com/group/my42?hl=zh-cn>`_
 
 这个邮件列表  , 然后提问
 
