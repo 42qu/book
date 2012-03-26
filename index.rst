@@ -20,6 +20,7 @@ Don't panic ( 不要恐慌 )
    42qu/index
    database/index
    mail/index
+   gae/gtalk.rst
    rst
    help
    about 
