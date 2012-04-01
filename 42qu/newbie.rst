@@ -47,7 +47,7 @@ https://bitbucket.org/zuroc/zpage/issues/new
 
         * 方式 1 :  
             
-            从 `42qu.tk <http://42qu.tk/project-groupTask-1-assignedTo.html>`_ 认领未分配的任务 (请附上任务编号) 
+            从 `http://42qutk.sinaapp.com/project-task-1.html <http://42qutk.sinaapp.com/project-task-1.html>`_ 认领未分配的任务 (请附上任务编号) 
           
             在任务被认领后, 我们将会给出更详尽的需求文档 :)
 
