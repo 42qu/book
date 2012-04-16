@@ -15,6 +15,8 @@ CSS
     #. `同一个html结构的40种不同布局 <http://blog.html.it/layoutgala/>`_ 
 
 
+#. `加载中GIF生成 <http://preloaders.net/>`_
+
 市场
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     #. `国内浏览器份额 <http://tongji.baidu.com/data/browser>`_
