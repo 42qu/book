@@ -23,6 +23,7 @@ Don't panic ( 不要恐慌 )
    gae/gtalk.rst
    rst
    xen/index
+   thrift
    help
    about 
 
