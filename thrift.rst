@@ -14,7 +14,7 @@ Gentoo 安装方式 如下 ::
 
     emerge layman
     echo 'source /var/lib/layman/make.conf' >> /etc/make.conf
-    layman -sync
+    layman -S
     layman -a OSSDL
     eix-update
     emerge dev-libs/thrift
