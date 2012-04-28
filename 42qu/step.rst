@@ -19,17 +19,17 @@
     #. 创建分支 分支的命名规则为 zuroc_20110103_rss ( 开发者_日期_功能名 )
         #.　如果是开源的志愿者, 请先fork一份代码, 然后创建按照以上规则分支 
     #. 数据库 
-        ### 设计前请先阅读 [[http://goo.gl/hvvyu|表设计指南]] 和 [[https://workflowy.com/shared/45630b3c-ed68-333c-561c-b5fdf397a622/|42qu.com Mysql使用约定]]
-        ### 明确用到的表以及相应结构
-        ### 明确索引字段
-        ### 运行 zpage/misc/backup/backup_table.sh 备份表结构并push到版本控制
+        #. 设计前请先阅读 [[http://goo.gl/hvvyu|表设计指南]] 和 [[https://workflowy.com/shared/45630b3c-ed68-333c-561c-b5fdf397a622/|42qu.com Mysql使用约定]]
+        #. 明确用到的表以及相应结构
+        #. 明确索引字段
+        #. 运行 zpage/misc/backup/backup_table.sh 备份表结构并push到版本控制
     #. 设计函数接口
-        ### 函数命名参见 [[http://code.google.com/p/zhong-wiki/wiki/PEP8|PEP8]] 和 [[https://workflowy.com/shared/42fe19ec-dc32-e1bc-2fcf-011401eb1136/|42qu.com 命名规则]]
-            #### 缩近, 参数位置, =符号等等. 安装 zpage/linux/config.d/pythius 后可用 pydent . 排版当前目录下的所有python文件
-            #### 参考 vim 配置文件 ~/zpage/linux/conf.d/vimrc , 可以把 F12 映射为 排版当前文件 , F11映射为运行当前python文件
-    ## 创建分支
-    ## 开发后台代码
-    ## 向前端介绍任务(在workflow上创建以下标签, 并写清楚说明) [[https://workflowy.com/shared/f84e3041-4d7c-3439-0d9b-a48b93523df5/|演示网址]]
+        #. 函数命名参见 [[http://code.google.com/p/zhong-wiki/wiki/PEP8|PEP8]] 和 [[https://workflowy.com/shared/42fe19ec-dc32-e1bc-2fcf-011401eb1136/|42qu.com 命名规则]]
+            #. 缩近, 参数位置, =符号等等. 安装 zpage/linux/config.d/pythius 后可用 pydent . 排版当前目录下的所有python文件
+            #. 参考 vim 配置文件 ~/zpage/linux/conf.d/vimrc , 可以把 F12 映射为 排版当前文件 , F11映射为运行当前python文件
+    #. 创建分支
+    #. 开发后台代码
+    #. 向前端介绍任务(在workflow上创建以下标签, 并写清楚说明) [[https://workflowy.com/shared/f84e3041-4d7c-3439-0d9b-a48b93523df5/|演示网址]]
           *** 使用场景
               **** 网址
                    ***** 注意点
