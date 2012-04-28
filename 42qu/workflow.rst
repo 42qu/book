@@ -1,4 +1,4 @@
-工作流程 
+新人加入流程 
 =====================
 
 向管理员申请开通 `http://42qutk.sinaapp.com/project-task-1.html <http://42qutk.sinaapp.com/project-task-1.html>`_ 上的项目权限
