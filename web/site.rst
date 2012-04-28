@@ -17,6 +17,8 @@ CSS
 
 #. `加载中GIF生成 <http://preloaders.net/>`_
 
+#. `jpegmini JPG无损压缩 <http://www.jpegmini.com/>`_
+
 市场
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     #. `国内浏览器份额 <http://tongji.baidu.com/data/browser>`_
@@ -50,5 +52,5 @@ CSS
 
 #. `premiumpixels PSD下载 <http://www.premiumpixels.com/>`_
 
-
+#. `乌云高清壁纸 <http://www.wuyun.in>`_
 
