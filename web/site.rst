@@ -19,9 +19,11 @@ CSS
 
 #. `jpegmini JPG无损压缩 <http://www.jpegmini.com/>`_
 
-市场
+站长
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     #. `国内浏览器份额 <http://tongji.baidu.com/data/browser>`_
+    
+    #. `检测网站在各地的ping值 <http://ping.aizhan.com/>`_
 
 
 设计
