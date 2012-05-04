@@ -110,6 +110,8 @@ https://bitbucket.org/zuroc/zpage/issues/new
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 参阅  :ref:`SSH 登录 Linux服务器 流程说明 <ssh_login>`  , 强烈向windows用户推荐文中提到 xshell ssh客户端
+   
+SSH的端口是53002
 
 注意 : 
 
