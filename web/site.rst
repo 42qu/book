@@ -25,6 +25,10 @@ CSS
     
     #. `检测网站在各地的ping值 <http://ping.aizhan.com/>`_
 
+程序
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    #. `notepad.cc <https://notepad.cc>`_
+    #. `stypi在线代码编辑 <https://www.stypi.com>`_
 
 设计
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
