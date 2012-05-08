@@ -91,7 +91,7 @@ https://bitbucket.org/zuroc/zpage/issues/new
     
     * e1.42qu.us
 
-    * 119.254.32.166 
+    * 119.254.35.215 
 
 .. image::  _image/newbie/dns_set.png
 
