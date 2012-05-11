@@ -29,11 +29,11 @@
 
 笔试题目 : 
 
-    #.  fork 下面这个代码库 ( 注: fork流程参见 http://book.42qu.com/42qu/newbie.html#fork-zpage )
+    #.  fork 下面这个代码库 ( 注: fork流程参见 `这里 <http://book.42qu.com/42qu/newbie.html#fork-zpage>`_ )
     
          http://book.42qu.com/42qu/sae.html 
     
-         并在此基础上, 在SAE上实现 监控 新浪微博微话题 ( http://topic.weibo.com/?topnav=1 ) 的 所有频道的每日更新
+         并在此基础上, 在SAE上实现 监控  `新浪微博微话题 <http://topic.weibo.com/?topnav=1>`_ 的 所有频道的每日更新
 
          并将更新汇总为一份邮件 , 定期发送到制定邮箱
 
