@@ -46,7 +46,7 @@
 
 笔试题目:
 
-    请参考网站现有风格 , 设计42区手机版的个人主页 (如果会HTML , 欢迎用HTML来实现)
+    请参考网站现有风格和元素 , 设计42区手机版的个人主页 (如果会HTML , 欢迎用HTML来实现)
     
     说明 : Firefox的插件 `firemobilesimulator <https://addons.mozilla.org/en-US/firefox/addon/firemobilesimulator/>`_  可以用来模拟手机浏览的效果
 
