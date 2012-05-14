@@ -29,9 +29,7 @@ Don't panic ( 不要恐慌 )
 
 其他子项目 :
 
-    `十亿光年 . Tardis <http://tardis.42qu.com/>`_ :
-
-        无人驾照智能车        
+    `十亿光年 . Tardis <http://tardis.42qu.com/>`_ : 无人驾照智能车        
 
 ..
    linux/index
