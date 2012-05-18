@@ -10,6 +10,8 @@
     - `英文版 <http://docs.python.org/tutorial/>`_
 
 
+#. `The Hitchhiker’s Guide to Python! <http://docs.python-guide.org/>`_
+
 #. Python wiki 上的资源们：
 
    #. http://wiki.python.org/moin/BeginnersGuide
