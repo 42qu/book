@@ -15,7 +15,7 @@
     自己常用英文名字_日期_分支名称
 
 
-分支创建完成后建议先commit一次 , 方便将来查看这个分支的修改diff
+分支创建完成后建议先commit一次 , 方便将来查看这个分支的修改diff ::
 
     z32@e1 ~/zpage $ hg commit -m"fix"
     committed changeset 14277:8367ebf5b632
