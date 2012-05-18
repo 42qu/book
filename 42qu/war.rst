@@ -21,6 +21,19 @@
     committed changeset 14277:8367ebf5b632
 
 
+在 $HOME/.hgrc 中的[alias]小结下添加这一行 ::
+
+    bdiff = diff -r "max(ancestors('$1') and branch(default)):'$1'"
+
+然后可以通过::
+
+    hg bdiff zuroc_20120518_vps_ip
+
+来方便查看这个分支的改动了 :)
+
+
+实战案例
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. toctree::
 
