@@ -10,6 +10,7 @@
 代码diff : 
 
     z32@e1 ~/zpage $ hg bdiff zuroc_20120518_vps_ip | pastebin
+
     http://dpaste.de/Ya2hy/raw/
 
 页面 :
