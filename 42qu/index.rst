@@ -9,6 +9,7 @@
    sae
    init_env_in_vmware
    step
+   war
    workflow
    saas
    hr
