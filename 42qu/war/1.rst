@@ -1,12 +1,18 @@
 后台 : VPS 管理页面 可以按 机房 浏览 IP
 ==================================================================
 
-页面 :
-
-.. image:: _image/1/1.png
-
 网址 : http://god.42qu.com/vps/room/ip
 
 
 
+分支 : zuroc_20120518_vps_ip
 
+代码diff : 
+
+    z32@e1 ~/zpage $ hg bdiff zuroc_20120518_vps_ip | pastebin
+    http://dpaste.de/Ya2hy/raw/
+
+页面 :
+
+.. image:: _image/1/1.png
+.. image:: _image/1/2.png
