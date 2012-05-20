@@ -40,4 +40,5 @@
 .. toctree::
 
     war/1
+    war/2
 

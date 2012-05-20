@@ -1,0 +1,59 @@
+后台 : 图表统计 thrift 接口 & 数据保存 
+==================================================================
+
+演示 :
+
+线上服务器 , 执行如下命令 ::
+
+    work@potato ~/vps $ python server/model/plot.py
+ 
+输出如下 ::
+    print plot_point(PLOT_CID_VPS_NETFLOW_1MIN_HOST, 3, 1440, 1024*1024/8)
+    [11L, 10L, 8L, 12L, 11L, 10L, 11L, 10L, 11L, 8L, 10L, 8L, 9L, 13L, 13L, 10L, 12L, 10L, 13L, 7L, 8L, 7L, 9L, 8L, 8L, 10L, 6L, 6L, 9L, 12L, 9L, 8L, 7L, 7L, 12L, 10L, 8L, 12L, 11L, 13L, 12L, 9L, 9L, 11L, 12L, 9L, 9L, 10L, 12L, 14L, 8L, 8L, 11L, 14L, 9L, 9L, 9L, 13L, 14L, 11L, 15L, 11L, 14L, 10L, 13L, 11L, 11L, 15L, 7L, 7L, 14L, 10L, 10L, 15L, 11L, 18L, 12L, 14L, 12L, 11L, 10L, 11L, 16L, 9L, 10L, 10L, 11L, 9L, 12L, 13L, 15L, 14L, 13L, 10L, 10L, 10L, 12L, 10L, 11L, 9L, 9L, 11L, 9L, 12L, 14L, 15L, 14L, 20L, 14L, 16L, 14L, 12L, 13L, 16L, 12L, 15L, 12L, 16L, 18L, 13L, 16L, 15L, 15L, 12L, 15L, 20L, 13L, 18L, 18L, 9L, 11L, 13L, 11L, 11L, 8L, 8L, 6L, 8L, 12L, 12L, 11L, 10L, 10L, 10L, 10L, 11L, 8L, 11L, 11L, 8L, 7L, 10L, 11L, 13L, 9L, 6L, 7L, 7L, 8L, 8L, 10L, 10L, 9L, 5L, 7L, 10L, 5L, 8L, 9L, 7L, 7L, 9L, 7L, 9L, 8L, 9L, 8L, 10L, 7L, 8L, 11L, 8L, 11L, 11L, 11L, 7L, 10L, 7L, 6L, 7L, 7L, 6L, 4L, 9L, 7L, 9L, 11L, 6L, 8L, 8L, 6L, 9L, 9L, 10L, 9L, 7L, 9L, 8L, 9L, 12L]
+
+    plot_point(PLOT_CID_VPS_NETFLOW_1MIN_HOST, 2, 1440, 1024*1024/8)
+    [0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 1L, 0L, 1L, 0L, 0L, 0L, 1L, 0L, 0L, 1L, 0L, 0L, 0L, 1L, 0L, 1L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 1L, 1L, 1L, 0L, 0L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 0L, 1L, 1L, 1L, 0L, 0L, 0L, 1L, 1L, 1L, 1L, 0L, 1L, 0L, 0L, 0L, 1L, 1L, 0L, 0L, 0L, 0L, 1L, 0L, 1L, 1L, 0L, 1L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 1L, 1L, 0L, 1L, 1L, 1L, 1L, 0L, 0L, 0L, 0L, 1L, 1L, 1L, 1L, 1L, 1L, 0L, 0L, 0L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 1L, 1L, 1L, 1L, 0L, 0L, 0L, 0L, 1L, 1L, 0L, 0L, 1L, 0L, 0L, 1L, 0L, 0L, 1L, 0L, 0L, 1L, 1L, 1L, 1L, 1L]
+
+    print plot_point(PLOT_CID_VPS_NETFLOW_1MIN, 95, 1440, 1024*1024/8)
+    [8L, 6L, 5L, 8L, 8L, 7L, 7L, 7L, 7L, 4L, 6L, 5L, 6L, 9L, 9L, 7L, 7L, 8L, 10L, 5L, 6L, 5L, 5L, 5L, 5L, 7L, 4L, 4L, 6L, 8L, 6L, 6L, 5L, 6L, 9L, 8L, 7L, 9L, 8L, 9L, 6L, 7L, 8L, 9L, 9L, 6L, 7L, 7L, 9L, 8L, 7L, 7L, 7L, 12L, 6L, 8L, 7L, 10L, 9L, 9L, 12L, 8L, 8L, 8L, 8L, 8L, 7L, 8L, 5L, 5L, 11L, 8L, 8L, 11L, 8L, 10L, 8L, 10L, 10L, 8L, 7L, 8L, 11L, 7L, 8L, 7L, 6L, 7L, 8L, 7L, 8L, 11L, 10L, 8L, 7L, 9L, 10L, 7L, 8L, 7L, 8L, 10L, 9L, 11L, 11L, 9L, 7L, 9L, 8L, 8L, 8L, 8L, 10L, 13L, 10L, 12L, 8L, 8L, 11L, 8L, 6L, 9L, 9L, 8L, 11L, 12L, 7L, 10L, 12L, 8L, 10L, 12L, 10L, 10L, 8L, 8L, 6L, 7L, 12L, 11L, 10L, 9L, 9L, 9L, 10L, 11L, 8L, 10L, 11L, 7L, 6L, 10L, 11L, 11L, 8L, 5L, 6L, 6L, 8L, 7L, 9L, 9L, 8L, 4L, 6L, 9L, 4L, 7L, 9L, 6L, 7L, 9L, 6L, 8L, 8L, 8L, 7L, 10L, 7L, 7L, 10L, 8L, 10L, 10L, 10L, 6L, 9L, 7L, 6L, 6L, 6L, 6L, 4L, 7L, 6L, 9L, 10L, 5L, 7L, 7L, 6L, 8L, 9L, 9L, 8L, 6L, 8L, 8L, 8L, 11L]
+
+    print plot_point(PLOT_CID_VPS_NETFLOW_1MIN, 14, 1440, 1024*1024/8)
+    [2L, 2L, 3L, 3L, 3L, 2L, 3L, 2L, 3L, 3L, 3L, 2L, 2L, 3L, 3L, 2L, 4L, 1L, 3L, 1L, 2L, 2L, 3L, 2L, 3L, 2L, 1L, 1L, 1L, 3L, 2L, 2L, 1L, 1L, 2L, 1L, 0L, 2L, 3L, 3L, 5L, 1L, 0L, 1L, 2L, 2L, 2L, 2L, 2L, 5L, 1L, 0L, 4L, 2L, 2L, 0L, 1L, 2L, 5L, 2L, 3L, 2L, 5L, 1L, 4L, 3L, 4L, 6L, 1L, 2L, 2L, 2L, 2L, 3L, 3L, 8L, 3L, 3L, 1L, 2L, 2L, 3L, 4L, 2L, 1L, 2L, 4L, 2L, 3L, 6L, 7L, 3L, 2L, 1L, 2L, 0L, 1L, 2L, 2L, 2L, 1L, 1L, 0L, 0L, 2L, 6L, 6L, 10L, 5L, 8L, 5L, 3L, 2L, 3L, 1L, 2L, 3L, 7L, 7L, 5L, 8L, 5L, 5L, 3L, 3L, 7L, 5L, 7L, 6L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L]
+
+
+其中 plot_point 函数定义如下 ::
+
+    plot_point(cid, rid, limit, base=None):
+
+参数含义如下 :
+    
+    cid 是 category id 的缩写 , 代表 类型
+    
+    rid 是 relative id 的缩写 , 代表 相关id
+
+    limit 的 限制 取多少条
+
+    base 表示基数 , 比如 bytes 要换算成 Mbps , 那么 base 设置为 1024*1024/8
+
+
+仓库 :
+
+    https://github.com/42qu/vps
+
+代码 : 
+
+    git diff 8032c5d5468a608b8219b2d1051291bf017eca72|pastebin
+
+    http://dpaste.de/7mXMy/raw/
+
+备注 :
+
+    这是一个图表基础设施开发的第一步
+
+    提供api , 可以方便的创建一个图表 , 类似短网址, 可以方便的
+
+    a. 保存统计数据
+    b. 展示统计数据
+
+    其中 thrift 是 facebook 开源的一个rpc框架
+ 
