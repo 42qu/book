@@ -37,15 +37,6 @@
     base 表示基数 , 比如 bytes 要换算成 Mbps , 那么 base 设置为 1024*1024/8
 
 
-仓库 :
-
-    https://github.com/42qu/vps
-
-代码 : 
-
-    git diff 8032c5d5468a608b8219b2d1051291bf017eca72|pastebin
-
-    http://dpaste.de/7mXMy/raw/
 
 备注 :
 
@@ -57,4 +48,16 @@
     b. 展示统计数据
 
     其中 thrift 是 facebook 开源的一个rpc框架
+    
+    saas/ 目录下的python文件改动 是 修改 saas.thrift 后, thrift框架自动生成的代码 , 你可以忽略他们
  
+
+仓库 :
+
+    https://github.com/42qu/vps
+
+代码 : 
+
+    git diff 8032c5d5468a608b8219b2d1051291bf017eca72|pastebin
+
+    http://dpaste.de/7mXMy/raw/
