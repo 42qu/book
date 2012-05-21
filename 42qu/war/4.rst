@@ -1,0 +1,16 @@
+给 vps 管理页面右侧添加 返现链 模块 ( lnav )
+==================================================================
+
+作者 : `张沈鹏 <http://zuroc.42qu.com>`_ 
+
+演示 :
+
+    http://vps.42qu.com/me#!link
+
+    .. image:: _image/4/3.png
+ 
+
+代码 : 
+
+    hg bdiff zuroc_20120521_vps_reward|pastebin
+    http://dpaste.de/rqHUg/raw/
