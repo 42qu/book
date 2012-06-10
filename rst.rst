@@ -1,12 +1,10 @@
 .. include:: LINKS.rst
 
-.. |rsticon| image:: _static/rst.png
-
 .. _rst_tutorial: 
 
-==========================
-|rsticon| REST简明教程
-==========================
+==================================================
+reStructuredText简明教程
+==================================================
 
 :作者: 刘斗 redfork@gmail.com
 

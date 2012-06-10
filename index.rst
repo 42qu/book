@@ -22,6 +22,7 @@ Don't panic ( 不要恐慌 )
    mail/index
    gae/gtalk.rst
    rst
+   vps/index
    xen/index
    thrift
    help
