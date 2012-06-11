@@ -27,10 +27,7 @@ http://tardis.42qu.com/
 
 欢迎大家报名参加 , 报名链接
 
-    TODO 在 42qu发布一个这个活动  
-    切换到他的帐号发布 http://zoomquiet.42qu.com
-    http://wiki.woodpecker.org.cn/moin/BPUG/2012-06-17
-
+.............
 
 
 
@@ -136,10 +133,7 @@ http://t.42qu.com/shirt/10312550
 
    欢迎大家报名参加 , 报名链接
 
-    TODO 在 42qu发布一个这个活动  
-    切换到他的帐号发布 http://zoomquiet.42qu.com
-    http://wiki.woodpecker.org.cn/moin/BPUG/2012-06-17
-
+  .....
 
 最后的话
 ~~~~~~~~~~~~~~~~~~~~~~
