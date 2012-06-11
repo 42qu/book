@@ -32,7 +32,6 @@ http://tardis.42qu.com/
     http://wiki.woodpecker.org.cn/moin/BPUG/2012-06-17
 
 
-python 文化衫 开始预定 //新版设计
 
 
 设计投票
