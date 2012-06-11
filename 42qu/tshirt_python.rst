@@ -14,8 +14,7 @@ Python 让编程变得简单 。
 
 python在工业领域也有很多应用, 比如:
 
-    Google 工程师教你如何在七周打造自己的无人驾驶汽车 (基于python)
-    http://www.guao.hk/posts/learn-how-to-build-a-self-driving-car-in-7-weeks.html
+    `Google 工程师教你如何在七周打造自己的无人驾驶汽车 (基于python) <http://www.guao.hk/posts/learn-how-to-build-a-self-driving-car-in-7-weeks.html>`_
 
 我们(42qu.com)将在稍后发起一个基于python的无人驾驶汽车项目
 
@@ -142,8 +141,14 @@ http://t.42qu.com/shirt/10312550
     切换到他的帐号发布 http://zoomquiet.42qu.com
     http://wiki.woodpecker.org.cn/moin/BPUG/2012-06-17
 
+
+最后的话
 ~~~~~~~~~~~~~~~~~~~~~~
 
-欢迎在微博上 推荐 本文化衫 的 链接 (可以用提成链 , 生成链接网址如下  :)
+欢迎在您微博上 推荐 本文 的 链接 
+
+可以用提成链 , 生成链接网址如下  
+
+:)
 
 
