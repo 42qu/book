@@ -122,19 +122,25 @@ PS : 上次自己印刷了一款文化衫, 材料不好 ; 所以这次就打算�
 特别优惠
 ~~~~~~~~~~~~~~~~~~~~~~
 
-* 购买42qu VPS 中国区的 **1G以上内存** 并 **一次性年付** 的用户 , 将免费获赠一款python文化衫 ( 请购买后邮件 42qu.shirt@gmail.com , 并写明您的主机编号 )
-   
+* 购买42qu VPS 中国区的 **1G以上内存** 并 **一次性年付** 的用户 
+
+  将免费获赠一款python文化衫  ( 2012 . 6 . 12 - 28日 有效 )
+
   入口链接 : http://vps.42qu.com/by/zuroc 
 
   7线BGP机房  512M内存  月付仅99元 , 网站可以边备案 边上线 ; 
 
-  同时分享下关于我们VPS的故事 : http://www.vpsee.com/2012/06/introducing-42qu-vps/
+* 关于我们VPS的故事 : 
+
+    http://www.vpsee.com/2012/06/introducing-42qu-vps/
   
-  此外, 我还将在本次北京python用户聚会上分享以下主题
-  
-  42区 : 基于 Thrift + python , 编写 VPS 管理系统
-  
-  欢迎大家报名参加 , 报名链接 : http://0.42qu.com/10312744
+* 本次北京python用户聚会上分享以下主题 , 我将分享以下主题 :
+
+        42区 : 基于 Thrift + python , 编写 VPS 管理系统
+      
+  欢迎大家报名参加 , 报名链接 : 
+
+        http://0.42qu.com/10312744
 
 
 
@@ -148,5 +154,6 @@ PS : 上次自己印刷了一款文化衫, 材料不好 ; 所以这次就打算�
     http://0.42qu.com/feed#!shirt/reward
 
 
-人生苦短 , 我用python ^o^
+
+**人生苦短 , 我用python** ^o^
 
