@@ -25,10 +25,7 @@ http://tardis.42qu.com/
 
 此外, 我们将在本次北京python用户聚会上分享 关于此无人驾驶汽车项目的主题
 
-欢迎大家报名参加 , 报名链接
-
-.............
-
+欢迎大家报名参加 , 报名链接 : http://0.42qu.com/10312744
 
 
 设计投票
@@ -119,7 +116,7 @@ http://t.42qu.com/shirt/10312550
    
    生成链接网址如下 , 登录后可见 : 
 
-        htttp://0.z32e1.tk/feed#!shirt/reward
+        http://0.z32e1.tk/feed#!shirt/reward
 
  * 用顶级面料Pima棉 , 成本 55 元 (成本根据定做数浮动, 这是50件的价格)
 
@@ -138,13 +135,12 @@ http://t.42qu.com/shirt/10312550
 
   同时分享下关于我们VPS的故事 : http://www.vpsee.com/2012/06/introducing-42qu-vps/
   
-  此外, 我将在本次北京python用户聚会上分享以下主题
+  此外, 我还将在本次北京python用户聚会上分享以下主题
   
-  42区 : 基于 Thrift +python , 编写 VPS 管理系统
+  42区 : 基于 Thrift + python , 编写 VPS 管理系统
   
-  欢迎大家报名参加 , 报名链接
+  欢迎大家报名参加 , 报名链接 : http://0.42qu.com/10312744
 
-  .....
 
 
 最后的话
@@ -154,8 +150,8 @@ http://t.42qu.com/shirt/10312550
 
 也可以用提成链 , 生成链接网址如下 , 登录后可见 :
 
-    htttp://0.z32e1.tk/feed#!shirt/reward
+    http://0.z32e1.tk/feed#!shirt/reward
 
-:)
 
+人生苦短 , 我用python ^o^
 
