@@ -32,7 +32,7 @@ python在工业领域也有很多应用, 比如:
 
     http://imgur.com/a/WzJcA  
 
-图一 以 文化衫购买页面的为准 :
+图1 以 文化衫购买页面的为准 :
 
     http://t.42qu.com/shirt/10312929 
 
