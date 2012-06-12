@@ -18,14 +18,11 @@ python在工业领域也有很多应用, 比如:
 
 我们(42qu.com)将在稍后发起一个基于python的无人驾驶汽车项目
 
-http://tardis.42qu.com/
+欢迎加入此项目的google groups : http://groups.google.com/group/42qu-tardis?hl=zh-cn
 
+本次北京python用户聚会 , 我们将分享关于此无人驾驶汽车项目的主题
 
-欢迎加入此python的google groups : http://groups.google.com/group/42qu-tardis?hl=zh-cn
-
-此外, 我们将在本次北京python用户聚会上分享 关于此无人驾驶汽车项目的主题
-
-欢迎大家报名参加 , 报名链接 : http://0.42qu.com/10312744
+欢迎围观 , 报名链接 : http://0.42qu.com/10312744
 
 
 设计投票
@@ -47,8 +44,6 @@ http://tardis.42qu.com/
     3. 如果有臂章是用 纯色 (2.jpg) 还是用 黄色+蓝色 (3.jpg)
 
 3. 背面的python logo 是放在python文案的前面 (1.jpg) 还是 替代python的 o( 2.jpg ) 
-
-4. 你倾向于 1. 黑色 还是 2.白色 还是 3.都要 ?
 
 
 制作工艺
@@ -78,15 +73,15 @@ PS : 上次自己印刷了一款文化衫, 材料不好 ; 所以这次就打算�
 订购方式
 ~~~~~~~~~~~~~~~~~~~~~~
 
-为了避免不必要的库存浪费 , 我们采用先预定后生产的方式 , 订购链接如下
+为了避免不必要的库存浪费 , 我们采用先预定后生产的方式 , 订购链接如下:
 
-http://t.42qu.com/shirt/10312550
-
-预定多少就生产多少 , 不多生产 , 不留存货 ;
+    http://t.42qu.com/shirt/10312550
 
 将于6月底 , 交付工厂制作并发货 ;
 
-今年夏天计划就生产这么一次 ; 错过这次 , 就要等到明年夏天了
+将按照预定数生产 , 不留存货 ; 
+
+今年夏天计划就生产这一批 ; 错过这次 , 就要等到明年夏天了
 
 每件89元 , 开支说明如下 
 
@@ -116,9 +111,9 @@ http://t.42qu.com/shirt/10312550
    
    生成链接网址如下 , 登录后可见 : 
 
-        http://0.z32e1.tk/feed#!shirt/reward
+        http://0.42qu.com/feed#!shirt/reward
 
- * 用顶级面料Pima棉 , 成本 55 元 (成本根据定做数浮动, 这是50件的价格)
+ * Pima棉底料 + 印刷 , 成本 55 元 (成本根据定做数浮动, 这是50件的价格)
 
 *  剩余费用 为 小小的利润 , 此 利润将 用于 42qu.com 的开发 , 这是一个开源的python项目 http://book.42qu.com/42qu/newbie.html 
 
@@ -150,7 +145,7 @@ http://t.42qu.com/shirt/10312550
 
 也可以用提成链 , 生成链接网址如下 , 登录后可见 :
 
-    http://0.z32e1.tk/feed#!shirt/reward
+    http://0.42qu.com/feed#!shirt/reward
 
 
 人生苦短 , 我用python ^o^
