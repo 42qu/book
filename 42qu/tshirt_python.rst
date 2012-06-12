@@ -96,8 +96,8 @@ PS : 上次自己印刷了一款文化衫, 材料不好 ; 所以这次就打算�
  
  * 10% 分给本文化衫的设计师 
     
-    * 
-    * Riku Lu : http://riku.wowubuntu.com/pycon-china-2011-logo
+    * 陈立超 //文化衫整体设计
+    * `Riku Lu <http://riku.wowubuntu.com/pycon-china-2011-logo>`_ //提供 pycon china 2011 的 Logo 图案
 
     备注 :
 
