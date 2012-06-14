@@ -29,7 +29,7 @@ CSS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     #. `notepad.cc <https://notepad.cc>`_
     #. `stypi在线代码编辑 <https://www.stypi.com>`_
-
+    #. `http://thimbletest.org 在线网页编辑器 (学习网页开发) <http://thimbletest.org/en-US/editor>`_
 设计
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. _iconfinder:
