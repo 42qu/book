@@ -13,5 +13,5 @@
    saas
    hr
    tshirt_python
-   syllabus
+   python 
  
