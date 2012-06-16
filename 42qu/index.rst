@@ -12,4 +12,6 @@
    workflow
    saas
    hr
-   tshirt_python 
+   tshirt_python
+   syllabus
+ 
