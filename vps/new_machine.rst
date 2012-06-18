@@ -11,7 +11,6 @@
 
 配置网卡 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 进入目录 /etc/sysconfig/network-scripts 
 
 编辑或新建如下的3个文件
@@ -20,33 +19,42 @@
 
 ifcfg-eth0 
 ------------------------------------------
-DEVICE="eth0"
-HWADDR="00:25:90:66:3F:EE" #装完系统是什么就是什么, 不需要修改
-NM_CONTROLLED="yes"
-BOOTPROTO=none
-ONBOOT="yes"
-USERCTL=no
-BRIDGE=xenbr0
+
+编辑如下 ::
+
+    DEVICE="eth0"
+    HWADDR="00:25:90:66:3F:EE" #装完系统是什么就是什么, 不需要修改
+    NM_CONTROLLED="yes"
+    BOOTPROTO=none
+    ONBOOT="yes"
+    USERCTL=no
+    BRIDGE=xenbr0
 
 ifcfg-eth1 
 ------------------------------------------
-DEVICE="eth1"
-HWADDR="00:25:90:66:3F:EF" #装完系统是什么就是什么, 不需要修改
-NM_CONTROLLED="yes"
-ONBOOT="yes"
-BOOTPROTO=none
-IPADDR="10.10.2.8"
-NETMASK="255.255.255.0"
+
+编辑如下 ::
+
+    DEVICE="eth1"
+    HWADDR="00:25:90:66:3F:EF" #装完系统是什么就是什么, 不需要修改
+    NM_CONTROLLED="yes"
+    ONBOOT="yes"
+    BOOTPROTO=none
+    IPADDR="10.10.2.8"
+    NETMASK="255.255.255.0"
 
 ifcfg-xenbr0 
 ------------------------------------------
-DEVICE=xenbr0
-TYPE=bridge
-ONBOOT="yes"
-BOOTPROTO=none
-IPADDR="113.11.199.8"
-GATEWAY="113.11.199.1"
-NETMASK="255.255.255.0"
+
+编辑如下 ::
+
+    DEVICE=xenbr0
+    TYPE=bridge
+    ONBOOT="yes"
+    BOOTPROTO=none
+    IPADDR="113.11.199.8"
+    GATEWAY="113.11.199.1"
+    NETMASK="255.255.255.0"
 
 
 
@@ -106,16 +114,19 @@ IOH PCI-e Max Payload size: 256B
 Intel VT-d: enabled
 active state power management: enable
 
-===== IDE configuration =====
+IDE configuration 
+-------------------------------------------------- 
 
 Configure SATA#1 as IDE   (因为有pci的raide 卡)
 Hot plug : eanble
 
-===== PCI/ PnP ====
+PCI/ PnP 
+-------------------------------------------------- 
 clear NVRAM: no
 SR-IOV supported: enabled
 
-=== Advanced ACPI =====
+Advanced ACPI
+-------------------------------------------------- 
 ACPI aware O/S : yes
 ACPI version feature: ACPI v2
 ACPI APIC support: enabled
@@ -129,7 +140,8 @@ PCIE native support: enabled
 
 
 
-======参考 =======
+参考
+-------------------------------------------------- 
 hardware prefetch is not recommanded by oracle；
 有人说  c-state不稳定且降低性能；
 
