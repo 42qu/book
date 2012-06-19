@@ -77,6 +77,8 @@
     `42qu.vps@gmail.com <42qu.vps@gmail.com>`_
     联系。
 
+    机房另外收取50元备案手续费用。
+
     地址：北京市石景山区石景山路23号中础大厦2层220
 
     电话：010-68832184
@@ -151,4 +153,5 @@
    :glob:
    :maxdepth: 1
 
-   new_machine 
+   new_machine
+   zhanzhu
