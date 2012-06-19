@@ -36,14 +36,15 @@
 
 课前预习
 ................................................................
-#. linux 基础命令
-#. vim 
-    #. 练级手册
-    #. `openvim 在线学习 <http://openvim.com/tutorial.html>`_
-#. nginx 中文手册
+
 #. `支付宝购买godaddy域名实测 全程图文解说 <http://wenku.baidu.com/view/375927bdc77da26925c5b0a4.html>`_
-#. html
-    #. `thimbletest.org 在线编辑页面 <http://thimbletest.org/en-US/editor>`_
+#. Linux
+    #. `Linux 基础命令 <ftp://42qu/file-42qu@v0.ftp.upyun.com/学习材料/01.%20Hello,%20World!/Linux%20基础命令.pdf>`_
+#. vim 
+    #. `简明 Vim 练级手册 <ftp://42qu/file-42qu@v0.ftp.upyun.com/学习材料/01.%20Hello,%20World!/简明%20Vim%20练级攻略.docx>`_
+    #. `openvim 在线学习 <http://openvim.com/tutorial.html>`_
+#. nginx
+    #. `Nginx 常见应用技术指南 <ftp://42qu/file-42qu@v0.ftp.upyun.com/学习材料/01.%20Hello,%20World!/Nginx%20常见应用技术指南.pdf>`_ 
 
 扩展阅读
 ................................................................
@@ -53,7 +54,6 @@
 #. nginx
     #. `nginx 的多站点配置 <http://www.vpsee.com/2009/06/nginx-virtual-hosting-configuration/>`_
     #. `nginx 中文wiki <http://wiki.nginx.org/Chs>`_
-    #. `Nginx_常见应用技术指南 ` 
 
 
 02. 注册、登陆页面
@@ -62,6 +62,14 @@
 #. Firefox 开发插件介绍
 #. 注册、登陆页面
 #. 页面切换效果
+
+
+课前预习
+................................................................
+
+#. HTML 
+    #. `thimbletest.org 在线编辑页面 <http://thimbletest.org/en-US/editor>`_
+    #. `Codecademy <http://codecademy.com>`_
 
 03. Web 框架
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
