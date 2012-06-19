@@ -37,14 +37,14 @@
 课前预习
 ................................................................
 
-#. `支付宝购买 GoDaddy 域名全程图文解说 <ftp://42qu/file-42qu@v0.ftp.upyun.com/学习材料/01.%20Hello,%20World!/支付宝购买%20GoDaddy%20域名全程图文解说.pdf>`_
+#. `支付宝购买 GoDaddy 域名全程图文解说 <http://file-42qu.b0.upaiyun.com/学习材料/01.%20Hello,%20World!/支付宝购买%20GoDaddy%20域名全程图文解说.pdf>`_
 #. Linux
-    #. `Linux 基础命令 <ftp://42qu/file-42qu@v0.ftp.upyun.com/学习材料/01.%20Hello,%20World!/Linux%20基础命令.pdf>`_
+    #. `Linux 基础命令 <http://file-42qu.b0.upaiyun.com/学习材料/01.%20Hello,%20World!/Linux%20基础命令.pdf>`_
 #. vim 
-    #. `简明 Vim 练级手册 <ftp://42qu/file-42qu@v0.ftp.upyun.com/学习材料/01.%20Hello,%20World!/简明%20Vim%20练级攻略.docx>`_
+    #. `简明 Vim 练级手册 <http://file-42qu.b0.upaiyun.com/学习材料/01.%20Hello,%20World!/简明%20Vim%20练级攻略.docx>`_
     #. `openvim 在线学习 <http://openvim.com/tutorial.html>`_
 #. Nginx
-    #. `Nginx 常见应用技术指南 <ftp://42qu/file-42qu@v0.ftp.upyun.com/学习材料/01.%20Hello,%20World!/Nginx%20常见应用技术指南.pdf>`_ 
+    #. `Nginx 常见应用技术指南 <http://file-42qu.b0.upaiyun.com/学习材料/01.%20Hello,%20World!/Nginx%20常见应用技术指南.pdf>`_ 
 
 扩展阅读
 ................................................................
@@ -52,7 +52,7 @@
 #. Linux
     #. `Gentoo Linux 中文手册 <http://www.gentoo.org/doc/zh_cn/handbook/handbook-amd64.xml>`_
 #. vim
-    #. `Vim 用户手册 <ftp://42qu/file-42qu@v0.ftp.upyun.com/学习材料/01.%20Hello,%20World!/Vim%20用户手册.pdf>`_
+    #. `Vim 用户手册 <http://file-42qu.b0.upaiyun.com/学习材料/01.%20Hello,%20World!/Vim%20用户手册.pdf>`_
 #. Nginx
     #. `Nginx 的多站点配置 <http://www.vpsee.com/2009/06/nginx-virtual-hosting-configuration/>`_
     #. `Nginx 中文 wiki <http://wiki.nginx.org/Chs>`_
