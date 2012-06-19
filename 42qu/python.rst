@@ -102,11 +102,18 @@
 #. 配置 mailgun 发送激活邮件
 #. 使用 redis 的 BLPOP 把发送激活邮件改成异步的
 
+课堂资料
+................................................................
+
+#. redis
+    #. `redis 当 memcache 用 的 配置文件 演示 <https://raw.github.com/42qu/config/master/redis/redis.42qu.mc.conf>`_
+
 扩展阅读
 ................................................................
 
 #. redis
     #. `Redis配额文件中文详解 <https://github.com/42qu/MyTranslation/blob/master/translation/redis-2.4.conf>`_
+    #. `Redis资料汇总专题 <http://blog.nosqlfan.com/html/3537.html>`_
 
 06. 更多页面
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
