@@ -1,18 +1,18 @@
 ﻿Python 网站开发 .  2012 暑期零基础入门班
 ===============================================================
 
-课程共 16 天 ,  周一到周五, 限15人 , 费用约2500元
+课程共 16 天 ,  周一到周五, 限 15 人 , 费用约 2500 元
 
 报名详情见 : http://zuroc.42qu.com/10316417
 
 咨询邮箱 : 42qu.py@gmail.com 
 
 
-最终我们会做出一个类似 点点 , 新浪轻博客 , 人人小站 , 网易Lofter , Tumblr 的 轻博客网站
+最终我们会做出一个类似 点点 , 新浪轻博客 , 人人小站 , 网易 Lofter , Tumblr 的轻博客网站
 
 每节课都会有课后作业 , 并有专人负责答疑
 
-成绩优秀的学员我们将会向各大IT公司推荐实习
+成绩优秀的学员我们将会向各大 IT 公司推荐实习
 
 
 教学大纲草案如下 , 完善中 ...
@@ -38,23 +38,25 @@
 课前预习
 ................................................................
 
-#. `支付宝购买godaddy域名实测 全程图文解说 <http://wenku.baidu.com/view/375927bdc77da26925c5b0a4.html>`_
+#. `支付宝购买 GoDaddy 域名全程图文解说 <http://file-42qu.b0.upaiyun.com/学习材料/01.%20Hello,%20World!/支付宝购买%20GoDaddy%20域名全程图文解说.pdf>`_
 #. Linux
-    #. `Linux 基础命令 <ftp://42qu/file-42qu@v0.ftp.upyun.com/学习材料/01.%20Hello,%20World!/Linux%20基础命令.pdf>`_
+    #. `Linux 基础命令 <http://file-42qu.b0.upaiyun.com/学习材料/01.%20Hello,%20World!/Linux%20基础命令.pdf>`_
 #. vim 
-    #. `简明 Vim 练级手册 <ftp://42qu/file-42qu@v0.ftp.upyun.com/学习材料/01.%20Hello,%20World!/简明%20Vim%20练级攻略.docx>`_
+    #. `简明 Vim 练级手册 <http://file-42qu.b0.upaiyun.com/学习材料/01.%20Hello,%20World!/简明%20Vim%20练级攻略.docx>`_
     #. `openvim 在线学习 <http://openvim.com/tutorial.html>`_
-#. nginx
-    #. `Nginx 常见应用技术指南 <ftp://42qu/file-42qu@v0.ftp.upyun.com/学习材料/01.%20Hello,%20World!/Nginx%20常见应用技术指南.pdf>`_ 
+#. Nginx
+    #. `Nginx 常见应用技术指南 <http://file-42qu.b0.upaiyun.com/学习材料/01.%20Hello,%20World!/Nginx%20常见应用技术指南.pdf>`_ 
 
 扩展阅读
 ................................................................
 
-#. gentoo
+#. Linux
     #. `Gentoo Linux 中文手册 <http://www.gentoo.org/doc/zh_cn/handbook/handbook-amd64.xml>`_
-#. nginx
-    #. `nginx 的多站点配置 <http://www.vpsee.com/2009/06/nginx-virtual-hosting-configuration/>`_
-    #. `nginx 中文wiki <http://wiki.nginx.org/Chs>`_
+#. vim
+    #. `Vim 用户手册 <http://file-42qu.b0.upaiyun.com/学习材料/01.%20Hello,%20World!/Vim%20用户手册.pdf>`_
+#. Nginx
+    #. `Nginx 的多站点配置 <http://www.vpsee.com/2009/06/nginx-virtual-hosting-configuration/>`_
+    #. `Nginx 中文 wiki <http://wiki.nginx.org/Chs>`_
 
 
 02. 注册、登陆页面
@@ -68,7 +70,7 @@
 课前预习
 ................................................................
 
-#. HTML 
+#. HTML + CSS
     #. `thimbletest.org 在线编辑页面 <http://thimbletest.org/en-US/editor>`_
     #. `Codecademy <http://codecademy.com>`_
 
