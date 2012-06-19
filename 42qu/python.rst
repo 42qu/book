@@ -31,6 +31,35 @@
 #. 在开发机上安装配置 Nginx
 #. 创建 Hello World 页面并部署
 
+参考资料
+---------------------------------------------------------------
+
+注意事项
+................................................................
+#. 如果想上课的时候购买域名 , 请给支付宝帐号上预留70元
+
+课前预习
+................................................................
+#. linux 基础命令
+#. vim 
+    #. 练级手册
+    #. `openvim 在线学习 <http://openvim.com/tutorial.html>`_
+#. nginx 中文手册
+#. `支付宝购买godaddy域名实测 全程图文解说 <http://wenku.baidu.com/view/375927bdc77da26925c5b0a4.html>`_
+#. html
+    #. `thimbletest.org 在线编辑页面 <http://thimbletest.org/en-US/editor>`_
+
+扩展阅读
+................................................................
+
+#. gentoo
+    #. `Gentoo Linux 中文手册 <http://www.gentoo.org/doc/zh_cn/handbook/handbook-amd64.xml>`_
+#. nginx
+    #. `nginx 的多站点配置 <http://www.vpsee.com/2009/06/nginx-virtual-hosting-configuration/>`_
+    #. `nginx 中文wiki <http://wiki.nginx.org/Chs>`_
+    #. `Nginx_常见应用技术指南 ` 
+
+
 02. 注册、登陆页面
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
