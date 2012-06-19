@@ -43,17 +43,19 @@
 #. vim 
     #. `简明 Vim 练级手册 <ftp://42qu/file-42qu@v0.ftp.upyun.com/学习材料/01.%20Hello,%20World!/简明%20Vim%20练级攻略.docx>`_
     #. `openvim 在线学习 <http://openvim.com/tutorial.html>`_
-#. nginx
+#. Nginx
     #. `Nginx 常见应用技术指南 <ftp://42qu/file-42qu@v0.ftp.upyun.com/学习材料/01.%20Hello,%20World!/Nginx%20常见应用技术指南.pdf>`_ 
 
 扩展阅读
 ................................................................
 
-#. gentoo
+#. Linux
     #. `Gentoo Linux 中文手册 <http://www.gentoo.org/doc/zh_cn/handbook/handbook-amd64.xml>`_
-#. nginx
-    #. `nginx 的多站点配置 <http://www.vpsee.com/2009/06/nginx-virtual-hosting-configuration/>`_
-    #. `nginx 中文wiki <http://wiki.nginx.org/Chs>`_
+#. vim
+    #. `Vim 用户手册 <ftp://42qu/file-42qu@v0.ftp.upyun.com/学习材料/01.%20Hello,%20World!/Vim%20用户手册.pdf>`_
+#. Nginx
+    #. `Nginx 的多站点配置 <http://www.vpsee.com/2009/06/nginx-virtual-hosting-configuration/>`_
+    #. `Nginx 中文 wiki <http://wiki.nginx.org/Chs>`_
 
 
 02. 注册、登陆页面
@@ -67,7 +69,7 @@
 课前预习
 ................................................................
 
-#. HTML 
+#. HTML + CSS
     #. `thimbletest.org 在线编辑页面 <http://thimbletest.org/en-US/editor>`_
     #. `Codecademy <http://codecademy.com>`_
 
