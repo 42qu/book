@@ -7,7 +7,7 @@
 
 RSS底部链接文案建议如下
 
-    <a href="http:////vps.42qu.com">42qu.com VPS 提供空间支持</a>
+    <a href="http://vps.42qu.com">42qu.com VPS 提供空间支持</a>
 
 首页 & 文章页面右侧 的 样式可以参考 `VPS返现链接 <http://vps.42qu.com/me#!link>`_ 页面的标准样式 , 文案可以自行调整
 
