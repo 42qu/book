@@ -37,7 +37,7 @@
 课前预习
 ................................................................
 
-#. `支付宝购买godaddy域名实测 全程图文解说 <http://wenku.baidu.com/view/375927bdc77da26925c5b0a4.html>`_
+#. `支付宝购买 GoDaddy 域名全程图文解说 <ftp://42qu/file-42qu@v0.ftp.upyun.com/学习材料/01.%20Hello,%20World!/支付宝购买%20GoDaddy%20域名全程图文解说.pdf>`_
 #. Linux
     #. `Linux 基础命令 <ftp://42qu/file-42qu@v0.ftp.upyun.com/学习材料/01.%20Hello,%20World!/Linux%20基础命令.pdf>`_
 #. vim 
