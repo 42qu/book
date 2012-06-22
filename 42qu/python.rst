@@ -72,7 +72,7 @@
 ................................................................
 
 #. HTML + CSS
-    #. `thimbletest.org 在线编辑页面 <http://thimbletest.org/en-US/editor>`_
+    #. `thimbletest.org 在线编辑页面 <https://thimble.webmaker.org>`_
     #. `Codecademy <http://codecademy.com>`_
 
 03. Web 框架
